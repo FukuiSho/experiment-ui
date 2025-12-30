@@ -1,12 +1,10 @@
-import OpenAI from 'openai';
 import fs from 'fs';
 import path from 'path';
 
-// Initialize OpenAI client
-// Note: This requires OPENAI_API_KEY in .env.local
-const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY,
-});
+type OllamaEmbeddingResponse = {
+    embedding?: number[];
+    error?: string;
+};
 
 const VECTOR_STORE_PATH = path.join(process.cwd(), 'src', 'data', 'vector-store.json');
 
@@ -23,16 +21,43 @@ export interface VectorChunk {
 
 export async function generateEmbedding(text: string): Promise<number[]> {
     try {
-        console.log(`Generating embedding for text: "${text.substring(0, 20)}..." using key: ${process.env.OPENAI_API_KEY ? 'Set' : 'Not Set'}`);
+        const host = process.env.OLLAMA_HOST || 'http://127.0.0.1:11434';
+        const model = process.env.OLLAMA_EMBED_MODEL || 'nomic-embed-text';
+        const url = `${host.replace(/\/$/, '')}/api/embeddings`;
 
-        const response = await openai.embeddings.create({
-            model: "text-embedding-3-small",
-            input: text,
-            encoding_format: "float",
-        });
-        return response.data[0].embedding;
+        let res: Response;
+        try {
+            res = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ model, prompt: text }),
+            });
+        } catch (err: any) {
+            const cause = err?.cause;
+            const code = cause?.code || err?.code;
+            if (code === 'ECONNREFUSED' || code === 'ENOTFOUND') {
+                throw new Error(
+                    `Ollama Embeddingsへ接続できませんでした (${host}). Ollamaが起動しているか確認してください。` +
+                    `\n- 確認: http://127.0.0.1:11434/api/tags` +
+                    `\n- 別ホストなら OLLAMA_HOST を設定` +
+                    `\n- モデル未取得なら: ollama pull ${model}`
+                );
+            }
+            throw err;
+        }
+
+        if (!res.ok) {
+            const errorText = await res.text().catch(() => '');
+            throw new Error(`Ollama embeddings error: ${res.status} ${errorText}`);
+        }
+
+        const data = (await res.json()) as OllamaEmbeddingResponse;
+        if (!data.embedding || data.embedding.length === 0) {
+            throw new Error('Ollama embeddings returned empty embedding');
+        }
+        return data.embedding;
     } catch (error) {
-        console.error("OpenAI Embedding Error:", error);
+        console.error("Embedding Error:", error);
         throw error;
     }
 }

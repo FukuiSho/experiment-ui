@@ -24,6 +24,8 @@ export interface ExperimentData {
     sessions: {
         [key in ExperimentPhase]?: {
             messages: Message[];
+            startTime?: number;
+            endTime?: number;
             duration: number;
         };
     };

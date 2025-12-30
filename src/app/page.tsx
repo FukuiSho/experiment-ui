@@ -13,6 +13,9 @@ export default function Home() {
     sessions: {}
   });
 
+  const sessionStartRef = React.useRef<{ phase: ExperimentPhase; startTime: number } | null>(null);
+  const dataRef = React.useRef<ExperimentData>(data);
+
   useEffect(() => {
     setMounted(true);
     // Randomize condition on client-side mount
@@ -21,21 +24,49 @@ export default function Home() {
     console.log(`Experiment Condition Assigned: ${condition}`);
   }, []);
 
+  useEffect(() => {
+    dataRef.current = data;
+  }, [data]);
+
+  useEffect(() => {
+    if (phase.startsWith('SESSION_')) {
+      // Track the first time we enter this session phase.
+      if (!sessionStartRef.current || sessionStartRef.current.phase !== phase) {
+        sessionStartRef.current = { phase, startTime: Date.now() };
+      }
+    } else {
+      sessionStartRef.current = null;
+    }
+  }, [phase]);
+
   const handlePhaseComplete = (phaseData?: any) => { // eslint-disable-line @typescript-eslint/no-explicit-any
     const currentPhaseIndex = EXPERIMENT_PHASES.indexOf(phase);
 
     // Save data from current phase
     if (phase.startsWith('SESSION_') && phaseData?.messages) {
+      const endTime = Date.now();
+      const startTimeFromRef = sessionStartRef.current?.phase === phase ? sessionStartRef.current.startTime : undefined;
+      const startTimeFromMessages = Array.isArray(phaseData.messages) && phaseData.messages.length > 0
+        ? Math.min(...phaseData.messages.map((m: any) => (typeof m?.timestamp === 'number' ? m.timestamp : endTime)))
+        : undefined;
+      const startTime = startTimeFromRef ?? startTimeFromMessages ?? endTime;
+      const duration = Math.max(0, endTime - startTime);
+
       setData(prev => ({
         ...prev,
         sessions: {
           ...prev.sessions,
           [phase]: {
             messages: phaseData.messages,
-            duration: 0 // TODO: Calculate duration
+            startTime,
+            endTime,
+            duration
           }
         }
       }));
+
+      // Clear timing for safety; next session will re-init.
+      sessionStartRef.current = null;
     } else if (phase === 'EVALUATION' && phaseData) {
       setData(prev => ({
         ...prev,
@@ -48,13 +79,20 @@ export default function Home() {
 
     // Move to next phase
     if (currentPhaseIndex < EXPERIMENT_PHASES.length - 1) {
-      setPhase(EXPERIMENT_PHASES[currentPhaseIndex + 1]);
+      const nextPhase = EXPERIMENT_PHASES[currentPhaseIndex + 1];
+
+      // Pre-seed timing for the next session phase synchronously.
+      if (nextPhase.startsWith('SESSION_')) {
+        sessionStartRef.current = { phase: nextPhase, startTime: Date.now() };
+      }
+
+      setPhase(nextPhase);
     }
   };
 
   const handleDownload = () => {
     const finalData = {
-      ...data,
+      ...dataRef.current,
       endTime: Date.now()
     };
     const blob = new Blob([JSON.stringify(finalData, null, 2)], { type: 'application/json' });

@@ -1,6 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the experiment UI for the graduation research project.
+
+It is designed to run **locally with Ollama** for both chat and RAG embeddings.
 
 ## Getting Started
+
+### 0) Prerequisites
+
+- Install Ollama (Windows): https://ollama.com/
+- Ensure the server is running and accessible at `http://127.0.0.1:11434` (default)
+
+Pull models (example):
+
+```powershell
+ollama pull gemma3:1b
+ollama pull nomic-embed-text
+```
+
+Set environment variables (PowerShell example):
+
+```powershell
+$env:OLLAMA_HOST = 'http://127.0.0.1:11434'
+$env:OLLAMA_CHAT_MODEL = 'gemma3:1b'
+$env:OLLAMA_EMBED_MODEL = 'nomic-embed-text'
+```
 
 First, run the development server:
 
@@ -15,6 +37,13 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### RAG (P condition) quick check
+
+1) Generate/save `src/data/limitless-knowledge.md` via `/limitless-test`
+2) Build the vector store via `/rag-test` → "Run Ingestion"
+3) In `/rag-test`, keep "P条件（RAG検索）で実行" enabled and send a message
+	- Confirm `retrieved_context` is non-empty when the vector store matches
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 

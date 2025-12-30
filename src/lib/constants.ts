@@ -1,10 +1,7 @@
-export const CLONE_AI_CONFIG = {
-    model: "gpt-4o-mini",
+export const OLLAMA_CHAT_CONFIG = {
     temperature: 1.41,
     top_p: 0.9,
-    presence_penalty: 0.76,
-    frequency_penalty: 0.6,
-    max_tokens: 1000,
+    num_predict: 1000,
 };
 
 export const SYSTEM_PROMPT = `あなたは福井聖です。日本語で答えてください。応答は短めに会話口調でお願いします。

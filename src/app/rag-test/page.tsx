@@ -7,6 +7,7 @@ export default function RagTestPage() {
     const [chatInput, setChatInput] = useState('');
     const [chatResponse, setChatResponse] = useState<any>(null);
     const [loading, setLoading] = useState(false);
+    const [usePersonalized, setUsePersonalized] = useState(true);
 
     const runIngest = async () => {
         setLoading(true);
@@ -30,7 +31,10 @@ export default function RagTestPage() {
             const res = await fetch('/api/chat', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ message: chatInput }),
+                body: JSON.stringify({
+                    message: chatInput,
+                    condition: usePersonalized ? 'P' : 'G',
+                }),
             });
             const json = await res.json();
             setChatResponse(json);
@@ -96,6 +100,15 @@ export default function RagTestPage() {
                 {/* Chat Section */}
                 <div className="bg-white p-6 rounded-xl shadow-sm">
                     <h2 className="text-xl font-bold mb-4">3. Chat Verification</h2>
+                    <label className="flex items-center gap-2 text-sm text-gray-700 mb-3 select-none">
+                        <input
+                            type="checkbox"
+                            checked={usePersonalized}
+                            onChange={(e) => setUsePersonalized(e.target.checked)}
+                            disabled={loading}
+                        />
+                        P条件（RAG検索）で実行
+                    </label>
                     <div className="flex gap-2 mb-4">
                         <input
                             type="text"

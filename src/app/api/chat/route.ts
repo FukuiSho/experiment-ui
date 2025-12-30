@@ -1,11 +1,66 @@
 import { NextRequest, NextResponse } from 'next/server';
-import OpenAI from 'openai';
 import { searchVectorStore } from '@/lib/rag-engine';
-import { SYSTEM_PROMPT, CLONE_AI_CONFIG } from '@/lib/constants';
+import { SYSTEM_PROMPT, OLLAMA_CHAT_CONFIG } from '@/lib/constants';
 
-const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY,
-});
+type OllamaChatResponse = {
+    message?: { role?: string; content?: string };
+    error?: string;
+};
+
+async function chatWithOllama(params: {
+    model: string;
+    system: string;
+    user: string;
+}): Promise<string> {
+    const host = process.env.OLLAMA_HOST || 'http://127.0.0.1:11434';
+    const url = `${host.replace(/\/$/, '')}/api/chat`;
+
+    let res: Response;
+    try {
+        res = await fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                model: params.model,
+                stream: false,
+                messages: [
+                    { role: 'system', content: params.system },
+                    { role: 'user', content: params.user },
+                ],
+                options: {
+                    temperature: OLLAMA_CHAT_CONFIG.temperature,
+                    top_p: OLLAMA_CHAT_CONFIG.top_p,
+                    num_predict: OLLAMA_CHAT_CONFIG.num_predict,
+                },
+            }),
+        });
+    } catch (err: any) {
+        const cause = err?.cause;
+        const code = cause?.code || err?.code;
+        if (code === 'ECONNREFUSED' || code === 'ENOTFOUND') {
+            throw new Error(
+                `Ollamaへ接続できませんでした (${host}). Ollamaが起動しているか確認してください。` +
+                `\n- Windows: Ollamaアプリを起動（または再起動）` +
+                `\n- 確認: http://127.0.0.1:11434/api/tags` +
+                `\n- 別ホストなら OLLAMA_HOST を設定` +
+                `\n- モデル未取得なら: ollama pull ${process.env.OLLAMA_CHAT_MODEL || 'gemma3:1b'}`
+            );
+        }
+        throw err;
+    }
+
+    if (!res.ok) {
+        const errorText = await res.text().catch(() => '');
+        throw new Error(`Ollama error: ${res.status} ${errorText}`);
+    }
+
+    const data = (await res.json()) as OllamaChatResponse;
+    const content = data?.message?.content;
+    if (!content) {
+        throw new Error('Ollama returned empty message');
+    }
+    return content;
+}
 
 export async function POST(request: NextRequest) {
     try {
@@ -37,21 +92,13 @@ ${contextText}
 ----------------`;
         }
 
-        // 3. Call OpenAI with CloneAI parameters
-        const response = await openai.chat.completions.create({
-            model: CLONE_AI_CONFIG.model,
-            messages: [
-                { role: 'system', content: systemPromptWithContext },
-                { role: 'user', content: message },
-            ],
-            temperature: CLONE_AI_CONFIG.temperature,
-            top_p: CLONE_AI_CONFIG.top_p,
-            presence_penalty: CLONE_AI_CONFIG.presence_penalty,
-            frequency_penalty: CLONE_AI_CONFIG.frequency_penalty,
-            max_tokens: CLONE_AI_CONFIG.max_tokens,
+        // 3. Call Ollama
+        const ollamaModel = process.env.OLLAMA_CHAT_MODEL || 'gemma3:1b';
+        const reply = await chatWithOllama({
+            model: ollamaModel,
+            system: systemPromptWithContext,
+            user: message,
         });
-
-        const reply = response.choices[0].message.content;
 
         return NextResponse.json({
             reply,
@@ -60,6 +107,9 @@ ${contextText}
 
     } catch (error: any) {
         console.error('Chat API Error:', error);
-        return NextResponse.json({ error: error.message }, { status: 500 });
+        return NextResponse.json(
+            { error: error?.message || 'Unknown error' },
+            { status: 500 }
+        );
     }
 }
