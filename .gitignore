@@ -51,3 +51,6 @@ next-env.d.ts
 .cloneai-port
 # local/personal data exports (do not commit)
 /src/lib/pesonaldata/unlabeldata/
+
+# derived artifacts (do not commit)
+/src/lib/pesonaldata/derived/photo_to_text/

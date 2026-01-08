@@ -12,6 +12,7 @@
 - システム設計: [architecture/SYSTEM_DESIGN_DOCUMENT.md](./architecture/SYSTEM_DESIGN_DOCUMENT.md)
 - 図集（Mermaid）: [diagrams/SYSTEM_DIAGRAMS.md](./diagrams/SYSTEM_DIAGRAMS.md)
 - 図解作成プロンプト集: [prompts/DIAGRAM_GENERATION_PROMPT.md](./prompts/DIAGRAM_GENERATION_PROMPT.md)
+- 写真→テキスト抽出（Gemma3）: [PHOTO_TO_TEXT.md](./PHOTO_TO_TEXT.md)
 
 ## 計画（planning）
 
