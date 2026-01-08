@@ -40,7 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-<<<<<<< HEAD
 # python (cloneai service)
 /services/cloneai/venv/
 /services/cloneai/__pycache__/
@@ -50,7 +49,5 @@ next-env.d.ts
 
 # cloneai runtime
 .cloneai-port
-=======
 # local/personal data exports (do not commit)
 /src/lib/pesonaldata/unlabeldata/
->>>>>>> 34f2dd280a78eeb56a06f4e1bf8b5f53fd0e3c0f
