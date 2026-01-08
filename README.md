@@ -2,6 +2,11 @@ This is the experiment UI for the graduation research project.
 
 It is designed to run **locally with Ollama** for both chat and RAG embeddings.
 
+## Docs（進捗・設計・計画）
+
+- ドキュメント目次: [docs/README.md](docs/README.md)
+- 進捗サマリ: [docs/STATUS.md](docs/STATUS.md)
+
 ## Getting Started
 
 ### 0) Prerequisites

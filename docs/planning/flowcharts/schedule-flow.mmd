@@ -1,0 +1,22 @@
+flowchart LR
+   W0[Week0\n12/22-12/28\n環境&成立条件] --> W1[Week1\n12/29-01/04\nパイロット&計測]
+   W1 --> W2[Week2\n01/05-01/11\n本実験開始]
+   W2 --> W3[Week3\n01/12-01/18\n本実験完了&整形]
+   W3 --> W4[Week4\n01/19-01/25\n分析(集計/図表/統計)]
+   W4 --> W5[Week5\n01/26-02/01\n論文/スライド仕上げ]
+   W5 --> DONE[提出/発表]
+
+   subgraph Week0詳細
+      W0a[Ollama導入/起動確認] --> W0b[P条件RAG準備\n(save-knowledge→ingest)] --> W0c[実験完走(1件)\nJSON回収]
+   end
+   W0 --> W0a
+
+   subgraph Week1詳細
+      W1a[duration計測実装] --> W1b[パイロット1-2名] --> W1c[手順書更新]
+   end
+   W1 --> W1a
+
+   subgraph Week4詳細
+      W4a[条件別集計] --> W4b[図表] --> W4c[統計/解釈]
+   end
+   W4 --> W4a
