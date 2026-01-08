@@ -1,0 +1,26 @@
+{
+  "lifelogs": [
+    {
+      "id": "log_123",
+      "title": "Morning standup",
+      "startTime": "2024-09-17T00:00:00.000Z",
+      "endTime": "2024-09-17T00:15:00.000Z",
+      "isStarred": false,
+      "updatedAt": "2024-09-17T00:15:00.000Z",
+      "markdown": "## Morning standup\n- discussed sprint goals",
+      "contents": [
+        {
+          "type": "heading1",
+          "content": "Morning standup",
+          "startTime": "2024-09-17T00:00:00.000Z",
+          "endTime": "2024-09-17T00:15:00.000Z",
+          "startOffsetMs": 0,
+          "endOffsetMs": 900000,
+          "speakerName": "User",
+          "speakerIdentifier": "user"
+        }
+      ]
+    }
+  ],
+  "nextCursor": null
+}

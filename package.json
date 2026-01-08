@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev:cloneai": "node scripts/start-cloneai.mjs",
+    "dev:all": "concurrently -k -n cloneai,next \"npm run dev:cloneai\" \"npm run dev\"",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -22,6 +24,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "concurrently": "^9.1.2",
     "eslint": "^9",
     "eslint-config-next": "16.0.4",
     "tailwindcss": "^4",

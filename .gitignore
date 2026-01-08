@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python (cloneai service)
+/services/cloneai/venv/
+/services/cloneai/__pycache__/
+/services/cloneai/.pytest_cache/
+/services/cloneai/**/*.pyc
+/services/cloneai/**/__pycache__/
+
+# cloneai runtime
+.cloneai-port
