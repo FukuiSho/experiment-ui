@@ -22,7 +22,7 @@
 ### 対象（今回やる）
 
 - Next.js API: Chat（Ollama）
-- RAG: knowledge(md) → embedding → vector store(json) → 検索 → system promptへ注入
+- RAG: knowledge(md) → embedding → ChromaDB (Vector DB) → 検索 → system promptへ注入
 - Limitless取得（プロキシ）→ Markdown化 → 保存
 - 動作確認用UI（limitless-test / rag-test）を用いた手順の固定化
 
@@ -47,7 +47,8 @@
     - `GET /api/limitless`
 - データファイル:
   - `experiment-ui/src/data/limitless-knowledge.md`（Limitlessから生成する知識）
-  - `experiment-ui/src/data/vector-store.json`（embedding済みのベクトルストア）
+  - **ChromaDB**（Vector Database）: ローカルプロセス（Python）で稼働
+    - Collection: `limitless_logs` (予定)
 
 ### 条件（G/P）の意味
 
@@ -80,7 +81,7 @@
   - 入力: `src/data/limitless-knowledge.md`（固定）
   - split: `\n---\n` 区切り（converterのセパレータ）
   - embedding: Ollama（例: `nomic-embed-text`）
-  - 出力: `src/data/vector-store.json`
+  - 出力: **ChromaDBへUpsert** (Collection: `limitless_logs`)
 
 **要点（実験当日事故りやすい）**
 
@@ -136,7 +137,7 @@
 }
 ```
 
-- `retrieved_context` はデバッグ用途。P条件かつvector storeがある場合に返る。
+- `retrieved_context` はデバッグ用途。P条件かつChromaDBから検索できた場合に返る。
 
 **エラー**
 
@@ -150,7 +151,7 @@
 
 ### 4.2 `POST /api/rag/ingest`
 
-**目的**: `limitless-knowledge.md` を embedding して `vector-store.json` を生成
+**目的**: `limitless-knowledge.md` を embedding して ChromaDB へ保存
 
 **Request**: bodyなし
 
@@ -219,8 +220,10 @@
 - [ ] `ollama --version` が通る（Ollama導入済み）
 - [ ] `OLLAMA_HOST` が正しい（既定: `http://127.0.0.1:11434`）
 - [ ] `OLLAMA_CHAT_MODEL` / `OLLAMA_EMBED_MODEL` を `ollama pull` 済み
+- [ ] **ChromaDBサーバーが起動している**（`chroma run --path ...`）
 - [ ] `limitless-knowledge.md` が生成済み
-- [ ] ingest済みで `vector-store.json` が生成済み
+- [ ] ingest済みで ChromaDB にデータが入っている
+
 - [ ] `rag-test` で P相当の検索が働く（retrieved_contextが空でない）
 - [ ] `experiment-ui` の本番フロー（4セッション→評価→DL）が完走する
 
@@ -228,7 +231,7 @@
 
 ## 7. 例外・失敗時の期待挙動（仕様として固定）
 
-- vector storeが空/未生成:
+- ChromaDBが空/未生成/未起動:
   - P条件でも `retrieved_context` が空配列になり得る
   - その場合でもチャットは通常のsystem promptで成立する（実験を止めない）
 - Ollama未起動/接続不可:

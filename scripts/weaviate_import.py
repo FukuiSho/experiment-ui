@@ -10,9 +10,11 @@ before upsert; the placeholder here raises NotImplementedError.
 
 import argparse
 import json
+import os
 from pathlib import Path
 from typing import Iterable, Iterator
 
+import requests
 import weaviate
 from weaviate.classes.config import Configure, Property, ReferenceProperty
 
@@ -21,6 +23,8 @@ DEFAULT_WEAVIATE_URL = "http://127.0.0.1:8080"
 DEFAULT_CHUNK_CLASS = "Chunk"
 DEFAULT_ENTITY_CLASS = "Entity"
 DEFAULT_RELATION_CLASS = "Relation"
+DEFAULT_OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://127.0.0.1:11434")
+DEFAULT_EMBED_MODEL = os.environ.get("OLLAMA_EMBEDDING_MODEL", "nomic-embed-text")
 
 
 def iter_jsonl(path: Path) -> Iterator[dict]:
@@ -84,27 +88,33 @@ def ensure_schema(client: weaviate.WeaviateClient, *, chunk_class: str, entity_c
         )
 
 
-def embed_chunk(_content: str) -> list[float]:
-    # TODO: call Ollama embeddings or another embedding provider.
-    raise NotImplementedError("embed_chunk is not implemented. Provide vector externally.")
+def embed_chunk(content: str, *, host: str = DEFAULT_OLLAMA_HOST, model: str = DEFAULT_EMBED_MODEL, timeout: int = 60) -> list[float]:
+    payload = {"model": model, "prompt": content}
+    resp = requests.post(f"{host.rstrip('/')}/api/embeddings", json=payload, timeout=timeout)
+    resp.raise_for_status()
+    data = resp.json()
+    embedding = data.get("embedding")
+    if not embedding:
+        raise RuntimeError("No embedding returned from Ollama")
+    return embedding
 
 
-def upsert_chunks(client: weaviate.WeaviateClient, *, chunk_class: str, records: Iterable[dict], batch_size: int) -> None:
+def upsert_chunks(client: weaviate.WeaviateClient, *, chunk_class: str, records: Iterable[dict], batch_size: int, ollama_host: str, embed_model: str) -> None:
     coll = client.collections.get(chunk_class)
     batch: list[dict] = []
     for rec in records:
         batch.append(rec)
         if len(batch) >= batch_size:
-            _flush_chunks(coll, batch)
+            _flush_chunks(coll, batch, ollama_host, embed_model)
             batch.clear()
     if batch:
-        _flush_chunks(coll, batch)
+        _flush_chunks(coll, batch, ollama_host, embed_model)
 
 
-def _flush_chunks(coll, batch: list[dict]) -> None:
+def _flush_chunks(coll, batch: list[dict], ollama_host: str, embed_model: str) -> None:
     with coll.batch.dynamic() as writer:
         for rec in batch:
-            vector = rec.get("vector") or embed_chunk(rec["content"])
+            vector = rec.get("vector") or embed_chunk(rec["content"], host=ollama_host, model=embed_model)
             properties = {k: v for k, v in rec.items() if k not in {"vector", "chunk_id"}}
             writer.add_object(properties=properties, uuid=rec.get("chunk_id"), vector=vector)
 
@@ -169,6 +179,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--relation-class", default=DEFAULT_RELATION_CLASS)
     parser.add_argument("--batch-size", type=int, default=64)
     parser.add_argument("--apply-schema", action="store_true")
+    parser.add_argument("--ollama-host", default=DEFAULT_OLLAMA_HOST)
+    parser.add_argument("--embedding-model", default=DEFAULT_EMBED_MODEL)
     return parser.parse_args()
 
 
@@ -184,7 +196,14 @@ def main() -> None:
         relation_dir = db_root / "relations"
 
         for path in sorted(chunk_dir.glob("*.jsonl")):
-            upsert_chunks(client, chunk_class=args.chunk_class, records=iter_jsonl(path), batch_size=args.batch_size)
+            upsert_chunks(
+                client,
+                chunk_class=args.chunk_class,
+                records=iter_jsonl(path),
+                batch_size=args.batch_size,
+                ollama_host=args.ollama_host,
+                embed_model=args.embedding_model,
+            )
         for path in sorted(entity_dir.glob("*.jsonl")):
             upsert_entities(client, entity_class=args.entity_class, chunk_class=args.chunk_class, records=iter_jsonl(path), batch_size=args.batch_size)
         for path in sorted(relation_dir.glob("*.jsonl")):

@@ -11,6 +11,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "chromadb": "^3.2.0",
     "clsx": "^2.1.1",
     "dotenv": "^17.2.3",
     "lucide-react": "^0.554.0",

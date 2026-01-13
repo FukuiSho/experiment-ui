@@ -1,12 +1,10 @@
-import fs from 'fs';
-import path from 'path';
+import { generateEmbedding } from './rag-engine'; // Self-import/recursive? No, just keep generateEmbedding here.
+import { getCollection } from './chroma';
 
 type OllamaEmbeddingResponse = {
     embedding?: number[];
     error?: string;
 };
-
-const VECTOR_STORE_PATH = path.join(process.cwd(), 'src', 'data', 'vector-store.json');
 
 export interface VectorChunk {
     id: string;
@@ -15,6 +13,7 @@ export interface VectorChunk {
         source: string;
         timestamp?: string;
         speaker?: string;
+        [key: string]: any; // Chroma allows flexible metadata
     };
     embedding: number[];
 }
@@ -62,40 +61,57 @@ export async function generateEmbedding(text: string): Promise<number[]> {
     }
 }
 
-export function calculateCosineSimilarity(vecA: number[], vecB: number[]): number {
-    const dotProduct = vecA.reduce((sum, a, i) => sum + a * vecB[i], 0);
-    const magnitudeA = Math.sqrt(vecA.reduce((sum, a) => sum + a * a, 0));
-    const magnitudeB = Math.sqrt(vecB.reduce((sum, b) => sum + b * b, 0));
-    return dotProduct / (magnitudeA * magnitudeB);
-}
-
 export async function saveVectorStore(chunks: VectorChunk[]) {
-    const dir = path.dirname(VECTOR_STORE_PATH);
-    if (!fs.existsSync(dir)) {
-        fs.mkdirSync(dir, { recursive: true });
-    }
-    fs.writeFileSync(VECTOR_STORE_PATH, JSON.stringify(chunks, null, 2));
-}
+    if (chunks.length === 0) return;
 
-export function loadVectorStore(): VectorChunk[] {
-    if (!fs.existsSync(VECTOR_STORE_PATH)) return [];
-    const data = fs.readFileSync(VECTOR_STORE_PATH, 'utf-8');
-    return JSON.parse(data);
+    const collection = await getCollection();
+
+    // ChromaDB expects separate arrays
+    const ids = chunks.map(c => c.id);
+    const embeddings = chunks.map(c => c.embedding);
+    // Metadata values must be primitives (string, number, boolean)
+    // We ensure metadata matches this requirement.
+    const metadatas = chunks.map(c => c.metadata);
+    const documents = chunks.map(c => c.content);
+
+    await collection.upsert({
+        ids,
+        embeddings,
+        metadatas,
+        documents
+    });
+
+    console.log(`Upserted ${chunks.length} chunks to ChromaDB.`);
 }
 
 export async function searchVectorStore(query: string, limit: number = 3): Promise<VectorChunk[]> {
-    const store = loadVectorStore();
-    if (store.length === 0) return [];
+    const collection = await getCollection();
 
+    // Generate embedding for the query
     const queryEmbedding = await generateEmbedding(query);
 
-    const scored = store.map(chunk => ({
-        chunk,
-        score: calculateCosineSimilarity(queryEmbedding, chunk.embedding),
-    }));
+    // Query ChromaDB
+    const results = await collection.query({
+        queryEmbeddings: [queryEmbedding], // Standard implementation takes array of embeddings
+        nResults: limit,
+        // include: ['documents', 'metadatas', 'embeddings'] // Default usually includes documents/metadatas/distances
+    });
 
-    // Sort by score descending
-    scored.sort((a, b) => b.score - a.score);
+    // Map back to VectorChunk structure
+    // results.ids[0], results.documents[0] etc corresponds to the first query embedding
+    const queryResults = results.ids[0];
+    if (!queryResults || queryResults.length === 0) return [];
 
-    return scored.slice(0, limit).map(item => item.chunk);
+    const chunks: VectorChunk[] = [];
+
+    for (let i = 0; i < queryResults.length; i++) {
+        chunks.push({
+            id: results.ids[0][i],
+            content: results.documents?.[0]?.[i] || '',
+            metadata: results.metadatas?.[0]?.[i] as any || {},
+            embedding: [] // We don't necessarily need to return the embedding itself unless debugging
+        });
+    }
+
+    return chunks;
 }

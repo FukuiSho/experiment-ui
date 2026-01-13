@@ -18,12 +18,12 @@
 - チャット応答は Next.js API（/api/chat）で生成
   - G: 通常応答
   - P: RAG（ベクトルストア）から関連記憶を検索してコンテキスト付与
-- Limitless → Markdown保存 → Embedding ingest（ベクトルストア生成）の経路が用意されている
+- Limitless → Markdown保存 → Embedding ingest（ChromaDBへ保存）の経路が用意されている
 
 ### 未完了／リスク（実験実施に直結）
 
 - セッション `duration` は実装済み（0固定は解消）
-- P条件のRAGは **事前に ingest を回して vector-store.json を作る必要**がある（手順の明文化と再現性が必要）
+- P条件のRAGは **事前に ingest を回して ChromaDB に記憶を入れる必要**がある（手順の明文化と再現性が必要）
 - Ollama運用（インストール/起動/モデルpull/環境変数）のため、実験前に **手順の固定と動作確認**が必要
 - 実験データの **集計・統計・可視化**（分析パイプライン）が未整備
 - 新規: 応答品質（人間らしさ）が不足しているため、より高性能なローカルモデルの導入・選定が必要
@@ -33,7 +33,7 @@
 ### Milestone A（実験の動作保証）
 
 - A1: ローカルで `experiment-ui` が安定稼働（Ollama導入・モデル揃い）
-- A2: Condition P のRAGが機能（ingest後、/api/chat が retrieved_context を返す）
+- A2: Condition P のRAGが機能（ChromaDB ingest後、/api/chat が retrieved_context を返す）
 - A3: セッション所要時間の記録（duration算出）が入る
 - A4: パイロット実験（身内1〜2名）で手順とデータが崩れないことを確認
 
