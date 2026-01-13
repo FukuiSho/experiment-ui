@@ -54,3 +54,6 @@ next-env.d.ts
 
 # derived artifacts (do not commit)
 /src/lib/pesonaldata/derived/photo_to_text/
+# normalized/local artifacts (do not commit)
+/src/lib/pesonaldata/DBmakedused/
+/.local/
