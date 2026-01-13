@@ -21,6 +21,7 @@
 - ToDo（優先度順）: [planning/TODO.md](./planning/TODO.md)
 - スケジュール: [planning/SCHEDULE.md](./planning/SCHEDULE.md)
 - 詳細設計（Chat+RAG）: [planning/DETAILED_DESIGN_CHAT_RAG.md](./planning/DETAILED_DESIGN_CHAT_RAG.md)
+- 詳細設計（Photo→Text）: [planning/DETAILED_DESIGN_PHOTO_TO_TEXT.md](./planning/DETAILED_DESIGN_PHOTO_TO_TEXT.md)
 - ローカルモデル選定計画: [planning/LOCAL_MODEL_SELECTION_PLAN.md](./planning/LOCAL_MODEL_SELECTION_PLAN.md)
 - ベンチマーク計画: [planning/HIJIRI_BENCHMARK_PLAN.md](./planning/HIJIRI_BENCHMARK_PLAN.md)
 - 引き継ぎ（ローカルモデルPoC）: [planning/HANDOFF_2025-12-22_LOCAL_MODEL_POC.md](./planning/HANDOFF_2025-12-22_LOCAL_MODEL_POC.md)
