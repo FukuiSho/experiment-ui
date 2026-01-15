@@ -63,7 +63,7 @@
 ### 4) モデル取得（例）
 
 - 軽量モデル例:
-  - `ollama pull gemma3:1b`
+  - `ollama pull gemma3:27b`
 
 ### 5) PoCサーバ起動
 
@@ -78,7 +78,7 @@ Push-Location "C:\Users\<you>\Desktop\卒研\cloneAI"
 
 ```powershell
 Invoke-RestMethod http://127.0.0.1:8001/health | ConvertTo-Json
-$body = @{ message = 'こんにちは。自己紹介して'; session_id = 'poc'; reset = $true; model_name = 'gemma3:1b' } | ConvertTo-Json
+$body = @{ message = 'こんにちは。自己紹介して'; session_id = 'poc'; reset = $true; model_name = 'gemma3:27b' } | ConvertTo-Json
 Invoke-RestMethod -Method Post -Uri http://127.0.0.1:8001/chat -ContentType 'application/json' -Body $body | ConvertTo-Json -Depth 5
 ```
 
@@ -99,7 +99,7 @@ Push-Location "C:\Users\<you>\Desktop\卒研\cloneAI"
 ### 2) 複数モデル評価
 
 ```powershell
-.\venv\Scripts\python.exe .\benchmark\evaluate_models.py --benchmark .\benchmark\hijiri_bench.jsonl --models "gemma3:1b,qwen2.5:1.5b" --out .\benchmark\results.json --max 50
+.\venv\Scripts\python.exe .\benchmark\evaluate_models.py --benchmark .\benchmark\hijiri_bench.jsonl --models "gemma3:27b,qwen2.5:1.5b" --out .\benchmark\results.json --max 50
 ```
 
 - 出力: `results.json`（avg_similarity, pronoun_rate等）

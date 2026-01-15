@@ -29,7 +29,7 @@ def test_call_ollama_extract_parses_json(monkeypatch):
     json_module = json
     monkeypatch.setattr(norm.requests, "post", fake_post)
 
-    result = norm.call_ollama_extract("hello", host="http://localhost:11434", model="gemma3:1b", timeout=5)
+    result = norm.call_ollama_extract("hello", host="http://localhost:11434", model="gemma3:27b", timeout=5)
     assert len(result["entities"]) == 1
     assert result["entities"][0]["name"] == "Alice"
     assert len(result["relations"]) == 1
@@ -61,7 +61,7 @@ def test_emit_graph_writes_entities_and_relations(tmp_path: Path, monkeypatch):
         entities_path=entities_path,
         relations_path=relations_path,
         ollama_host="http://localhost:11434",
-        model="gemma3:1b",
+        model="gemma3:27b",
         timeout=5,
     )
 

@@ -51,7 +51,7 @@ class LLMClient:
 
 class OllamaClient(LLMClient):
     """Ollamaと通信するためのクライアント"""
-    def __init__(self, model_name: str = "gemma3:1b", base_url: str = "http://localhost:11434/api"):
+    def __init__(self, model_name: str = "gemma3:27b", base_url: str = "http://localhost:11434/api"):
         self.model_name = model_name
         self.base_url = base_url
         self.simulation_mode = False  # シミュレーションモードのフラグ
@@ -283,7 +283,7 @@ class AIPersonaAgent:
     """特定の人物を模倣するAIエージェント"""
     def __init__(self, 
                  persona: PersonaTemplate, 
-                 model_name: str = "gemma3:1b",
+                 model_name: str = "gemma3:27b",
                  simulation_mode: bool = False):
         self.persona = persona
         self.client = OllamaClient(model_name)

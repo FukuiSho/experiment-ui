@@ -20,8 +20,14 @@ export async function getCollection(): Promise<Collection> {
         // getOrCreateCollection is the standard way in JS client
         const collection = await client.getOrCreateCollection({
             name: COLLECTION_NAME,
-            metadata: { "description": "Limitless logs for RAG" } // Optional metadata
-            // embeddingFunction: ... // We handle embeddings manually with Ollama before inserting
+            metadata: { "description": "Limitless logs for RAG" },
+            // We handle embeddings manually with Ollama, so we provide a dummy embedding function
+            // to prevent Chroma from trying to load the default-embed package.
+            embeddingFunction: {
+                generate: async (texts: string[]) => {
+                    return texts.map(() => []); // Return empty or dummy embeddings, we won't use this path
+                }
+            }
         });
         return collection;
     } catch (error) {

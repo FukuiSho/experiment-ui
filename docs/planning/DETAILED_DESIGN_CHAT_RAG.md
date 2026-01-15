@@ -95,7 +95,7 @@
   - `searchVectorStore(message, 3)`
   - 上位チャンクを `contextText` として system prompt へ追記
 - Ollama Chat:
-  - model: `OLLAMA_CHAT_MODEL`（例: `gemma3:1b`）
+  - model: `OLLAMA_CHAT_MODEL`（例: `gemma3:27b`）
   - options: temperature / top_p / num_predict
 
 ---

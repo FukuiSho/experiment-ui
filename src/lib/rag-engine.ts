@@ -1,4 +1,3 @@
-import { generateEmbedding } from './rag-engine'; // Self-import/recursive? No, just keep generateEmbedding here.
 import { getCollection } from './chroma';
 
 type OllamaEmbeddingResponse = {

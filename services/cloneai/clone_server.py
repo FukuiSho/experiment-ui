@@ -13,7 +13,7 @@ class ChatRequest(BaseModel):
     message: str = Field(..., min_length=1)
     session_id: str = Field("default")
     reset: bool = Field(False)
-    model_name: Optional[str] = Field(None, description="Override Ollama model (e.g. 'gemma3:1b')")
+    model_name: Optional[str] = Field(None, description="Override Ollama model (e.g. 'gemma3:27b')")
 
 
 class ChatResponse(BaseModel):
@@ -37,7 +37,7 @@ def _get_agent(session_id: str, model_name: Optional[str]) -> AIPersonaAgent:
 
     persona = create_yamada_taro_persona()
 
-    default_model = os.getenv("CLONEAI_OLLAMA_MODEL", "gemma3:1b")
+    default_model = os.getenv("CLONEAI_OLLAMA_MODEL", "gemma3:27b")
     chosen_model = model_name or default_model
 
     # For PoC, automatically fall back to simulation if Ollama isn't reachable.

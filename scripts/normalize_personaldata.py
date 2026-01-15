@@ -530,7 +530,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--sources", default=",".join(DEFAULT_SOURCES), help=f"Comma-separated sources. Default: {','.join(DEFAULT_SOURCES)}")
     parser.add_argument("--extract-graph", action="store_true", help="Extract entities/relations via Ollama and write to entities/relations shards")
     parser.add_argument("--ollama-host", default="http://127.0.0.1:11434")
-    parser.add_argument("--graph-model", default="gemma3:1b")
+    parser.add_argument("--graph-model", default="gemma3:27b")
     parser.add_argument("--graph-timeout", type=int, default=60)
     return parser.parse_args()
 

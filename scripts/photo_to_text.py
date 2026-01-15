@@ -169,7 +169,7 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Photo to text via Gemma3 (Ollama)")
     parser.add_argument("--input", dest="input_dir", default="src/lib/pesonaldata/unlabeldata/smartphonephoto")
     parser.add_argument("--output", dest="output_dir", default="src/lib/pesonaldata/derived/photo_to_text")
-    parser.add_argument("--model", default=os.environ.get("PHOTO_TO_TEXT_MODEL", "gemma3:27b"))
+    parser.add_argument("--model", default="gemma3:27b", help="Ollama Vision model")
     parser.add_argument("--ollama-host", dest="host", default=os.environ.get("PHOTO_TO_TEXT_OLLAMA_HOST", "http://127.0.0.1:11434"))
     parser.add_argument("--prompt", dest="prompt", default="画像内容を日本語で要約し、text(日本語文字列)とconfidence(0..1)のみを含むJSONで返してください。JSON以外は出力しないこと。")
     parser.add_argument("--timeout", type=int, default=120)

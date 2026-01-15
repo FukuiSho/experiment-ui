@@ -44,7 +44,7 @@
 |---------|------|
 | フロントエンド | Next.js 16, React 19, TypeScript, Tailwind CSS 4 |
 | バックエンド | Python 3.x |
-| LLM | Ollama (gemma3:1b) |
+| LLM | Ollama (gemma3:27b) |
 | 外部API | Limitless Developer API (ライフログ取得) |
 | テスト | pytest, requests-mock |
 
@@ -172,7 +172,7 @@ class LLMClient:
 ```python
 class OllamaClient(LLMClient):
     def __init__(self, 
-                 model_name: str = "gemma3:1b", 
+                 model_name: str = "gemma3:27b", 
                  base_url: str = "http://localhost:11434/api"):
         self.model_name = model_name
         self.base_url = base_url
@@ -251,7 +251,7 @@ class MemoryManager:
 class AIPersonaAgent:
     def __init__(self,
                  persona: PersonaTemplate,
-                 model_name: str = "gemma3:1b",
+                 model_name: str = "gemma3:27b",
                  simulation_mode: bool = False):
         self.persona = persona
         self.client = OllamaClient(model_name)
@@ -324,7 +324,7 @@ cloneAI側の実装は `clone_agentAI.py` の Ollama クライアントを使用
 
 ```python
 ollama.chat(
-    model="gemma3:1b",
+    model="gemma3:27b",
     messages=[
         {"role": "system", "content": "あなたは福井聖です...（詳細なペルソナ）"},
         {"role": "user", "content": "ユーザー入力"},
@@ -1002,7 +1002,7 @@ Headers:
 **チャットリクエスト** (ollama-python):
 ```python
 ollama.chat(
-    model="gemma3:1b",
+    model="gemma3:27b",
     messages=[{"role": "user", "content": prompt}]
 )
 ```
@@ -1148,7 +1148,7 @@ OLLAMA_HOST=http://127.0.0.1:11434  # 任意: デフォルトは localhost
 **experiment-ui**:
 ```bash
 OLLAMA_HOST=http://127.0.0.1:11434
-OLLAMA_CHAT_MODEL=gemma3:1b
+OLLAMA_CHAT_MODEL=gemma3:27b
 OLLAMA_EMBED_MODEL=nomic-embed-text
 ```
 

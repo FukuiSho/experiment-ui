@@ -17,15 +17,16 @@ It is designed to run **locally with Ollama** for both chat and RAG embeddings.
 Pull models (example):
 
 ```powershell
-ollama pull gemma3:1b
-ollama pull nomic-embed-text
+- **Ollama**:
+  - `gemma3:27b` (Chat & Agent)
+  - `nomic-embed-text` (Embedding)
 ```
 
 Set environment variables (PowerShell example):
 
 ```powershell
 $env:OLLAMA_HOST = 'http://127.0.0.1:11434'
-$env:OLLAMA_CHAT_MODEL = 'gemma3:1b'
+$env:OLLAMA_CHAT_MODEL = 'gemma3:27b'
 $env:OLLAMA_EMBED_MODEL = 'nomic-embed-text'
 ```
 
@@ -112,7 +113,7 @@ Next.jsの `Unable to acquire lock ... .next\\dev\\lock` が出る場合:
 環境変数（任意）:
 
 - `CLONEAI_BASE_URL`（default: `http://127.0.0.1:8001`）
-- `CLONEAI_OLLAMA_MODEL`（cloneAI側のデフォルトモデル。default: `gemma3:1b`）
+- `CLONEAI_OLLAMA_MODEL`（cloneAI側のデフォルトモデル。default: `gemma3:27b`）
 
 ### RAG (P condition) quick check
 

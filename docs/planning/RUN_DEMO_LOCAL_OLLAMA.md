@@ -48,7 +48,7 @@ Invoke-RestMethod http://127.0.0.1:11434/api/tags | ConvertTo-Json -Depth 5
 チャット用（軽量）:
 
 ```powershell
-ollama pull gemma3:1b
+ollama pull gemma3:27b
 ```
 
 RAG用の埋め込みモデル（ローカル完結したい場合）:
@@ -73,7 +73,7 @@ ollama list
 
 ```powershell
 $env:OLLAMA_HOST = 'http://127.0.0.1:11434'
-$env:OLLAMA_CHAT_MODEL = 'gemma3:1b'
+$env:OLLAMA_CHAT_MODEL = 'gemma3:27b'
 ```
 
 ### 2.2 RAG の埋め込み（Ollama）

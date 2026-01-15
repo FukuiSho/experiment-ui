@@ -43,7 +43,7 @@ async function chatWithOllama(params: {
                 `\n- Windows: Ollamaアプリを起動（または再起動）` +
                 `\n- 確認: http://127.0.0.1:11434/api/tags` +
                 `\n- 別ホストなら OLLAMA_HOST を設定` +
-                `\n- モデル未取得なら: ollama pull ${process.env.OLLAMA_CHAT_MODEL || 'gemma3:1b'}`
+                `\n- モデル未取得なら: ollama pull ${process.env.OLLAMA_CHAT_MODEL || 'gemma3:27b'}`
             );
         }
         throw err;
@@ -93,7 +93,7 @@ ${contextText}
         }
 
         // 3. Call Ollama
-        const ollamaModel = process.env.OLLAMA_CHAT_MODEL || 'gemma3:1b';
+        const ollamaModel = process.env.OLLAMA_CHAT_MODEL || 'gemma3:27b';
         const reply = await chatWithOllama({
             model: ollamaModel,
             system: systemPromptWithContext,
