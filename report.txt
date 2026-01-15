@@ -1,0 +1,51 @@
+Starting Chat Data Analysis...
+
+--- Limitless Analysis ---
+Total messages: 73986
+Average Context Length (chars): 19.33
+Top 20 Frequent Words:
+てる: 3497
+やる: 3124
+いう: 3008
+なん: 2520
+ます: 2283
+いい: 2142
+言う: 2069
+みたい: 1448
+たら: 1321
+思う: 1268
+見る: 1051
+ここ: 1024
+ちゃう: 906
+行く: 900
+できる: 861
+すごい: 813
+やばい: 811
+出る: 763
+くい: 732
+くださる: 693
+
+--- LINE Analysis ---
+Total messages: 6143
+Average Context Length (chars): 9.41
+Top 20 Frequent Words:
+てる: 405
+やる: 185
+いい: 163
+行く: 132
+通話: 95
+オレ: 80
+時間: 79
+思う: 75
+くる: 74
+そう: 71
+ちゃう: 69
+おる: 57
+やつ: 57
+来る: 56
+分かる: 55
+いける: 52
+https: 52
+://: 52
+いく: 51
+見る: 48
