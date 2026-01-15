@@ -1,0 +1,25 @@
+--- Log ID: puRY7aBvx8AwbRh1kazb ---
+Type: heading1, Content: 会話の断片
+Type: heading2, Content: スキンとAIに関する会話
+Type: blockquote, Content: お 、 何 個 前 スキン が し てる よ 。
+Type: blockquote, Content: え 、 これ は 何 ? あ 、 お前 、 お前 、 お前 せこい しか 意味 も 置い てる や ん 。 これ 、 これ 、 なくなっ てる や ん 。 これ AI が 詰ま な 。 仕方ない これ は 。 の 心持ち た ん じゃ ない 。
+Type: heading2, Content: 何かが出現する様子とプラスアルファの刺激
+Type: blockquote, Content: え 、 すげえ 。 1 泊 まで 出る よ 。
+Type: blockquote, Content: こと も プラス アルファ を こう 刺激 する 。
+Type: blockquote, Content: じゃあ これ を 見 て から 読み込ん で
+Type: blockquote, Content: これ られる ん じゃ ない 。
+Type: blockquote, Content: ます よ な 。
+Type: heading2, Content: その他
+Type: blockquote, Content: グループ を
+Type: blockquote, Content: れ ば 。
+Type: blockquote, Content: これじゃあ例えば環境設定
+Type: blockquote, Content: 見て
+Type: blockquote, Content: これはあれじゃん、あの画面
+Type: blockquote, Content: あ、
+Type: blockquote, Content: すごいな、マジで
+
+--- Log ID: Jo9J104ZDgOS5Y41pcFg ---
+Type: heading1, Content: 学習の進捗について
+Type: heading2, Content: 学習の状況
+Type: blockquote, Content: もう安定し ちゃっ たら 学習 回し 学習 回し て い ます 。
+
