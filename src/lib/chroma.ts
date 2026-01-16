@@ -1,6 +1,6 @@
 import { ChromaClient, Collection } from 'chromadb';
 
-const CHROMA_URL = process.env.CHROMA_URL || 'http://localhost:8000';
+const CHROMA_URL = process.env.CHROMA_URL || 'http://[::1]:8000';
 
 // Singleton instance
 let client: ChromaClient | null = null;

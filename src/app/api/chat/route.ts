@@ -75,8 +75,40 @@ export async function POST(request: NextRequest) {
         let relevantChunks: any[] = [];
 
         if (condition === 'P') {
-            relevantChunks = await searchVectorStore(message, 3);
-            contextText = relevantChunks.map(c => c.content).join('\n\n---\n\n');
+            // New Step: Classify User Intent
+            const ollamaModel = process.env.OLLAMA_CHAT_MODEL || 'gemma3:27b';
+            let targetCategories: string[] = [];
+
+            try {
+                const intentPrompt = `
+Analyze the user's query and decide which data categories to search.
+Categories:
+1. Fact (事実): Questions about events, logs, specific information.
+2. Thought (考え): Questions about opinions, ideas, philosophy, reasons.
+3. Experience (体験): Questions about personal stories, memories, feelings.
+
+Return valid categories as a comma-separated list (e.g., "Fact, Experience"). 
+If unsure or if it requires all, return "Fact, Thought, Experience".
+User Query: "${message}"
+`;
+                const classification = await chatWithOllama({
+                    model: ollamaModel,
+                    system: "You are a query router. Return ONLY the category names.",
+                    user: intentPrompt
+                });
+
+                console.log("Router classification:", classification);
+
+                if (classification.includes('Fact') || classification.includes('事実')) targetCategories.push('Fact');
+                if (classification.includes('Thought') || classification.includes('考え')) targetCategories.push('Thought');
+                if (classification.includes('Experience') || classification.includes('体験')) targetCategories.push('Experience');
+
+            } catch (e) {
+                console.warn("Routing failed, defaulting to all categories.", e);
+            }
+
+            relevantChunks = await searchVectorStore(message, 3, targetCategories);
+            contextText = relevantChunks.map(c => `[${c.metadata.category}] ${c.content}`).join('\n\n---\n\n');
         }
 
         // 2. Construct System Prompt with Context

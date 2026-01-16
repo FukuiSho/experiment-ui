@@ -83,21 +83,25 @@ export async function saveVectorStore(chunks: VectorChunk[]) {
     console.log(`Upserted ${chunks.length} chunks to ChromaDB.`);
 }
 
-export async function searchVectorStore(query: string, limit: number = 3): Promise<VectorChunk[]> {
+export async function searchVectorStore(query: string, limit: number = 3, filterCategories: string[] = []): Promise<VectorChunk[]> {
     const collection = await getCollection();
 
     // Generate embedding for the query
     const queryEmbedding = await generateEmbedding(query);
 
+    // Build where clause if categories are provided
+    const whereClause: any = filterCategories.length > 0
+        ? { category: { "$in": filterCategories } }
+        : undefined;
+
     // Query ChromaDB
     const results = await collection.query({
-        queryEmbeddings: [queryEmbedding], // Standard implementation takes array of embeddings
+        queryEmbeddings: [queryEmbedding],
         nResults: limit,
-        // include: ['documents', 'metadatas', 'embeddings'] // Default usually includes documents/metadatas/distances
+        where: whereClause
     });
 
     // Map back to VectorChunk structure
-    // results.ids[0], results.documents[0] etc corresponds to the first query embedding
     const queryResults = results.ids[0];
     if (!queryResults || queryResults.length === 0) return [];
 
@@ -108,7 +112,7 @@ export async function searchVectorStore(query: string, limit: number = 3): Promi
             id: results.ids[0][i],
             content: results.documents?.[0]?.[i] || '',
             metadata: results.metadatas?.[0]?.[i] as any || {},
-            embedding: [] // We don't necessarily need to return the embedding itself unless debugging
+            embedding: []
         });
     }
 
