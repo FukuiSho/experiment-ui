@@ -1,0 +1,20 @@
+Processing similarity scores...
+.........
+Done.
+=== Text Similarity Analysis ===
+Examples processed: 9921
+Average Normalized Levenshtein Score: 0.0595
+Average Jaccard Similarity (Bigram): 0.0066
+--------------------------------
+Top 3 Matches (High Similarity):
+[1] Score: 0.57
+    Expected:  縺ｪ繧九⊇縺ｩ縺ｪ
+    Generated: 縺ｪ繧九⊇縺ｩ縺ｭ縲・[2] Score: 0.56
+    Expected:  縺医√↑繧薙°縲・    Generated: 縺ｸ縺医√◎縺・↑繧薙ｄ縲・[3] Score: 0.50
+    Expected:  襍ｷ縺阪※繧九ｈ
+    Generated: 逕溘″縺ｦ繧九ｏ縲・
+Bottom 3 Matches (Low Similarity):
+[1] Score: 0.00
+    Expected:  2莠ｺ 繧・縺ｭ繧・縺代←縲・    Generated: 縺ｯ縺・√〒・・[2] Score: 0.00
+    Expected:  縺上◎縲・    Generated: 繧難ｼ滉ｽ輔°逕ｨ・・[3] Score: 0.00
+    Expected:  繧・ｌ縲・    Generated: 菴輔′襍ｷ縺阪◆・・

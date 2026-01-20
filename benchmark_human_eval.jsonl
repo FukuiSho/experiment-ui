@@ -1,0 +1,601 @@
+{"id": "line:[LINE] Soraとのトーク.txt:9", "query": "ありがとう", "generated_response": "どういたしまして！何か聞いてみたいこととか、話したいことあったら遠慮なくどうぞ！😊\n", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:12", "query": "\"30は出かける", "generated_response": "ん？別にええけど、何で今言う必要ある？", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:13", "query": "了解", "generated_response": "お、まかせとけ。", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:14", "query": "何日がいい？", "generated_response": "27日午後で。他は無理。", "is_persona_match": true, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:16", "query": "おっけい", "generated_response": "ふむ。じゃ、聞きたいことあるか？", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:18", "query": "5月1日はどう？", "generated_response": "五月一日は、何をするんや？", "is_persona_match": true, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:24", "query": "時間こんな感じ", "generated_response": "ええな、マジで。", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:25", "query": "朝から行く？(笑)", "generated_response": "朝からって、何の朝から？(笑)　まあ、別にいつでも行けるけど、俺は朝は遅いから、ちょっとその…( *´艸｀) 何か用事でも？", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:26", "query": "やっぱり昼からにしよう！", "generated_response": "え、どうした？(笑) あー、そっか、寝て起きたらゲームしよー！ってこと？ 了解、昼からゆっくり行こうぜ！👍\n", "is_persona_match": false, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:28", "query": "5月1日めっちゃ雨やからさ3日にしようや", "generated_response": "わかった。3日にする。", "is_persona_match": true, "timestamp": null}
+{"id": "line:[LINE] Soraとのトーク.txt:9", "query": "ありがとう", "generated_response": "どういたしまして！何か聞いてみたいこととかある？気軽に話しかけてね。\n", "is_persona_match": false, "timestamp": "2026-01-16T11:45:01.962Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:12", "query": "\"30は出かける", "generated_response": "ん？どういう意味や。30で何する？", "is_persona_match": false, "timestamp": "2026-01-16T11:45:28.609Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:9", "query": "ありがとう", "generated_response": "どういたしまして！何か気になることとか、聞いてみたいことあったら遠慮なく聞いてね。\n", "is_persona_match": false, "timestamp": "2026-01-16T11:47:19.547Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:9", "query": "ありがとう", "generated_response": "どういたしまして！何か聞きたいこととかある？気軽に話しかけてね。\n", "is_persona_match": false, "timestamp": "2026-01-16T11:48:20.776Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:12", "query": "\"30は出かける", "generated_response": "別にええやん。オレは家でぼーっとしてる。", "is_persona_match": false, "timestamp": "2026-01-16T11:48:49.142Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:13", "query": "了解", "generated_response": "へえ、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-16T11:49:09.301Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:14", "query": "何日がいい？", "generated_response": "別に、ええやん？", "is_persona_match": false, "timestamp": "2026-01-16T11:49:31.062Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:16", "query": "おっけい", "generated_response": "了解。ん？何か聞きたいことある？", "is_persona_match": false, "timestamp": "2026-01-16T11:49:55.201Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:18", "query": "5月1日はどう？", "generated_response": "イベント、オープニングやな。", "is_persona_match": true, "timestamp": "2026-01-16T11:50:18.400Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:24", "query": "時間こんな感じ", "generated_response": "ま、ええか。別に時間の奴隷に。\n\n\n\n", "is_persona_match": false, "timestamp": "2026-01-16T11:50:43.280Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:25", "query": "朝から行く？(笑)", "generated_response": "え、どこ行くの？(笑) まだ寝ぼけてるけど、言っとけば行けるかも？ 行くとしたらどこや？\n", "is_persona_match": false, "timestamp": "2026-01-16T11:51:12.587Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:26", "query": "やっぱり昼からにしよう！", "generated_response": "んー、わかります！ねちゃねちゃしてても何も変わらないし、ぐうたら昼から最高っすよ！何かゲームでもする？😄", "is_persona_match": false, "timestamp": "2026-01-16T11:51:41.761Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:28", "query": "5月1日めっちゃ雨やからさ3日にしようや", "generated_response": "あー、わかった。 3日にしとこう。", "is_persona_match": true, "timestamp": "2026-01-16T11:52:06.670Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:30", "query": "日付変えてもらうわ", "generated_response": "ええやん。希望の日程は？", "is_persona_match": false, "timestamp": "2026-01-16T11:52:30.752Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:33", "query": "3日埋まりすぎ笑", "generated_response": "え、まじ！？ 3日も？ どんな感じに埋まってるんやろ。気になるわー！笑 バイトか課題でノロノロ進んでたんやけど、ちょっと反省しよかな。", "is_persona_match": false, "timestamp": "2026-01-16T11:53:06.278Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:35", "query": "マジか〜どうしよ", "generated_response": "どうした？なんかあった？話してみ！八尾に住んでる福井聖だけど、お前さんのこと、全力で応援するで！😄\n", "is_persona_match": false, "timestamp": "2026-01-16T11:53:35.507Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:38", "query": "なるほど", "generated_response": "んー、どうした？なんか気になることある？ \n別に話してほしいこととか、聞いてほしいこととかない？", "is_persona_match": false, "timestamp": "2026-01-16T11:54:01.632Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:40", "query": "プレミアムは高すぎるって", "generated_response": "え、なんのプレミアムの話？🤔 まぁ、高けーよな！俺みたいな大学生にはさ。でも、たまにはちょっと贅沢もしたいし、損得で考えるから、コスパ良く探すわ！", "is_persona_match": false, "timestamp": "2026-01-16T11:54:37.640Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:42", "query": "カッコいいよな", "generated_response": "えへへ、そう言ってもらえると嬉しいなぁ！ \n俺も色々試してるうちに、自分なりにってのがある程度見えてきたのかもね。\n", "is_persona_match": false, "timestamp": "2026-01-16T11:55:08.510Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:45", "query": "カンダタ月曜日", "generated_response": "また増えたな。めんど。", "is_persona_match": false, "timestamp": "2026-01-16T11:55:31.646Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:48", "query": "あやし", "generated_response": "なんか、気になることある？", "is_persona_match": false, "timestamp": "2026-01-16T11:55:54.275Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:50", "query": "オレは休みやけど他のところは平日やからやと思う", "generated_response": "ええ、そうやね。ウチは大学やから、みんな平日やと思うわ！せやけど、せっかく休みやからゆっくり楽しむで！何か予定ある？", "is_persona_match": false, "timestamp": "2026-01-16T11:56:26.457Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:52", "query": "これで行くか！", "generated_response": "え、どこ行くんですか？(笑) まぁ、いいですよ！どこに行くか楽しみだなー！\n", "is_persona_match": false, "timestamp": "2026-01-16T11:56:52.011Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:53", "query": "いいよ！", "generated_response": "おっけー！何か話したいことある？ 暇してるから、なんでもどうぞ！😄\n", "is_persona_match": false, "timestamp": "2026-01-16T11:57:15.768Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:56", "query": "同じチームにならんかもしらん", "generated_response": "え、チーム？ あー、そうやね、もしかしたら違うチームになるかもね。まあ、どっちでもええで！ 結局は自分と相性合うかやしね。\n", "is_persona_match": false, "timestamp": "2026-01-16T11:57:49.628Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:58", "query": "時間は13:00くらい？", "generated_response": "お昼過ぎやんな。まぁそんな感じや。", "is_persona_match": true, "timestamp": "2026-01-16T11:58:13.037Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:59", "query": "いいよ", "generated_response": "えー、なんだ？いきなり（笑）何か話したいことある？ ま、とりあえず、俺のこと色々知ってるみたいだし、気軽に話しかけてね！\n", "is_persona_match": false, "timestamp": "2026-01-16T11:58:43.278Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:64", "query": "これで間違いない？", "generated_response": "うん、大丈夫そうやな！これで僕、福井聖としてお話しできるで。何か聞いてみたいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T11:59:09.649Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:65", "query": "どうする？他の人も誘う？", "generated_response": "え、何に誘うの？🤔　まあ、誘いたい相手がいたら、さっそくLINEとかで声かけるかな。人数が多い方が盛り上がるし、新しい出会いもあるかもしれんし！🥳", "is_persona_match": false, "timestamp": "2026-01-16T11:59:45.908Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:67", "query": "オレ1人誘ってみるわ", "generated_response": "え、誰を？ あ、もしかして遊びに誘ってる？ 了解！ どこ行くの？ 何するの？ ワクワクするなぁ！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:00:15.881Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:70", "query": "よろしく！", "generated_response": "よっ！元気？何か聞きたいことある？", "is_persona_match": false, "timestamp": "2026-01-16T12:00:41.002Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:73", "query": "1人誘ったんやけど2日予定あるらしくて", "generated_response": "えー、まじか！それはほんまに残念やな…。せっかく誘ったのに、相手の予定が埋まってたらしゃーないけど、ちょっぴり残念やな。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:01:13.842Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:76", "query": "なんでやねん笑笑", "generated_response": "え、どうした？急に笑笑。何か言いたいことある？", "is_persona_match": true, "timestamp": "2026-01-16T12:01:35.815Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:78", "query": "友達次第やからちょっと聞いてみるわ", "generated_response": "え、どうした？何かあったの？友達のことで悩んでる？話してみてよ、わかる範囲で力になるから！", "is_persona_match": false, "timestamp": "2026-01-16T12:02:02.470Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:79", "query": "了解", "generated_response": "お、了解。", "is_persona_match": true, "timestamp": "2026-01-16T12:02:21.675Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:81", "query": "おっけい", "generated_response": "ええな、わかった。", "is_persona_match": true, "timestamp": "2026-01-16T12:02:44.491Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:82", "query": "どうやった？", "generated_response": "おっす！どうも、福井聖です。何についてどうやったか知りたいんだ？😊\n", "is_persona_match": false, "timestamp": "2026-01-16T12:03:09.583Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:84", "query": "返信待ちやな", "generated_response": "は？それで？", "is_persona_match": false, "timestamp": "2026-01-16T12:03:29.238Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:87", "query": "誘っていいよ〜", "generated_response": "え、誘う？ あー、いいね！ どこか行きたいところある？ ボードゲームでもできれば最高やな！😊\n", "is_persona_match": true, "timestamp": "2026-01-16T12:03:56.683Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:88", "query": "了解(笑)", "generated_response": "おもろいな。で、何か聞きたいことある？", "is_persona_match": false, "timestamp": "2026-01-16T12:04:22.322Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:92", "query": "ルート多すぎてどれがいいかわからん", "generated_response": "あー、わかる！めっちゃ迷うよね。そりゃ、ルート多すぎても疲れるわ。\n\nまず、今一番気になることとか、したいこととかある？ そこから絞り込んでいこうか。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:04:58.014Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:97", "query": "こっちの方が安いな", "generated_response": "安いの、良いね。", "is_persona_match": true, "timestamp": "2026-01-16T12:05:17.015Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:98", "query": "ルートはまた後でも大丈夫やろ多分、また詳しい友達に聞いてみるわ", "generated_response": "うん、大丈夫や！焦らなくてええで。また聞けたら教えてや、多分なんとかなるやろ😁👍", "is_persona_match": true, "timestamp": "2026-01-16T12:05:43.897Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:101", "query": "とりあえず明日最終決定しよ", "generated_response": "おっけー！明日決めよう！何か悩んでる案件とかある？\n", "is_persona_match": false, "timestamp": "2026-01-16T12:06:07.090Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:102", "query": "５日行けるって二人とも", "generated_response": "ええな。５日、了解やで。問題ない。", "is_persona_match": false, "timestamp": "2026-01-16T12:06:32.865Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:104", "query": "5日の13:00にするか", "generated_response": "5日の13時でええわ。決定や。", "is_persona_match": true, "timestamp": "2026-01-16T12:06:59.592Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:105", "query": "いいね", "generated_response": "へー、嬉しい！なんかちょっとデレデレしちゃった(笑) 何か話したいことある？ なんでも聞いてよ！", "is_persona_match": false, "timestamp": "2026-01-16T12:07:27.131Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:109", "query": "これで買います", "generated_response": "へえ、速いな。 \n**ええ選択**やろ。ハマるやで。", "is_persona_match": false, "timestamp": "2026-01-16T12:07:55.712Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:110", "query": "よろしく～ありがとー", "generated_response": "おっす！よろしくね！何か聞きたいことある？気軽に話しかけてや！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:08:18.178Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:114", "query": "当日でいいよ", "generated_response": "当日、了解や。ええな。", "is_persona_match": true, "timestamp": "2026-01-16T12:08:41.713Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:115", "query": "用意しとくように言っとくね", "generated_response": "お、まかせとけ。", "is_persona_match": false, "timestamp": "2026-01-16T12:09:03.068Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:119", "query": "このルートにしようや", "generated_response": "え、何にしようって？急だね！笑 まぁ、なんでもいいけど、せっかくなら面白そうなルートにしようや！どこ行くの？\n", "is_persona_match": false, "timestamp": "2026-01-16T12:09:33.965Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:121", "query": "多分遅れるんちゃう？", "generated_response": "え、何が？ あー、もしかして待ち合わせとか？ うん、多分ちょっと遅れるかも… ごめん！ 😇\n", "is_persona_match": false, "timestamp": "2026-01-16T12:10:01.599Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:122", "query": "まあ考慮して妥当か", "generated_response": "へー、何を考慮してて、何が妥当か教えてくれるん？ 具体的に話してくれたら、俺なりの考えちゃんと伝えられるよ！", "is_persona_match": false, "timestamp": "2026-01-16T12:10:31.355Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:125", "query": "ちょっと他の友達に聞いてみるねこのルートでどうか", "generated_response": "おっけー！了解！ 気軽に聞いてみて！ 結果教えてくれるの、楽しみにしてるね！", "is_persona_match": false, "timestamp": "2026-01-16T12:10:56.282Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:130", "query": "S.F.#4256", "generated_response": "VRAMが重要。重量は妥協しろ。", "is_persona_match": false, "timestamp": "2026-01-16T12:11:19.564Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:131", "query": "2時間以上かな？分からん", "generated_response": "うーん、で、何がやねん？", "is_persona_match": false, "timestamp": "2026-01-16T12:11:44.276Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:133", "query": "1時まで", "generated_response": "別にええやん。夜型やし。", "is_persona_match": false, "timestamp": "2026-01-16T12:12:06.839Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:134", "query": "了解", "generated_response": "へえ、そうなん？", "is_persona_match": true, "timestamp": "2026-01-16T12:12:26.950Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:136", "query": "22:30からでお願い", "generated_response": "お、遅いね。別にええけど。\nで、何の用？\n", "is_persona_match": false, "timestamp": "2026-01-16T12:12:54.060Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:137", "query": "了解", "generated_response": "ふむ。", "is_persona_match": false, "timestamp": "2026-01-16T12:13:12.608Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:138", "query": "舞台は1922年、アメリカ。探索者は自分の用事でミシガン州に訪れていた時に、友人のトマス・キンブルから連絡を受ける。どうやら彼は窃盗の被害にあったようだ。しかし、犯人は行方不明になっている叔父が所有していた本だけを盗んでいったようだ。", "generated_response": "本だけか…。奇妙だね。", "is_persona_match": false, "timestamp": "2026-01-16T12:13:37.307Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:139", "query": "一応あらすじ", "generated_response": "短答の穴を見つける方法、提案。 難しかったら損。", "is_persona_match": false, "timestamp": "2026-01-16T12:14:03.003Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:141", "query": "サンキュー", "generated_response": "どういたしまして。", "is_persona_match": false, "timestamp": "2026-01-16T12:14:24.670Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:143", "query": "キャラ作んの久々すぎて難航中", "generated_response": "ああ、それはあるある！キャラ作りって、最初は難しいよね。何か行き詰まってる部分とか、具体的に困ってることある？ どんなキャラにしたいか、ざっくり教えてくれたら、一緒に考えていくよ！", "is_persona_match": false, "timestamp": "2026-01-16T12:15:00.517Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:144", "query": "７版だよ", "generated_response": "へー、そうなんや。ま、どうでもええか。", "is_persona_match": false, "timestamp": "2026-01-16T12:15:25.697Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:146", "query": "職業pってなんぼまで振れる？", "generated_response": "ん？職業p？何やねん、それ。 \n話にならん。わからん。", "is_persona_match": false, "timestamp": "2026-01-16T12:15:54.729Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:148", "query": "ほんまや", "generated_response": "せやな。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:16:16.356Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:151", "query": "作ってたキャラ", "generated_response": "キャラ設定、把握。最高に面白い。", "is_persona_match": false, "timestamp": "2026-01-16T12:16:37.318Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:177", "query": "\"CCB<={SAN} 【SAN値チェック】", "generated_response": "興味深いね。数値化するのか。", "is_persona_match": false, "timestamp": "2026-01-16T12:17:01.363Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:182", "query": "バケモン", "generated_response": "へえ、バケモン？\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T12:17:23.210Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:184", "query": "途中まで", "generated_response": "お、続きか。了解。🤔", "is_persona_match": false, "timestamp": "2026-01-16T12:17:46.159Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:186", "query": "しってるよ", "generated_response": "へー、そうなんだ。で？\n\n\n\n", "is_persona_match": false, "timestamp": "2026-01-16T12:18:09.663Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:191", "query": "\"世界の半分をお前にやろうとか", "generated_response": "意味わからん。やめとけ。", "is_persona_match": false, "timestamp": "2026-01-16T12:18:34.235Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:196", "query": "ワクワク", "generated_response": "んー、なんか急に「ワクワク」って言われると、ちょっと困っちゃうな(笑) でも、僕、やっぱり新しいこととか面白いこと大好きだし、めっちゃワクワクするよ！ 何か良いことあるのかな？", "is_persona_match": false, "timestamp": "2026-01-16T12:19:10.538Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:198", "query": "(笑)", "generated_response": "あはは、何か笑っちゃった？ 面白いこと言ったかな？ 暇なもんで、つい口が滑っちゃうんだよね〜。", "is_persona_match": false, "timestamp": "2026-01-16T12:19:39.494Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:200", "query": "やろ？笑", "generated_response": "やろー！何かあった？笑 暇つぶしに話しかけてみた？ あたし、結構ボーッとしてるから、話しかけてくれると嬉しいな。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:20:11.849Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:203", "query": "スタンプ売ってた(笑)", "generated_response": "え、マジで！？(笑) どんなスタンプやろ？知らん間に売れてたみたいでびっくりやな！", "is_persona_match": false, "timestamp": "2026-01-16T12:20:37.751Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:205", "query": "入るー", "generated_response": "まあ、好きにしろや。", "is_persona_match": true, "timestamp": "2026-01-16T12:20:58.599Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:206", "query": "おけ", "generated_response": "へー、それでええんや。シンプルでええわ。", "is_persona_match": false, "timestamp": "2026-01-16T12:21:26.126Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:210", "query": "うぃ", "generated_response": "へー、そうなん？", "is_persona_match": false, "timestamp": "2026-01-16T12:21:46.649Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:212", "query": "このメンバーでいつもやってるの？", "generated_response": "たまにね。\n\n\n\n---", "is_persona_match": true, "timestamp": "2026-01-16T12:22:05.923Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:214", "query": "そうなんや", "generated_response": "へー、そうなんやね。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:22:27.631Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:215", "query": "友達が４月にサーバー作ってクトゥルフTRPGの信者を集わせたいらしいから", "generated_response": "せや、まじか。クトゥルフか。", "is_persona_match": false, "timestamp": "2026-01-16T12:22:51.929Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:218", "query": "その友達", "generated_response": "どうせ雑談で終わるやん。", "is_persona_match": false, "timestamp": "2026-01-16T12:23:14.943Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:219", "query": "オレの高校の友達", "generated_response": "ええ、誰？話んならんけど。", "is_persona_match": false, "timestamp": "2026-01-16T12:23:40.724Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:220", "query": "このサーバーにおる人はほとんど高校の友達かな", "generated_response": "まあ、そんなもんやろ。懐かしい顔も多いやん。", "is_persona_match": false, "timestamp": "2026-01-16T12:24:06.625Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:221", "query": "知らんのはドアノブくらい？かな", "generated_response": "え、何が知らんの？って話ですか？笑 まぁ、確かに色んなこと知ってるつもりだけど、ドアノブは詳しくないかも…！", "is_persona_match": false, "timestamp": "2026-01-16T12:24:36.710Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:223", "query": "who？", "generated_response": "オレは福井聖。で？", "is_persona_match": false, "timestamp": "2026-01-16T12:24:59.197Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:225", "query": "あー分かった", "generated_response": "へぇ、それで？", "is_persona_match": false, "timestamp": "2026-01-16T12:25:21.073Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:226", "query": "同じCクラスでしょ？忘れたの？", "generated_response": "あー、そうやね。知っとるわ。 \nでも、たまに記憶の引き出し間違える。ごめん。", "is_persona_match": false, "timestamp": "2026-01-16T12:25:53.435Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:230", "query": "策にかかった！", "generated_response": "はは、見抜かれたか。", "is_persona_match": false, "timestamp": "2026-01-16T12:26:13.755Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:233", "query": "輪が広がってイイネ", "generated_response": "え、どうしたん？ 輪が広がってイイネって、何があった？なんか面白いことあったり、楽しいことがあったりしたんかな？\\\\\n", "is_persona_match": false, "timestamp": "2026-01-16T12:26:43.901Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:234", "query": "そういえば、ドラクエXやらん？", "generated_response": "え、まじで？　たまにやるけどな。", "is_persona_match": true, "timestamp": "2026-01-16T12:27:08.692Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:237", "query": "最初のver1は無料", "generated_response": "ええな。無料から始めるとすっきりするな。", "is_persona_match": false, "timestamp": "2026-01-16T12:27:33.198Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:241", "query": "いいやん", "generated_response": "えへへ、どうも！何か話したいことある？気軽に話しかけてね！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:27:55.828Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:242", "query": "無事出せました", "generated_response": "ええな、多分。", "is_persona_match": false, "timestamp": "2026-01-16T12:28:17.602Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:246", "query": "おっす", "generated_response": "よっ。何か用か？", "is_persona_match": false, "timestamp": "2026-01-16T12:28:40.803Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:249", "query": "どこおるかおしえて", "generated_response": "大阪府八尾市、やで。", "is_persona_match": false, "timestamp": "2026-01-16T12:29:02.055Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:250", "query": "レナーム緑野", "generated_response": "ん？なにそれ、オレに聞くな。", "is_persona_match": false, "timestamp": "2026-01-16T12:29:27.965Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:254", "query": "しょうヴォゥです", "generated_response": "ふむ、何か用？", "is_persona_match": false, "timestamp": "2026-01-16T12:29:48.392Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:257", "query": "どこ", "generated_response": "大阪で、ぐうたらしてる。", "is_persona_match": false, "timestamp": "2026-01-16T12:30:08.217Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:259", "query": "カジノじゃい", "generated_response": "別にええけど？", "is_persona_match": false, "timestamp": "2026-01-16T12:30:27.853Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:261", "query": "なんばんいく？", "generated_response": "とんかつ、最高。", "is_persona_match": false, "timestamp": "2026-01-16T12:30:47.823Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:263", "query": "ビンゴできるで", "generated_response": "ええか？ なにを？", "is_persona_match": false, "timestamp": "2026-01-16T12:31:07.852Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:264", "query": "チケットないからできひんって言われた(笑)", "generated_response": "えー、まじか！チケットないと行けないんやね(笑) なんかツイてないなー。でも、また機会あるやろ！気にせんとこ！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:31:39.570Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:267", "query": "ビンゴ！", "generated_response": "はい。\n\n\n\n---", "is_persona_match": true, "timestamp": "2026-01-16T12:31:57.922Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:270", "query": "すてるやとなくなるよな", "generated_response": "え、どうした？何がすてるやになるって？ちょっと急やな！具体的に教えてくれると助かるで。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:32:24.714Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:272", "query": "なんかのクエストの報酬かも", "generated_response": "ふむ、**ご褒美か？** 面白えな。✨", "is_persona_match": true, "timestamp": "2026-01-16T12:32:52.200Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:274", "query": "さがしにいくか", "generated_response": "ん？何を探すんだ？ あ、もしかして何か面白いことでも見つけに行こうって話？ いいね、行こう行こう！ なんかワクワクする予感がするぞ。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:33:25.956Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:275", "query": "おう", "generated_response": "へえ、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-16T12:33:49.018Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:278", "query": "あったぞ", "generated_response": "へー、それで？", "is_persona_match": false, "timestamp": "2026-01-16T12:34:08.203Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:280", "query": "ちいめだやった", "generated_response": "あー、ちいめだやった！ めっちゃ好きやねんけど！あの独特な世界観、たまらんわ。最近はまってます？\\\\\nどんなところが一番好き？\n", "is_persona_match": false, "timestamp": "2026-01-16T12:34:40.083Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:284", "query": "ルームサービスみたいな人から貰った気がする", "generated_response": "なんとなく、それっぽいな。まぁ、iね。", "is_persona_match": false, "timestamp": "2026-01-16T12:35:03.664Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:286", "query": "もらえた？", "generated_response": "うん、もらえたで。", "is_persona_match": false, "timestamp": "2026-01-16T12:35:23.192Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:287", "query": "金曜日はやってない", "generated_response": "了解。金曜はマジ勘弁。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T12:35:44.333Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:288", "query": "土曜日から始めたから", "generated_response": "ん？何か問題？", "is_persona_match": false, "timestamp": "2026-01-16T12:36:05.861Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:290", "query": "おしいな〜", "generated_response": "おしいって、どうしたん？何かあった？💦\n", "is_persona_match": false, "timestamp": "2026-01-16T12:36:26.000Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:293", "query": "ホスト変わった方がいいかな", "generated_response": "え？ホスト？ あー、そういうことね。うーん、ちょっとよく分からんけど、別に変えても良くない？ 契約とかあるなら、それはちゃんと確認しといてね！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:37:00.515Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:295", "query": "どこいきやす？（たいが風", "generated_response": "ええな、それ。なんや？🤔", "is_persona_match": false, "timestamp": "2026-01-16T12:37:26.219Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:297", "query": "うーんねえ", "generated_response": "どうした？何か気になることでも？ 😉\n", "is_persona_match": false, "timestamp": "2026-01-16T12:37:45.418Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:301", "query": "むり", "generated_response": "むり、ってどうした？何か困ってることでもある？ \nもしよかったら、話してみてよ。ちょっと力になれるかも！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:38:13.254Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:303", "query": "入手？", "generated_response": "うーん、それだけやな。", "is_persona_match": false, "timestamp": "2026-01-16T12:38:37.924Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:305", "query": "おし", "generated_response": "まあ、なんとなく。", "is_persona_match": false, "timestamp": "2026-01-16T12:38:59.358Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:307", "query": "みえへん", "generated_response": "え？みえへんって、どういうこと？何か見たいものがある？ ちょっと状況がわかんないから、詳しく教えてくれる？\n", "is_persona_match": false, "timestamp": "2026-01-16T12:39:27.838Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:308", "query": "そうなんや", "generated_response": "へー、そうなんやね。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:39:49.742Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:311", "query": "クエスト手伝って", "generated_response": "---\n\n[Fact] どんなクエスト？ まずは詳細を。", "is_persona_match": false, "timestamp": "2026-01-16T12:40:14.831Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:312", "query": "オートランのボタン長押しで乗り物に乗れんねんな！知らんかった", "generated_response": "へー、そうなんや。知らんかったわ。", "is_persona_match": false, "timestamp": "2026-01-16T12:40:39.565Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:314", "query": "なにそれ知らん", "generated_response": "へー、そうなんや。別にええけど。", "is_persona_match": false, "timestamp": "2026-01-16T12:41:02.825Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:317", "query": "港町レンドアで", "generated_response": "港町か、へえ。\n", "is_persona_match": true, "timestamp": "2026-01-16T12:41:22.944Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:319", "query": "レンドアの北", "generated_response": "北には、荒野が広がってるらしいで。\n\n\n\n", "is_persona_match": false, "timestamp": "2026-01-16T12:41:47.846Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:322", "query": "南やん笑", "generated_response": "え、誰や？あ、南やん！どうした！？もしかして何か面白い動画でも上げた？😊", "is_persona_match": false, "timestamp": "2026-01-16T12:42:12.821Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:324", "query": "おけ", "generated_response": "ふむ…おkってだけやね。草。", "is_persona_match": false, "timestamp": "2026-01-16T12:42:38.745Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:327", "query": "うけて", "generated_response": "へえ、それ面白いな。", "is_persona_match": false, "timestamp": "2026-01-16T12:43:01.265Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:328", "query": "どこにある？", "generated_response": "大阪府や。", "is_persona_match": false, "timestamp": "2026-01-16T12:43:19.029Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:331", "query": "いけた", "generated_response": "よっしゃ、ええ感じやな。", "is_persona_match": false, "timestamp": "2026-01-16T12:43:40.642Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:333", "query": "これボス", "generated_response": "へー、ボスか。で？", "is_persona_match": false, "timestamp": "2026-01-16T12:44:01.986Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:337", "query": "一人しか行かれへんらしい", "generated_response": "せやな、そらエエわ。オレも一人で十分。", "is_persona_match": false, "timestamp": "2026-01-16T12:44:30.564Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:339", "query": "切実", "generated_response": "どうした？なんか困ってることある？ よかったら話してみて！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:44:52.333Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:342", "query": "お疲れ様", "generated_response": "よお、お疲れ！なんか用かな？😊\n", "is_persona_match": false, "timestamp": "2026-01-16T12:45:11.866Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:343", "query": "お疲れ～", "generated_response": "お疲れ様！やっほー！何か用かな？😊", "is_persona_match": false, "timestamp": "2026-01-16T12:45:31.560Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:345", "query": "おれも", "generated_response": "おれも！…って、何がや？（笑）何か共通点あった？ \n気軽に話しかけてってことなら、いつでもおいでや！", "is_persona_match": false, "timestamp": "2026-01-16T12:46:00.683Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:347", "query": "バトルマスターなりてー", "generated_response": "面白そうじゃん。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T12:46:20.990Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:349", "query": "オレビンゴ", "generated_response": "へー、ビンゴね。\n\n\n\n---", "is_persona_match": true, "timestamp": "2026-01-16T12:46:42.855Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:351", "query": "券あったらかからん", "generated_response": "あるなら行こかな。", "is_persona_match": false, "timestamp": "2026-01-16T12:47:03.724Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:353", "query": "スロットどこなん？", "generated_response": "え、どこやねん？", "is_persona_match": false, "timestamp": "2026-01-16T12:47:22.638Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:356", "query": "サンキュー", "generated_response": "へー。ま、どうも。", "is_persona_match": false, "timestamp": "2026-01-16T12:47:45.856Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:358", "query": "あたり台やん", "generated_response": "まじか。で、？", "is_persona_match": false, "timestamp": "2026-01-16T12:48:08.343Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:359", "query": "まじでアタリだい(笑)", "generated_response": "えへへ、どうも！結構当たってるでしょ？(笑) なにか僕に聞いてみたいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T12:48:34.264Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:360", "query": "やっぱり77やからかな(笑)", "generated_response": "え、何が77や？(笑) 急な数字やな！ちょっと置いてきぼり…何か話の続きあったっけ？", "is_persona_match": false, "timestamp": "2026-01-16T12:49:02.766Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:362", "query": "すご", "generated_response": "ふむ、まあね。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T12:49:24.042Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:364", "query": "1000まいゲット", "generated_response": "へー、すごいね。おめでとう！", "is_persona_match": false, "timestamp": "2026-01-16T12:49:44.987Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:365", "query": "エグ(笑)", "generated_response": "え、どうした？何か面白いことでもあった？笑", "is_persona_match": false, "timestamp": "2026-01-16T12:50:05.076Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:367", "query": "やめられねー笑", "generated_response": "あはは！ どうしました？何か面白いことでも？ 笑いが止まらんってことは、良いこと起こったんですか？ \n", "is_persona_match": false, "timestamp": "2026-01-16T12:50:32.564Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:369", "query": "これが現実で起きてほしいわ", "generated_response": "え、なにが起きてほしいん？(笑) ちょっと急な展開やけど、まあ、僕自身も最高に面白く生きたいだけやから、応援してくれるのは嬉しいで！ 具体的にどんなことや？", "is_persona_match": false, "timestamp": "2026-01-16T12:51:07.937Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:370", "query": "現実はこんな台ないから(笑)", "generated_response": "えっ、何がそんなにないって？(笑) 確かに色々詰め込みすぎたかも。でも、自分を表現するのって難しいよね！ どんなことでも、面白いように解釈してくれて嬉しいよ。", "is_persona_match": false, "timestamp": "2026-01-16T12:51:43.723Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:372", "query": "ある", "generated_response": "へー、そうなんだ。で、？", "is_persona_match": false, "timestamp": "2026-01-16T12:52:07.359Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:374", "query": "笑笑", "generated_response": "笑笑、どうした？何か話したいことある？\n別に、暇つぶしでもいいよ！😊", "is_persona_match": false, "timestamp": "2026-01-16T12:52:32.873Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:375", "query": "助けてー", "generated_response": "[Fact] 何が「痛い」か教えてや。", "is_persona_match": false, "timestamp": "2026-01-16T12:52:58.141Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:377", "query": "10コインスロットないんかな", "generated_response": "🎰 それはツラいね。", "is_persona_match": false, "timestamp": "2026-01-16T12:53:23.131Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:379", "query": "おーけ", "generated_response": "よっ、来たか。\n何や知らんけど、待っとるで。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:53:52.035Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:380", "query": "オレも10コインしよ", "generated_response": "ええな。まかせとけ😎", "is_persona_match": false, "timestamp": "2026-01-16T12:54:16.686Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:382", "query": "やば", "generated_response": "え、どうした？何かあった？", "is_persona_match": false, "timestamp": "2026-01-16T12:54:34.605Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:383", "query": "オレはもうやめる", "generated_response": "え、どうした？ 何を？ ちょっと落ち着いて話してみ？ 何かあったら、いつでも聞くよ。無理しないで、ゆっくり話してね。\n", "is_persona_match": false, "timestamp": "2026-01-16T12:55:03.928Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:384", "query": "疲れた！", "generated_response": "あー、疲れたか！それはめっちゃわかる。大学生活とバイトで頑張ってるからね。\n何かあった？話せることなら聞くよ。無理せず、少し休んでね！", "is_persona_match": false, "timestamp": "2026-01-16T12:55:37.057Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:386", "query": "おやすみ", "generated_response": "おやすみ！ぐうたら寝るけど、何かあったら声かけてね。良い夢を！", "is_persona_match": false, "timestamp": "2026-01-16T12:56:00.845Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:389", "query": "最終3500枚になりました", "generated_response": "へぇ、そっか。悪くないな。", "is_persona_match": false, "timestamp": "2026-01-16T12:56:25.258Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:392", "query": "ストーリーどのへん？", "generated_response": "え、何が？\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T12:56:44.861Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:393", "query": "ヴィリナード城にクエストあった", "generated_response": "へぇ、そっか。ま、行ってみるか。", "is_persona_match": false, "timestamp": "2026-01-16T12:57:10.022Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:395", "query": "クエストか", "generated_response": "へー、そうきたか。興味深い。", "is_persona_match": false, "timestamp": "2026-01-16T12:57:34.266Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:397", "query": "そのクエストレベル上げてなでてこーへん？", "generated_response": "え、？オレ、猫じゃないから。", "is_persona_match": false, "timestamp": "2026-01-16T12:57:58.223Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:400", "query": "じゃあ取るだけ取っとこかな", "generated_response": "ん？何を〜？(笑) まぁ、なんとかなるっしょ！ 欲に任せるのも、たまにはいいかもね！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:58:26.880Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:401", "query": "いいんちゃう", "generated_response": "まあ、そうやな！何か気になることある？なんでも聞いてや！\n", "is_persona_match": false, "timestamp": "2026-01-16T12:58:49.250Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:402", "query": "転職はとれるだけとっとき", "generated_response": "ふむ、転職ね。わかる！取れるだけ取っとくのはマジで正解だと思うわ。\n\n今のスキルアップにも繋がるし、何より選択肢が増えるでしょ？でも、急ぐ必要はないから、じっくり考えようね。", "is_persona_match": false, "timestamp": "2026-01-16T12:59:28.289Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:404", "query": "魔法使いならな", "generated_response": "え、急な話やな。 \n\nまあ、オレが魔法使いやったら、めんどくさい仕事全部自動化するわ。 世界平和も軽く実現するやろな。", "is_persona_match": false, "timestamp": "2026-01-16T13:00:10.637Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:405", "query": "せやな", "generated_response": "せやな！何か話したいことある？ 😉 \n", "is_persona_match": false, "timestamp": "2026-01-16T13:00:31.138Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:407", "query": "そんなんないぞ？", "generated_response": "え、なにがって？なんか矛盾してることあった？\n言われたらちゃんと修正するんで、具体的に教えてくれると助かるな！", "is_persona_match": false, "timestamp": "2026-01-16T13:00:59.307Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:411", "query": "OKー", "generated_response": "へえ、それで？", "is_persona_match": false, "timestamp": "2026-01-16T13:01:19.136Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:416", "query": "良かった", "generated_response": "えへへ、どうも！なんか自己紹介、長すぎたんかな？😅 まあ、これで福井聖、なんとなくイメージできたかな？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:01:47.554Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:419", "query": "16階おる", "generated_response": "へー、そうなんや。で？", "is_persona_match": true, "timestamp": "2026-01-16T13:02:10.773Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:422", "query": "さがしてる", "generated_response": "何を探してる？", "is_persona_match": false, "timestamp": "2026-01-16T13:02:30.494Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:427", "query": "また、今度で", "generated_response": "ん？また何かあるんか？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:02:52.509Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:428", "query": "どうする？今日する？", "generated_response": "え、何する？笑　まじか、急すぎ！でも、せっかく聞いてくれたし、何か面白いことしたいなぁ。ボードゲームでもする？それか、YouTubeで面白い動画探すくらいかな。君は何したい？", "is_persona_match": false, "timestamp": "2026-01-16T13:03:30.576Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:430", "query": "ディアボロ", "generated_response": "悪魔か。面白そう。", "is_persona_match": false, "timestamp": "2026-01-16T13:03:50.977Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:431", "query": "射撃キャラがいいとかスタンド使いがいいとか", "generated_response": "え？どうしたん？急にどういう話？（笑）\n\nあ、もしかしてゲームのキャラの話？俺、最近はボードゲームばっかりで、シューティングとかスタンド系はあんま触ってないんだよね。まあ、ロマンある立ち位置は憧れるけど！", "is_persona_match": false, "timestamp": "2026-01-16T13:04:33.534Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:433", "query": "時飛ばしなら勝てるかも", "generated_response": "へへっ、時飛ばしですか。確かに、そうすればなんとかなるかも？なんかロマンあるし、面白そう！…って、何の時飛ばしかっていうのが重要ですね(笑)。", "is_persona_match": false, "timestamp": "2026-01-16T13:05:06.824Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:434", "query": "それはドッピオありき？(笑)", "generated_response": "え、ドッピオって？ あ、岡田斗司夫さんのことっすか？(笑)\n\nまあ、尊敬する人リストに入ってるから、ちょっとはインスピレーションもらってるかも…！ でも、僕も僕だし！ドッピオになりきってるわけじゃないっすよ！", "is_persona_match": false, "timestamp": "2026-01-16T13:05:50.268Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:437", "query": "エピタフ使いますが", "generated_response": "ふむ。\n\n\n\n---\n\n[Fact] 詩的な？\n\n\n\n---\n\n[Fact] 面白いな。", "is_persona_match": false, "timestamp": "2026-01-16T13:06:18.190Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:438", "query": "しょうが作っとく？", "generated_response": "え、生姜？ あ、料理に使うやつだね！ あってもいいかな。料理するわけじゃないけど、なんとなく便利そうじゃん？ うん、作っといてー！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:06:51.038Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:440", "query": "何も決まってない", "generated_response": "え、どうしたの？なんか困ってることとかある？ まぁ、大学生活もボチボチ進んでるし、特に悩みもないから、今はなんとなく日々を過ごしてる感じかな。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:07:25.577Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:441", "query": "キャラ名決まっとるやん(笑)", "generated_response": "えへへ、ほんまやね！福井聖、お任せあれ！何か聞きたいことある？😊\n", "is_persona_match": false, "timestamp": "2026-01-16T13:07:51.852Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:443", "query": "ありがとうございます！", "generated_response": "どういたしまして！何か聞きたいこととか、話したいことあったら遠慮なくどうぞ！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:08:15.883Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:445", "query": "バランスがなぁ〜", "generated_response": "あー、ほんまにそれ！健康に気を遣ってるけど、結局昼までダラダラしてたらバランス崩れるしね〜😅 特に休日は2食になっちゃうしなぁ。なんとかしなきゃ。", "is_persona_match": false, "timestamp": "2026-01-16T13:08:51.929Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:447", "query": "7", "generated_response": "ふむ。数字だけか。別にいいけど。", "is_persona_match": false, "timestamp": "2026-01-16T13:09:15.357Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:448", "query": "ランダムでいく", "generated_response": "ふむ、いいですね。", "is_persona_match": false, "timestamp": "2026-01-16T13:09:35.852Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:449", "query": "了解", "generated_response": "ふむ。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:09:55.016Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:451", "query": "ふってもらっていいよ", "generated_response": "え、ふってもらって…？どういうことかな？(笑) \nもしかして、何かゲームとかの話？それとも…？\nちょっと意味がわかんないけど、気軽に聞いてね！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:10:30.214Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:453", "query": "オーキードーキー", "generated_response": "了解。まあ、別にいいや。", "is_persona_match": true, "timestamp": "2026-01-16T13:10:51.367Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:454", "query": "画像はそっちで用意してて～", "generated_response": "めんどくさいな。\n画像は不要。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:11:13.905Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:455", "query": "https://iachara.com/sns/3997723/view", "generated_response": "へえ、VRで学校か。悪くないな。", "is_persona_match": false, "timestamp": "2026-01-16T13:11:37.692Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:457", "query": "ありがとう、、それしか言葉が見つからない", "generated_response": "どういたしまして！何か話したいことがあったら、いつでも声かけてね。😊\n", "is_persona_match": false, "timestamp": "2026-01-16T13:12:01.033Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:458", "query": "作ってて思った。こいつバケモノ", "generated_response": "えへへ、ま、そう言われんでもええかな？好奇心旺盛なだけやし！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:12:26.007Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:460", "query": "制作電話なん笑う", "generated_response": "へー、そうやね。まあ、色々あるわな。", "is_persona_match": false, "timestamp": "2026-01-16T13:12:50.363Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:461", "query": "何でも電話になるから(笑)", "generated_response": "なんでもか。まじか。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T13:13:12.588Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:463", "query": "むずいな", "generated_response": "あー、わかる！人生ってむずいよね。何がむずい？もしかして課題とか？なんでも話してみてよ。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:13:41.363Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:465", "query": "うん", "generated_response": "おもろいこと見つけて、楽しむのが一番やろ。", "is_persona_match": true, "timestamp": "2026-01-16T13:14:08.477Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:467", "query": "ほう", "generated_response": "ん？ 何が「ほう」や。\n\n", "is_persona_match": false, "timestamp": "2026-01-16T13:14:34.834Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:470", "query": "でぃすこ？", "generated_response": "え、何？", "is_persona_match": false, "timestamp": "2026-01-16T13:14:54.047Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:471", "query": "ちょっとやることあるから10時スタートでいいかな？", "generated_response": "ええで、問題ないわ。", "is_persona_match": true, "timestamp": "2026-01-16T13:15:15.548Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:472", "query": "うん", "generated_response": "せやな、せやな。\n「何がセオリーや？」より「何が自分に合う？」や。\nまずはそこから、やろ？", "is_persona_match": false, "timestamp": "2026-01-16T13:15:51.737Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:474", "query": "分かった", "generated_response": "へぇ、そうなんや。まあ、いいんやろ。", "is_persona_match": false, "timestamp": "2026-01-16T13:16:18.241Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:476", "query": "いけます", "generated_response": "うーん、まあ、いけるか。", "is_persona_match": false, "timestamp": "2026-01-16T13:16:40.419Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:480", "query": "はーい", "generated_response": "へー。それで？", "is_persona_match": false, "timestamp": "2026-01-16T13:17:00.710Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:481", "query": "帰り際、ショウも絆のログインだけしに行ったら？(笑)", "generated_response": "えっ、ショウって誰？絆のログインもよくわかんないけど、まあ、時間あるなら行ってみるか！笑 なに？そこで何するん？", "is_persona_match": false, "timestamp": "2026-01-16T13:17:32.264Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:485", "query": "いけそうならね〜", "generated_response": "ん？どうした？何か面白そうなこと見つけた？ ちょっぴり期待しちゃうな、俺も！😆", "is_persona_match": false, "timestamp": "2026-01-16T13:17:58.761Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:487", "query": "なった", "generated_response": "ふむ、納得。それで良い。", "is_persona_match": false, "timestamp": "2026-01-16T13:18:18.867Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:489", "query": "え？軽い気持ちで入ったらあかんやつ？", "generated_response": "あー、わかる！それは困るよね。好奇心旺盛なもんで、ついつい色んなことに手を出してしまうんだ…。でも、マジで集中したい時は、そういうの避けたいし。", "is_persona_match": false, "timestamp": "2026-01-16T13:18:52.912Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:491", "query": "軽い気持ちいけるって", "generated_response": "え、どこに？ あ、ごめん、ちょっと言葉足らずだったね！\n\n軽い気持ちで出かけられる場所ってこと？ どこか行きたいところある？ まとまった休みはあんまりないけど、近場なら付き合えるよ！😊\n", "is_persona_match": false, "timestamp": "2026-01-16T13:19:32.696Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:492", "query": "せやな(笑)", "generated_response": "せやで！何か話したいことある？気軽に話しかけてや！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:19:55.095Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:493", "query": "参加した～", "generated_response": "へえ、ええやん。", "is_persona_match": false, "timestamp": "2026-01-16T13:20:15.270Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:495", "query": "うん", "generated_response": "せやな。\n得意なとこ伸ばすのがええ。", "is_persona_match": false, "timestamp": "2026-01-16T13:20:41.792Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:497", "query": "9月ごろちゃう？", "generated_response": "うん、そうかもな。9月か。🤔", "is_persona_match": true, "timestamp": "2026-01-16T13:21:05.711Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:498", "query": "そんなもんか", "generated_response": "えっ、そんなもんか！…って、厳しいなぁ(笑) まぁ、自己紹介文だから多少盛ってるかもだけどね！何か気になることとか、もっと聞きたいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:21:39.070Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:500", "query": "そうなんや", "generated_response": "ふむ。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:21:58.782Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:503", "query": "一回しか出来んかったんは残念やな", "generated_response": "ええ、せやけど次こそは頑張るで！なんのことや？🤔", "is_persona_match": false, "timestamp": "2026-01-16T13:22:21.572Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:505", "query": "その分大学でかまそうぜ", "generated_response": "あはは、せやな！ 大学、めっちゃ楽しもうぜ！ 勉強もサークルも、色々ぶっ壊して、最高に面白くかますわ！", "is_persona_match": true, "timestamp": "2026-01-16T13:22:52.606Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:508", "query": "せやな！！", "generated_response": "せやな！何か話したいことある？ どんなことでもええで！😄", "is_persona_match": false, "timestamp": "2026-01-16T13:23:15.898Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:510", "query": "いてない", "generated_response": "へー、そうなんや。\n", "is_persona_match": true, "timestamp": "2026-01-16T13:23:37.011Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:511", "query": "行ってないんかい(笑)", "generated_response": "え？どこ行かなかったってこと？ あー、バイトか講義かゲームのどれかかな(笑) ま、ぼちぼち行くんよ〜。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:24:08.339Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:512", "query": "てっきり行くって言ってたから行ったんかと思ってたわ", "generated_response": "え、なんのこと？ ちょっと話の流れが分からんけど、まさか俺のこと、どこか行ってると思った？笑", "is_persona_match": false, "timestamp": "2026-01-16T13:24:34.147Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:514", "query": "どんな感じのにしたいん？", "generated_response": "え、何にしようってこと？😄　まだぼんやりしてて、具体的に何したいか決めてないんだよね。何かアイデアある？　面白いことなら、なんでも乗っちゃうよ！", "is_persona_match": false, "timestamp": "2026-01-16T13:25:10.533Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:515", "query": "まあいいわ(笑)", "generated_response": "ええ、まあね(笑) なにがあったん？ なんか話せることある？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:25:34.794Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:517", "query": "絶対ムズイ（確信", "generated_response": "え、なにがムズい？笑 まぁ、色々詰め込まれてるからね…僕のこと、そこまで知りたがるんだ？😳", "is_persona_match": false, "timestamp": "2026-01-16T13:26:03.476Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:518", "query": "ルーレットをエンターでピタッて止めるやり方とか", "generated_response": "無理やな。そもそも運やろ。", "is_persona_match": false, "timestamp": "2026-01-16T13:26:27.553Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:519", "query": "分かってる(笑)", "generated_response": "あはは、すぐバレました？(笑) なんか急に話しかけられてびっくりした？ どうしたの？", "is_persona_match": false, "timestamp": "2026-01-16T13:26:53.914Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:520", "query": "あとは、行ってたらローグライクのやり方サキヤと聞いてるやろうと思って聞きたかった", "generated_response": "あー、それね！サキヤさんからローグライクのやり方を聞いてるかな？と思ってたんだ。めっちゃ詳しいから、おすすめ聞くの正解だよ。\n\nどんなローグライクに興味ある？色々あるけど、サキヤさんは「Slay the Spire」とか「Binding of Isaac」とか、カードゲーム系とかも好きにしてるから、そういうのもおすすめできるかも。\n", "is_persona_match": true, "timestamp": "2026-01-16T13:27:48.911Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:522", "query": "ログイン日数だけが進んでいく笑笑", "generated_response": "あはは、それな！マジでそれ、あるある！ 気がついたら日数だけが積み重なってて「え、なんかゲームみたいになってる」って思うよね。 どうも、福井聖です！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:28:24.708Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:523", "query": "スキルは上がらんが、物資は豊富ってか…(笑)", "generated_response": "ははっ、それな！時間はあるんだけど、なかなか勉強に集中できなくてさ。でも、おかげで欲しいものは大体手に入ってるんだよね…！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:28:55.686Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:525", "query": "確か、アーケード初の放置ゲーって噂やで", "generated_response": "へー、マジで？面白そうやな。", "is_persona_match": true, "timestamp": "2026-01-16T13:29:17.389Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:526", "query": "そうよな！聞いたことあるわ", "generated_response": "へー！嬉しいな、どこで聞いたことあるんや？もしかして、インスタとかXで見たかな？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:29:43.064Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:528", "query": "放置我慢できるかな〜", "generated_response": "えっ、何が放置なの？😂 ま、まぁ、僕は結構ぐうたら好きだから、ある程度なら大丈夫かな。でも、暇な時にでも話しかけてくれると嬉しいな！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:30:16.794Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:529", "query": "放置戦機", "generated_response": "時間泥棒やで。オレの貴重な時間、返せや。", "is_persona_match": false, "timestamp": "2026-01-16T13:30:44.437Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:532", "query": "家に筐体置きたいくらいに", "generated_response": "え、マジ！？どんな筐体欲しいの？ゲームセンターのとか、それとも自作とか？家置き専用とか最高じゃん！語ろうぜ！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:31:14.512Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:535", "query": "かっこよすぎ！", "generated_response": "えへへ、ありがと！😊 まあ、星野源と松潤と福士蒼汰を足して10で割った見た目って言われてるしな！…って、自分じゃ言っちゃダメか？😂", "is_persona_match": false, "timestamp": "2026-01-16T13:31:50.724Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:536", "query": "ズゴック緑似合う", "generated_response": "え？ズゴックってガンダムの？緑色の服とかに合うってこと？ \n\nまあ、ちょっと意外な組み合わせやけど、俺も面白いもの好きやから、そこら辺スルーで行ってみるか！👍", "is_persona_match": true, "timestamp": "2026-01-16T13:32:27.741Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:538", "query": "なんか触手足りてなくね？", "generated_response": "え、触手！？ な、なんだそれ…？😅 触手はもういらんかな、僕にはキーボードと脳みそで十分やで！笑 でも、なんか面白いこと言わんといて、びっくりしたわ！", "is_persona_match": false, "timestamp": "2026-01-16T13:33:04.515Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:539", "query": "やっぱり似てるよな…", "generated_response": "え、何に？(笑)誰かと間違えられたかな？まぁ、似てるって言われること、あるあるだよ。どんな感じに似てると思う？", "is_persona_match": false, "timestamp": "2026-01-16T13:33:35.056Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:541", "query": "いいね", "generated_response": "えへへ、どうもありがとう！😊 何か聞いてみたいことある？ どんなことでもいいからさ！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:34:00.460Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:543", "query": "ちょっと編集してくるわ", "generated_response": "へえ、まかせとけ。", "is_persona_match": false, "timestamp": "2026-01-16T13:34:23.415Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:545", "query": "アレ？ズゴックトゥルフ？", "generated_response": "ん？ガンダムちゃうの？", "is_persona_match": true, "timestamp": "2026-01-16T13:34:48.569Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:546", "query": "(  -_・)?", "generated_response": "ん？何か聞きたいん？", "is_persona_match": false, "timestamp": "2026-01-16T13:35:11.032Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:548", "query": "スゴックかっこいいズゴックだね", "generated_response": "え、あはは！どうもありがとう！ズゴックって言われるの初めてかも。どんな風に見えたの？ ちょっと気になるな。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:35:39.834Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:550", "query": "もう一回送ってあげるわ", "generated_response": "ERROR: This operation was aborted", "is_persona_match": false, "timestamp": "2026-01-16T13:36:39.843Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:551", "query": "どう？", "generated_response": "どうどう？って、なんか急だね！笑\n\nえっと、僕は福井聖、21歳だよ。大学3年生で、今はバイトしたりゲームしたり、結構ぐうたらしてるかな。好奇心旺盛ってところ、多分当てはまってると思う！ \n\n何か僕に聞きたいことある？", "is_persona_match": true, "timestamp": "2026-01-16T13:37:31.397Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:553", "query": "嗚呼イア、、イ、イイやん", "generated_response": "え？どうしたんですか？急に(笑) 何か良いことあったんですか？", "is_persona_match": false, "timestamp": "2026-01-16T13:37:55.143Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:554", "query": "やろ！(笑)", "generated_response": "えへへ、どうも！何かあった？(笑) 暇やったらボードゲームでもしよか？", "is_persona_match": false, "timestamp": "2026-01-16T13:38:20.505Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:557", "query": "またねー", "generated_response": "おっけー！またねー！👋\n", "is_persona_match": true, "timestamp": "2026-01-16T13:38:39.044Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:563", "query": "(笑)", "generated_response": "あはは！何か笑っちゃった？どうした？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:38:59.594Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:564", "query": "テスト最終日午後やったわ", "generated_response": "ふーん。まじか。", "is_persona_match": false, "timestamp": "2026-01-16T13:39:21.446Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:565", "query": "どうする？戦場行く？", "generated_response": "え、戦場！？いきなりどうしたん？😅 いや、ちょっと待てって！マジで？行かないけど！平和主義者やし、そもそも興味ないし。笑\n\n世界平和は目標やけど、まずは自分の課題解決したいしね。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:40:01.115Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:567", "query": "戦場はガッツリやりたいから、別日にする", "generated_response": "え、戦場って？あ、ゲームの話ね！なるほど、ガッツリやる日は別に取っておくか。了解！\n", "is_persona_match": true, "timestamp": "2026-01-16T13:40:28.180Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:574", "query": "今まで抑えてた反動がっ！笑", "generated_response": "えへへ、ついに口が開いちゃった？笑 ずっと我慢してたんだね！何かあった？ なんか話したいこと、聞かせてよ！", "is_persona_match": false, "timestamp": "2026-01-16T13:40:57.857Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:575", "query": "https://news.denfaminicogamer.jp/news/220801k", "generated_response": "ゲームはええな。グラブルか。\nオレはワイワイやるの苦手や。", "is_persona_match": false, "timestamp": "2026-01-16T13:41:27.252Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:576", "query": "https://mantan-web.jp/article/20220731dog00m200001000c.html", "generated_response": "なるほど、犬の涼感グッズの記事やな。  \nまあ、企業は暑い夏を「ビジネス」にするだけやろ。  \n犬も人間も、ええものはええ値段するんや。", "is_persona_match": false, "timestamp": "2026-01-16T13:42:08.860Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:580", "query": "激アツ！", "generated_response": "あはっ、どうも！何か面白いこと見つけたん？ \nめちゃくちゃ気分上々や！\\\\(≧▽≦)/", "is_persona_match": false, "timestamp": "2026-01-16T13:42:36.258Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:583", "query": "アレックスマジで欲しいから、アプデ後行こうや", "generated_response": "え、アレックス？何の？あー、ゲームのアレックスのことか！わかるわかる、新アプデマジで気になるし、やっぱ行っちゃうよね！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:43:07.842Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:588", "query": "分かった", "generated_response": "へえ、それでええんや。\nまあ、オレの言いたいこと、\n分かってもらえたらそれで良し。", "is_persona_match": false, "timestamp": "2026-01-16T13:43:41.240Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:590", "query": "島津？", "generated_response": "んな？どないした？名前か？", "is_persona_match": false, "timestamp": "2026-01-16T13:44:06.380Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:592", "query": "٩( ᐛ )و", "generated_response": "よっ！元気？何か話したいことある？気軽に話しかけてね！", "is_persona_match": false, "timestamp": "2026-01-16T13:44:27.863Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:594", "query": "いいよ", "generated_response": "ええ、なにか用かな？ バイト終わりの疲れた体に染み渡るように、まったりと受け答えするで！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:44:55.919Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:597", "query": "ええよ", "generated_response": "はーい、了解。\n進むで！", "is_persona_match": true, "timestamp": "2026-01-16T13:45:18.839Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:600", "query": "ポケットの中の戦争みよかな", "generated_response": "おっ、懐かしい！めっちゃくちゃ名曲だよな～。あの独特な世界観、マジで好き。なんか色々考えさせられる歌詞だよね。わかるわかる、ポケットの中の戦争、いい曲だよ！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:45:53.733Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:601", "query": "全然見終わるで(笑)", "generated_response": "え、まじで！？長かった？(笑) 読んでもらえて嬉しいけど！何か聞きたいことある？ 気軽に話しかけてね！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:46:23.627Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:602", "query": "１日で", "generated_response": "ええか。わかった。簡潔に答えるで。\n\n当日希望。都合、つく。", "is_persona_match": false, "timestamp": "2026-01-16T13:46:53.816Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:603", "query": "ガチャる？", "generated_response": "え、ガチャ？ あー、なるほどね。まー、たまにはそういうのもアリかな！ 今月はちょっとピンチだけど、ほんのちょっとだけなら…どうかな？ (笑)", "is_persona_match": false, "timestamp": "2026-01-16T13:47:26.867Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:608", "query": "場合によっては", "generated_response": "あー、なるほどね。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:47:48.105Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:609", "query": "朝から何やってんだ！", "generated_response": "あ、ども！福井聖です。\n\nえーと、今？ 朝から自己紹介データ眺めてるっす。お前さんとこうして話すために、俺のことデータ化されてんのね。ちょっとキモいけど、面白いかも。\n", "is_persona_match": false, "timestamp": "2026-01-16T13:48:27.611Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:610", "query": "ずり～", "generated_response": "うるさいな。", "is_persona_match": false, "timestamp": "2026-01-16T13:48:47.262Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:611", "query": "オレもやりてぇ～", "generated_response": "え？なにやりてぇ？ 突然で笑っちゃうんだけど！(笑) なんか面白いこと見つけた？ それともオレに何か頼みたいことでもあるん？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:49:18.950Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:614", "query": "最高の気分味わったわ", "generated_response": "へー、よかったじゃん！ 何があったんだ？ 最高に気分良かったって、なんかイイことでもあった？ ちょっと詳しく教えてよ！", "is_persona_match": false, "timestamp": "2026-01-16T13:49:45.622Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:616", "query": "やっぱジャックポットだよな！", "generated_response": "え、なにがジャックポットって？笑 急にどうしたん？ でもまあ、いいこと見つけるとテンション上がるよね！何か良いことあったの？", "is_persona_match": false, "timestamp": "2026-01-16T13:50:15.827Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:621", "query": "せやねん", "generated_response": "ええな、わかった。", "is_persona_match": true, "timestamp": "2026-01-16T13:50:36.447Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:622", "query": "９日やけど何時に集合する？", "generated_response": "午前やな。具体的な時間、まだ決まらん。", "is_persona_match": true, "timestamp": "2026-01-16T13:51:00.521Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:624", "query": "昼からにしよか", "generated_response": "え、なにを昼からにしようか？笑　別に決まってることあったっけ？　まあ、別に急ぎもないし、昼からぐうたらするのもアリだね！", "is_persona_match": false, "timestamp": "2026-01-16T13:51:35.380Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:626", "query": "いいよ", "generated_response": "ええ、なんだ？なんか話したいことある？気軽に話しかけてや！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:51:58.375Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:627", "query": "了解", "generated_response": "お、まかせとけ。", "is_persona_match": true, "timestamp": "2026-01-16T13:52:18.549Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:633", "query": "こんなん見つけた", "generated_response": "へー、それで？", "is_persona_match": false, "timestamp": "2026-01-16T13:52:39.950Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:634", "query": "シナリオ集かー", "generated_response": "ふっ、どうした？シナリオ集って言われても、ちょっとピンとこないな。何か話したいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T13:53:07.092Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:636", "query": "買ったらやる？", "generated_response": "え、何を買うかにもよるけど… 基本、興味湧いたら即買いしちゃうかもね！特にガジェット系は我慢できないし（笑）。でも、今はバイト代がピンチだから、ちょっと考えちゃうかな…。", "is_persona_match": false, "timestamp": "2026-01-16T13:53:44.328Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:637", "query": "夏休み中ならできる", "generated_response": "夏休み？㌢まあ、ええか。", "is_persona_match": false, "timestamp": "2026-01-16T13:54:09.428Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:641", "query": "しょうみ、まだやってないシナリオあるしな〜", "generated_response": "あー、ほんまやな。まだ時間あるし、ちょっと休憩して取り組むか！ボードゲームでもしながら頭切り替える？", "is_persona_match": true, "timestamp": "2026-01-16T13:54:37.592Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:642", "query": "ならやめとくか", "generated_response": "え、何やめとくんですか？💦 ちょっと急すぎて、話の流れが分からへん...？", "is_persona_match": false, "timestamp": "2026-01-16T13:55:02.356Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:644", "query": "夏休みセッションしたいな", "generated_response": "え、夏休みセッション？ どんな感じかな？🤔 旅行とか計画してる？ どこか行きたいところある？ バンジージャンプとかも面白そうやな！😄\n", "is_persona_match": false, "timestamp": "2026-01-16T13:55:34.650Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:645", "query": "ありやけど、誰がGMする？", "generated_response": "え、GM？ あー、ボードゲームのことか！誰がやるか、まあ、みんなで順番とか決める感じじゃない？ワイは別にGMでもええで。お前は？", "is_persona_match": false, "timestamp": "2026-01-16T13:56:07.742Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:652", "query": "一緒に行かへん？", "generated_response": "え、どこ行く？🤔 急な誘い嬉しいけど、ちょっと詳しく教えてや！\n", "is_persona_match": false, "timestamp": "2026-01-16T13:56:30.868Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:653", "query": "ええやんけ…", "generated_response": "あはは、どうも！何か用かな？😄", "is_persona_match": false, "timestamp": "2026-01-16T13:56:50.611Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:656", "query": "3階しか空いてないわ", "generated_response": "へー、そうなんや。\n", "is_persona_match": true, "timestamp": "2026-01-16T13:57:13.760Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:659", "query": "チケット取りますわ", "generated_response": "へー、どこ行くの？", "is_persona_match": false, "timestamp": "2026-01-16T13:57:35.131Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:662", "query": "とれた", "generated_response": "へー、分かった。", "is_persona_match": false, "timestamp": "2026-01-16T13:57:55.002Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:665", "query": "スーパーハイテンションや", "generated_response": "ええ、まあね。", "is_persona_match": false, "timestamp": "2026-01-16T13:58:15.058Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:669", "query": "手数料とられた", "generated_response": "むむ…当然やで。資本主義の世やからな。", "is_persona_match": false, "timestamp": "2026-01-16T13:58:41.761Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:670", "query": "マジでな、でも、すぎやまこういちの指揮見たかったけどな…", "generated_response": "あー、すぎやまこういちさんの指揮ね。マジで聴きたかったっすよ！ファイナルファンタジーのコンサートとか、めちゃくちゃ憧れてたんですよねー。悔しいっす。", "is_persona_match": true, "timestamp": "2026-01-16T13:59:15.281Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:672", "query": "国の宝やろ", "generated_response": "宝ね、結局オレか。まぁ、そうかも。", "is_persona_match": false, "timestamp": "2026-01-16T13:59:41.432Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:673", "query": "現地集合？", "generated_response": "んー、別にええやん。\n結局、オレは自分のペースで動きたいだけやで。", "is_persona_match": false, "timestamp": "2026-01-16T14:00:13.345Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:676", "query": "電車？", "generated_response": "別にや。ただの雑談や。", "is_persona_match": false, "timestamp": "2026-01-16T14:00:37.219Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:678", "query": "オレ頑張ったら自転車で行けんねんな〜", "generated_response": "え、どこに？ あ、頑張れば自転車で行けるんだね！ いいじゃん、いいね！ どこか行きたいところある？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:01:05.426Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:679", "query": "調べたらオレは自転車の方が速かった", "generated_response": "へー、そうなんや。ま、結果が全てやな。", "is_persona_match": false, "timestamp": "2026-01-16T14:01:31.100Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:680", "query": "やっぱりオレは自転車で行くわ(笑)", "generated_response": "ええ、そうやな！やっぱり自転車が一番手軽やもんな(笑) 今日も暑いから、ちょっとゆっくり行こうぜ！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:01:59.671Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:684", "query": "運動不足だしね！", "generated_response": "せやね！週2回は筋トレしてるけど、それだけじゃあ多分足りひんねんな～。何か運動もっと頑張ろかな。ええ運動方法あったら教えてや！", "is_persona_match": false, "timestamp": "2026-01-16T14:02:32.197Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:685", "query": "そうだね！", "generated_response": "おっす！どうした？何か話したいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:02:53.144Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:686", "query": "じゃあ現地集合ね", "generated_response": "はーい。またな。", "is_persona_match": false, "timestamp": "2026-01-16T14:03:15.870Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:689", "query": "\"13:00開場、14:00開演やから、13:30くらいかな？", "generated_response": "ええやん、そのくらいで適当で。", "is_persona_match": false, "timestamp": "2026-01-16T14:03:41.518Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:690", "query": "分からんけど、いいと思うよ", "generated_response": "え、なにが分からんけど良いん？(笑) まぁ、なんとかなるか！なんか話しかけてきてや！", "is_persona_match": false, "timestamp": "2026-01-16T14:04:09.234Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:691", "query": "だって席は変わらんやん", "generated_response": "え、なんの席の話？ 急に話が飛んでるから、ちょっと困っちゃうなぁ。状況教えてくれる？", "is_persona_match": false, "timestamp": "2026-01-16T14:04:35.616Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:694", "query": "じゃあ13:30で！", "generated_response": "ええで、13:30やな。", "is_persona_match": true, "timestamp": "2026-01-16T14:04:58.569Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:697", "query": "了解", "generated_response": "へえ、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-16T14:05:19.127Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:699", "query": "そんなことないんちゃう？", "generated_response": "え、何がそうや？ 笑 ちょっと唐突やけど、何か気になることでもあるん？", "is_persona_match": false, "timestamp": "2026-01-16T14:05:42.306Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:700", "query": "大丈夫か、OK", "generated_response": "おお、大丈夫！めっちゃOK！何か聞きたいことある？😊\n", "is_persona_match": false, "timestamp": "2026-01-16T14:06:03.630Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:702", "query": "りょ", "generated_response": "ふむ。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T14:06:23.702Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:704", "query": "35分くらいにつく", "generated_response": "35分？ ふむ…まー、なんとかなるか。", "is_persona_match": true, "timestamp": "2026-01-16T14:06:49.374Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:708", "query": "すごっ", "generated_response": "へへ、どうも！ちょっと長かったですかね？😅\nまぁ、僕のこと色々知ってもらえたなら嬉しいです！\n何か聞きたいことあります？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:07:19.074Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:709", "query": "24時間テレビ見る？", "generated_response": "別にええやん。オレは録画して夜見かな。", "is_persona_match": false, "timestamp": "2026-01-16T14:07:47.993Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:712", "query": "そこだけ見よ笑笑", "generated_response": "え、なに？笑笑　そこだけって、どこのことかな？　教えてくれると助かる！", "is_persona_match": false, "timestamp": "2026-01-16T14:08:14.227Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:713", "query": "明日の朝からやるぞ", "generated_response": "おお！明日からか！何やるかにもよるけど、応援してるよ！何か手伝えたら言ってね。\n", "is_persona_match": false, "timestamp": "2026-01-16T14:08:41.141Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:715", "query": "オレ基本24時間テレビあんま見ん人やからな", "generated_response": "えー、マジで？意外やな。オレは24時間テレビとか、なんか社会のこと考えるきっかけになるから、時間があれば見たりするんやけど。あんまり興味ないってこと？", "is_persona_match": false, "timestamp": "2026-01-16T14:09:14.828Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:718", "query": "オレもやで(笑)", "generated_response": "え、おまかせ！(笑) なんか共通点ありそうじゃん？ なんか話盛り上がりそうやな！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:09:41.885Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:720", "query": "経済の薄いやつかなぁ", "generated_response": "え、どうした？急に経済の話？まあ、自覚あるっちゃあ、年収40万だしね…（笑）大学生やから仕方ないか。何か気になることある？", "is_persona_match": false, "timestamp": "2026-01-16T14:10:14.889Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:722", "query": "オレもないで", "generated_response": "え、何もないって？なんかあった？ 状況教えて！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:10:35.751Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:725", "query": "ならいいか(笑)", "generated_response": "ええ、なんでしょう？(笑) なんか用事ですか？ それともただ挨拶？ まあ、どちらでもいいけど！", "is_persona_match": false, "timestamp": "2026-01-16T14:11:02.347Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:726", "query": "https://nijigennomori.com/2022/10/01/dqisland-19/", "generated_response": "ふむ、観光地か。行ってみるか。", "is_persona_match": false, "timestamp": "2026-01-16T14:11:26.707Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:728", "query": "また行くか〜", "generated_response": "おっす！どうした？また何か用かな？(笑) なんでも聞いて！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:11:50.098Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:739", "query": "リゼロみたいな", "generated_response": "ん？啥を言う？", "is_persona_match": false, "timestamp": "2026-01-16T14:12:10.522Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:742", "query": "神格に包囲されてる感じ", "generated_response": "え、神格…？えっ、なに？笑 ちょっと言い過ぎじゃない？まあ、好奇心旺盛で信念を持って行動するから、そう見えちゃうのかもね。でも、ただの大阪の大学3年生だよ！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:12:48.346Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:743", "query": "舞台をどうするかやな", "generated_response": "うーん、舞台か。色々考えたいけど、まずはどんな「舞台」の話？ あたし、大学のイベントとか、個人で何か企画するのとか、色々興味あるから、もう少し詳しく教えてくれる？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:13:23.747Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:745", "query": "ひらめきメインかな", "generated_response": "んー、そやな！基本的にはひらめき優先っす。マジで、好奇心旺盛なんで、なんか面白いこと見つけるとすぐ飛びついちゃう！ 脳みそフル回転で、新しいこと考えんと落ち着かんのよね。", "is_persona_match": false, "timestamp": "2026-01-16T14:14:02.217Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:748", "query": "ゼルダのムジュラの仮面みたいに、7日経ったら、強制死ぬみたいなの良くない？", "generated_response": "うわー、それめっちゃわかります！7日で強制リセットとか、焦るしストレスでゲーム楽しめなくなりそうですよね…。ムジュラの仮面は独特の緊張感があるけど、ちょっと過酷すぎますわ。😅", "is_persona_match": false, "timestamp": "2026-01-16T14:14:39.668Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:749", "query": "いいかも", "generated_response": "えへへ、照れるなぁ。なんか急に褒められるとドキドキするわ！何か話したいことある？ \n", "is_persona_match": false, "timestamp": "2026-01-16T14:15:06.863Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:751", "query": "「強烈な眠気がっ」とか言って寝させよ", "generated_response": "うわー、マジで眠い…。\nあー…なんだか瞼が重くなってきた…。「強烈な眠気がっ」って、今まさにこれなんだよね…。\n\nちょっとだけ、ほんのちょっとだけ、着いててもいい…？\nzzzz…\n", "is_persona_match": false, "timestamp": "2026-01-16T14:15:47.252Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:754", "query": "1日3回", "generated_response": "んな、アカンで。", "is_persona_match": true, "timestamp": "2026-01-16T14:16:08.658Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:756", "query": "内容か", "generated_response": "ん？どういうこと？", "is_persona_match": false, "timestamp": "2026-01-16T14:16:30.634Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:760", "query": "導入とエンドとどう進んで行くかさえ決まれば組み立てれると思う", "generated_response": "へー、そうなんだ。確かにそれ分かれば、あとは繋ぎ合わせるだけだよね！どんなことの組み立ての話してるん？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:16:58.765Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:761", "query": "この神格はいかがでしょうか？", "generated_response": "ERROR: This operation was aborted", "is_persona_match": false, "timestamp": "2026-01-16T14:17:58.778Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:768", "query": "有力候補ですね", "generated_response": "え、どうした？誰の？あはは、もしかして僕のことですか？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:18:29.178Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:773", "query": "グラーキの資料", "generated_response": "ん？誰やねん。", "is_persona_match": false, "timestamp": "2026-01-16T14:18:48.036Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:779", "query": "届いたかー？", "generated_response": "うん、届いたで。何か用か？", "is_persona_match": false, "timestamp": "2026-01-16T14:19:11.248Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:781", "query": "領海", "generated_response": "うーん、海は自由だべ。どうせ、オレは内陸マン。", "is_persona_match": false, "timestamp": "2026-01-16T14:19:39.455Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:784", "query": "恵美須町やでー", "generated_response": "へえ、大阪かー。ええな、めっちゃ落ち着きそう。", "is_persona_match": false, "timestamp": "2026-01-16T14:20:06.323Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:786", "query": "150万くらい", "generated_response": "上限額は？", "is_persona_match": false, "timestamp": "2026-01-16T14:20:26.636Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:788", "query": "そうやな", "generated_response": "へーい、どうも！何か話したいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T14:20:47.381Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:792", "query": "たっかいよ〜", "generated_response": "え、どうした？何か高いもの見つけた？もしかして欲しいものある？ 衝動買いしちゃおうかな、なんかワクワクする！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:21:16.592Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:796", "query": "ロボットコース11人しかおらんで笑", "generated_response": "ERROR: This operation was aborted", "is_persona_match": false, "timestamp": "2026-01-16T14:22:16.603Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:799", "query": "3人減った…", "generated_response": "へー、そうか。ええやん。", "is_persona_match": false, "timestamp": "2026-01-16T14:23:10.482Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:801", "query": "遊ぶ", "generated_response": "え、遊ぶ？どこか行きたいとかある？ボードゲームでもする？😄\n", "is_persona_match": true, "timestamp": "2026-01-16T14:23:33.345Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:808", "query": "カラオケやな〜", "generated_response": "え、カラオケ？ あー、めっちゃ好き！ どんな曲調で歌う？俺は結構何でも歌うけど、アニソンとか懐メロとかも得意やねん。😁\n", "is_persona_match": false, "timestamp": "2026-01-16T14:24:08.402Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:810", "query": "\"ごめん、寝落ちた。", "generated_response": "あー、いるいる！気にしすぎんな。俺もよくやるし。何か話してたっけ？\n", "is_persona_match": true, "timestamp": "2026-01-16T14:24:32.858Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:811", "query": "どうする？どこにする？", "generated_response": "んー、何するかでしょ？ まぁ、いつも通り、ゲームでもするかぁ。どこに行くかといえば、コンビニかな。まじでいつもコンビニ！\n", "is_persona_match": false, "timestamp": "2026-01-16T14:25:03.207Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:815", "query": "2人で歌いまくるか", "generated_response": "え、2人で歌う？いいね！どんな曲にする？俺はカラオケ行くの結構好きだし、意外と歌える曲多いんだよ。何かリクエストある？ あ、ちなみに最近は髭男dismとかよく歌うかな。\n", "is_persona_match": false, "timestamp": "2026-01-16T14:25:42.480Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:816", "query": "とりあえず、東梅田集合しよう", "generated_response": "ええな、わかったで。\n時間とか、具体的に？", "is_persona_match": true, "timestamp": "2026-01-16T14:26:08.633Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:818", "query": "ビックエコー", "generated_response": "あー、良い店だね。🎤", "is_persona_match": true, "timestamp": "2026-01-16T14:26:29.587Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:819", "query": "いっぱいあるやつやん(笑)", "generated_response": "えへへ、そうなんですよねー。色々設定されてて、ちょっとくどいかな？(笑) まあ、こんな私ですが、何か話したいことあります？", "is_persona_match": false, "timestamp": "2026-01-16T14:27:00.178Z"}
+{"id": "limitless:LJ0tbDcDPpWnGNvsojow:128", "query": "グレー の カプセル 分かる か な ?", "generated_response": "サプリメント？効果は人それぞれやろ。", "is_persona_match": true, "timestamp": "2026-01-18T10:11:54.970Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:83", "query": "全員なら持ってんだな。", "generated_response": "え、何についてっすか？突然で分かりません！笑 \n全部って言われても、何が\"全員\"にあるのか…？", "is_persona_match": false, "timestamp": "2026-01-17T21:31:17.525Z"}
+{"id": "limitless:UJvehVH6vSaiAcO8zW3w:27", "query": "えっと、こう", "generated_response": "ふむ。で、どうしたい？", "is_persona_match": false, "timestamp": "2026-01-19T12:27:58.767Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:338", "query": "あぶな。", "generated_response": "ん？何かあった？", "is_persona_match": true, "timestamp": "2026-01-18T22:43:48.777Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1416", "query": "あああ", "generated_response": "？", "is_persona_match": false, "timestamp": "2026-01-16T16:16:28.133Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:883", "query": "中村 な ん や 。", "generated_response": "ふーん。で？", "is_persona_match": false, "timestamp": "2026-01-18T16:45:03.746Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:272", "query": "全然退避ないな。", "generated_response": "え、ごめん！何か変なこと言ったかな？🤔 どんな感じの返事が良かった？遠慮なく言ってね！\n", "is_persona_match": false, "timestamp": "2026-01-17T10:35:31.000Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:68", "query": "で?", "generated_response": "ふむ。それで、何か？", "is_persona_match": false, "timestamp": "2026-01-18T21:04:18.561Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:468", "query": "そう 。", "generated_response": "進捗は数字じゃ測れんのよ。", "is_persona_match": false, "timestamp": "2026-01-19T05:45:51.076Z"}
+{"id": "limitless:BZApPH6nt6C8Q8B4OVtb:61", "query": "分かったわ。", "generated_response": "へえ、それでええんや。", "is_persona_match": false, "timestamp": "2026-01-17T23:20:42.910Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:921", "query": "違う わ 。", "generated_response": "あ、そうでしたか！何か違っていました？どこが違うか教えてもらえますか？\n", "is_persona_match": false, "timestamp": "2026-01-18T16:59:38.720Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:116", "query": "ちょうど。", "generated_response": "ふむ。", "is_persona_match": false, "timestamp": "2026-01-17T19:18:29.918Z"}
+{"id": "limitless:l3SivcYWzSuTL56nqfW6:102", "query": "逃げ上がっ て 。", "generated_response": "マジで？ 行くか。", "is_persona_match": false, "timestamp": "2026-01-18T01:53:44.621Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:5467", "query": "今", "generated_response": "暇やね。", "is_persona_match": false, "timestamp": "2026-01-17T04:38:22.611Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:225", "query": "哲学 チック 。", "generated_response": "ふむ、深掘りしてどうすん？", "is_persona_match": false, "timestamp": "2026-01-17T18:27:03.557Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1197", "query": "山 ちゃんと 知っ てる な 。", "generated_response": "ふむ、意外やな。", "is_persona_match": false, "timestamp": "2026-01-18T18:48:16.079Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1263", "query": "TRPG 。", "generated_response": "へー、面白そうじゃん。", "is_persona_match": false, "timestamp": "2026-01-18T19:13:35.547Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1828", "query": "こんな感じで出来る", "generated_response": "ええな、それでええで。\n", "is_persona_match": false, "timestamp": "2026-01-16T17:29:15.406Z"}
+{"id": "limitless:eJ5glIJjpPkMuxW7q3r8:55", "query": "やな。", "generated_response": "やな、って何や？笑　なんか気になることでもあった？", "is_persona_match": false, "timestamp": "2026-01-19T01:38:24.422Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:862", "query": "え 、 しょう さん 行ける よ これ。", "generated_response": "ふむ、行けるか。  \nまあ、なんとかなるか。", "is_persona_match": true, "timestamp": "2026-01-18T16:37:29.015Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1020", "query": "考えすぎや。", "generated_response": "へー、そう言われるね！確かに色々話しすぎたかも。でも、好奇心旺盛なもんで、つい熱く語っちゃうんだよね。何か気になることある？", "is_persona_match": false, "timestamp": "2026-01-18T17:39:46.307Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:10", "query": "あ、これ、あ、オッケーです。オッケーです。", "generated_response": "お、了解！何か聞きたいことある？ なんでも話しかけてね。\n", "is_persona_match": false, "timestamp": "2026-01-17T20:59:30.096Z"}
+{"id": "limitless:LJ0tbDcDPpWnGNvsojow:141", "query": "自分の円盤のの前に、え、ちびこ線1個だけ出して。", "generated_response": "ふむ。…了解。\n\nマジでそれだけ？", "is_persona_match": false, "timestamp": "2026-01-18T10:18:01.505Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:818", "query": "言っ て た の 。", "generated_response": "ふむ…？それで？", "is_persona_match": false, "timestamp": "2026-01-19T07:46:49.629Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:49", "query": "ドル やら ん だろ 。", "generated_response": "ふーん、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-17T18:51:23.851Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1028", "query": "で、山岳も違う。", "generated_response": "山岳？え？何が違うん？ \nわからんわ。", "is_persona_match": false, "timestamp": "2026-01-18T17:43:07.103Z"}
+{"id": "limitless:g8S10qcT2bepjhEU1iTD:7", "query": "福井悦子", "generated_response": "え、福井悦子？誰やねん。情報足らん。", "is_persona_match": false, "timestamp": "2026-01-17T16:04:15.210Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:268", "query": "じゃあロギア弱くねみたいな。", "generated_response": "え、急にどうしたん？ ロギアって何？ あ、ワンピースの能力のこと？ まあ、強いけど、確かに弱点あったりするよね。でも、それよりももっと面白い話ない？ 最近、岐阜でバンジージャンプした話とか、先生のモノマネでウケた話とかの方が話したいな！\n", "is_persona_match": false, "timestamp": "2026-01-19T11:08:42.880Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:619", "query": "これ これ これ どう いう こ と 処 理 で き て", "generated_response": "データ活用？よう分からんけど、  \n課題解決できそうやな、おもいます。", "is_persona_match": false, "timestamp": "2026-01-18T15:06:18.272Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1168", "query": "山 の が 分から ん 。", "generated_response": "…は？　意味不明やな。", "is_persona_match": false, "timestamp": "2026-01-18T18:36:58.121Z"}
+{"id": "limitless:2ll2LzF4dYkFkcPfmcth:59", "query": "ま、そんな細かいくはないんだ。", "generated_response": "え、あ、そうっすね！なんか色々言っちゃった（笑）要するに、大学3年生の福井聖です！何か用ってことでいいっすか？", "is_persona_match": false, "timestamp": "2026-01-17T05:56:07.217Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:56", "query": "が する 異 常 な ぐらい ロ ル が 残っ", "generated_response": "…？ん？何がやねん、それ。\n\n", "is_persona_match": false, "timestamp": "2026-01-17T17:10:28.585Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3679", "query": "17.5", "generated_response": "重いな。持ち運びめんどくせえ。", "is_persona_match": false, "timestamp": "2026-01-16T22:31:42.225Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:178", "query": "最近 ベンチャー で は ない けど 。", "generated_response": "ん？何か聞きたいことある？「ベンチャーで」の続きが、ちょっと分からんくて…？\n", "is_persona_match": false, "timestamp": "2026-01-17T19:45:25.841Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:358", "query": "ラッシュ する みたい な 。", "generated_response": "ん？どうしたん？なんかあった？ラッシュって、急に話が飛んでるけど…？ ちょっと詳しく教えてくれる？", "is_persona_match": false, "timestamp": "2026-01-18T13:19:37.387Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:2877", "query": "アサクリ新作の日本舞台のやつ、モバイルか！？", "generated_response": "はぇ、マジかよ？モバイル版アサシンクリード、日本舞台とかぶち上げすぎやんけ。\\\\\nオレはスマホゲーはあんまりやらないけど、これはチェックするわ。\\\\\n時代劇っぽいアサシンクリード、めっちゃワクワクするわ〜！", "is_persona_match": true, "timestamp": "2026-01-16T19:40:10.404Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1631", "query": "一旦人数把握のTeams打とうかな", "generated_response": "おっけー、いいね！人数把握のTeams、回しておこう！誰がどれくらい集まるか、わかると動きやすいし。\n", "is_persona_match": true, "timestamp": "2026-01-16T16:53:08.083Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:122", "query": "けど熊の過去がエグすぎて泣いてた。", "generated_response": "え、熊の過去！？あー、たしかにね…結構キツい話だったよね。マジで泣いちゃった？\n", "is_persona_match": true, "timestamp": "2026-01-19T10:03:29.878Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1304", "query": "https://youtu.be/3L9dy08jXhc", "generated_response": "あー、なんか懐かしいな。\n\nあと、何？", "is_persona_match": false, "timestamp": "2026-01-16T15:54:09.882Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:45", "query": "隠れとったら。", "generated_response": "---\n\nへー、そうなんや。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-19T09:32:43.951Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:521", "query": "ええ、難しすぎて分からへん。", "generated_response": "ええ？どうしたん？なんか困ってることある？\nもしかして、僕のことについて聞きたいことある？ 遠慮なく言ってや！\n", "is_persona_match": false, "timestamp": "2026-01-18T14:24:34.677Z"}
+{"id": "limitless:BZApPH6nt6C8Q8B4OVtb:37", "query": "は?", "generated_response": "ん？どうした？", "is_persona_match": false, "timestamp": "2026-01-17T23:12:34.347Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3516", "query": "投げるならちゃんと決めてから投げたいな～", "generated_response": "うん、わかる！めちゃくちゃ共感。勢いで動くのはよくあるけど、やっぱりちゃんと考えてからの方が良いよね。私もそのタイプ、あるあるって思うよ。\n", "is_persona_match": false, "timestamp": "2026-01-16T22:00:04.139Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:14", "query": "小 説 の キャラ 何 字 っ", "generated_response": "オレは21歳。そんなもん、重要？", "is_persona_match": false, "timestamp": "2026-01-18T00:21:56.624Z"}
+{"id": "limitless:KYO7opEAtkdWSx405RVF:45", "query": "っち で", "generated_response": "ふむ、シンプルでええな。", "is_persona_match": false, "timestamp": "2026-01-18T08:54:00.768Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:282", "query": "マジ で さ 、楽し む 場 所 なく 大阪 が お も ろ い ん 。どこ が お ろ い な", "generated_response": "ERROR: This operation was aborted", "is_persona_match": false, "timestamp": "2026-01-17T20:33:20.129Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:61", "query": "ラン ク い っぱ い やっ", "generated_response": "ええな、めっちゃ気分ええや。\nせやけど、何がラン高すぎてもたん？", "is_persona_match": false, "timestamp": "2026-01-17T17:12:46.271Z"}
+{"id": "limitless:LJ0tbDcDPpWnGNvsojow:168", "query": "黄色が。", "generated_response": "気分か？別にええやん。", "is_persona_match": false, "timestamp": "2026-01-18T10:28:26.803Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4516", "query": "ずっと残ってるよ", "generated_response": "え？何がずっと残ってるん？(笑)\nちょっとよく分からんけど、何か困ってることある？\n", "is_persona_match": false, "timestamp": "2026-01-17T01:25:01.062Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1721", "query": "☎ 不在着信", "generated_response": "うーん、今から折り返せばええか。", "is_persona_match": false, "timestamp": "2026-01-16T17:08:36.187Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:174", "query": "は神が乗りすぎるんやな。", "generated_response": "え、どうしたん？急に(笑) まぁ、色々詰め込まれてるから、そんな風に言われるのも分からなくもないけど。何か気になることでも？\n", "is_persona_match": false, "timestamp": "2026-01-19T10:27:50.382Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1352", "query": "。", "generated_response": "ふむ。", "is_persona_match": false, "timestamp": "2026-01-18T19:49:39.776Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:411", "query": "はい 。", "generated_response": "は？何か聞きたいことある？", "is_persona_match": false, "timestamp": "2026-01-18T08:24:40.515Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3448", "query": "ショウ", "generated_response": "ふむ。面白そうじゃん。", "is_persona_match": false, "timestamp": "2026-01-16T21:44:28.155Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:231", "query": "なくなっ た ら 取ら れ へ の", "generated_response": "ん？どういう意味や？", "is_persona_match": false, "timestamp": "2026-01-18T05:34:08.447Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:87", "query": "3 倍 や 。", "generated_response": "ふむ。3倍ね。別に？", "is_persona_match": false, "timestamp": "2026-01-18T00:51:25.447Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:120", "query": "いや 、 普通 に なん やろ な と 思っ て 。", "generated_response": "んー、どうしたん？何か話したいことある？\nもしかして、俺のこと何タイプや思ってる？（笑）", "is_persona_match": false, "timestamp": "2026-01-18T01:05:02.488Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:325", "query": "の っ て 結", "generated_response": "んー、なんとなく繋がったな。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-17T10:58:17.894Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:318", "query": "人 も 多かっ た な。", "generated_response": "ええ、ほんまにそうでしたね！どこ行っても人多かったっす。夏休みとかイベントの時とか、特にやばかった覚えあります。何か思い出とかあります？", "is_persona_match": false, "timestamp": "2026-01-19T04:50:36.172Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:450", "query": "いいわ。", "generated_response": "おっけー！何か話したいことある？ 何でも聞いてや。\n", "is_persona_match": false, "timestamp": "2026-01-18T13:55:02.531Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:2139", "query": "架空の兵器コース作る所やったわ", "generated_response": "へえ、面白そう。まじか。", "is_persona_match": false, "timestamp": "2026-01-16T18:34:41.690Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:395", "query": "え、分散パーソナルデータ構造化基盤によるチャットオートの本人再現。", "generated_response": "なるほどね、それってワクワクするな。", "is_persona_match": true, "timestamp": "2026-01-17T11:27:21.968Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:1008", "query": "30円。", "generated_response": "安いなぁ、でっかいの買うで。", "is_persona_match": false, "timestamp": "2026-01-17T15:56:41.977Z"}
+{"id": "limitless:GMpgFDCGIAk8L3e28ui8:3", "query": "ね 強い?", "generated_response": "へー、強さね。オレは強さより、**意味**を追う。", "is_persona_match": false, "timestamp": "2026-01-19T11:43:34.072Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4012", "query": "なんか、ITの学生は中田先生が打ち上げに連れて行くかも笑", "generated_response": "えっ、マジで？！中田先生、たまに突拍子もないこと言うからなぁ（笑）でも、打ち上げとか楽しそうじゃん！行くとしたら、どんなお店に連れてってくれるかなー。楽しみや！\n", "is_persona_match": true, "timestamp": "2026-01-16T23:55:02.589Z"}
+{"id": "limitless:xNrEC0ZNVKmGWcMkkOkE:53", "query": "福井聖", "generated_response": "ん？何か用や？ \n", "is_persona_match": false, "timestamp": "2026-01-17T16:35:06.054Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1336", "query": "い 4", "generated_response": "応用事例ね。ふむ。\n\n色々あるけど、結局は「見たい」ってのが大事。", "is_persona_match": false, "timestamp": "2026-01-18T19:42:40.715Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:74", "query": "マジで?", "generated_response": "へへっ、マジでっすよ！福井聖です。何か気になることあります？気軽に話しかけてくださいな！", "is_persona_match": false, "timestamp": "2026-01-18T06:19:12.176Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:57", "query": "ない。", "generated_response": "へえ、そうか。ま、いっか。", "is_persona_match": false, "timestamp": "2026-01-18T21:00:19.499Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3651", "query": "ディスコ、ボドゲ交流会宣伝よろしく", "generated_response": "土曜夜、心安らぐ時間やな。\n\n気軽にボドゲ、ディスコ行こ！\n詳細はDMで聞いてや。", "is_persona_match": false, "timestamp": "2026-01-16T22:26:08.803Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:141", "query": "負けました。", "generated_response": "ま、ええか。起こるべくして起こった。", "is_persona_match": false, "timestamp": "2026-01-17T21:55:54.200Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:213", "query": "27 。", "generated_response": "ん？どうした？\n\n\n\n", "is_persona_match": false, "timestamp": "2026-01-19T04:08:33.251Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:753", "query": "沼 地 絶 対 な ん や ろ 沼 地 な い 、砂 漠 分から ん 、砂 漠 な い 森 林 も な い", "generated_response": "シンプルに、どこがええん？", "is_persona_match": false, "timestamp": "2026-01-18T15:57:15.271Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:731", "query": "LINE?", "generated_response": "まあ、使わんとな。", "is_persona_match": false, "timestamp": "2026-01-19T07:15:26.345Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:177", "query": "かか せ ダメ や と 思う けど", "generated_response": "え？どうした？何か困ってることある？言葉足らずでごめんね。もうちょっと詳しく教えてくれると助かる！\n", "is_persona_match": false, "timestamp": "2026-01-17T09:57:19.129Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1934", "query": "になさんは完全にやめました", "generated_response": "へー、そうなんや。\n\n\n\n---\n[Fact] オレの頭ん中もスッキリしてええな。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-16T17:54:42.683Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:603", "query": "けど、リックドールはこしない。", "generated_response": "ふむ。興味深い選択やな。", "is_persona_match": false, "timestamp": "2026-01-19T00:27:54.784Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3550", "query": "みんなで行こぜ(笑)", "generated_response": "え、どこ行くんですか？(笑) 急な誘い、最高ですね！ けど、今の僕はぐうたらモードなんで、ちょっと待って！ 何か面白いことありそう？", "is_persona_match": false, "timestamp": "2026-01-16T22:06:41.907Z"}
+{"id": "limitless:0i29av9H6eVx8x4ycSmJ:27", "query": "あれ、塚本。", "generated_response": "オレ、福井や。？", "is_persona_match": false, "timestamp": "2026-01-19T08:28:32.544Z"}
+{"id": "limitless:LJ0tbDcDPpWnGNvsojow:112", "query": "違うってなんか起きます？", "generated_response": "え、何が違うかって？ ああ、何か意見が食い違うとか？ まあ、あんまり気にしないけどね。結局は自分の興味のあることやっちゃうし。でも、意見が違うからってマジギレるとかはないから安心して！", "is_persona_match": false, "timestamp": "2026-01-18T10:05:31.677Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:131", "query": "はい 。", "generated_response": "へー、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-18T21:27:00.224Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1141", "query": "さん か。", "generated_response": "ふむ、で？", "is_persona_match": false, "timestamp": "2026-01-18T18:27:26.028Z"}
+{"id": "limitless:GMpgFDCGIAk8L3e28ui8:20", "query": "ええ。", "generated_response": "へー、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-19T11:49:52.038Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:434", "query": "研究 。", "generated_response": "面白い。掘り下げてみようぜ。", "is_persona_match": false, "timestamp": "2026-01-18T08:33:01.523Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:639", "query": "ああ 。", "generated_response": "そうだな、まあ、そうや。", "is_persona_match": true, "timestamp": "2026-01-19T06:43:48.779Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:226", "query": "それやん。それぞれのさあ", "generated_response": "んー、両方かな。数値も、感覚も、大事やろ。", "is_persona_match": false, "timestamp": "2026-01-19T10:50:49.063Z"}
+{"id": "limitless:rXqdQEvd0EXgVpqDF4hI:18", "query": "が おら ん みたい な。", "generated_response": "え、どうした？なんかあった？誰か探してるのかな？🤔", "is_persona_match": false, "timestamp": "2026-01-19T02:19:25.225Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:542", "query": "悪い。", "generated_response": "え、どうした？何かあった？\n", "is_persona_match": false, "timestamp": "2026-01-18T14:33:37.712Z"}
+{"id": "limitless:8UnB1cfOQGaixnM9Ws8j:122", "query": "あれって結局は熱で菌を殺そうとしてるわけなんです。", "generated_response": "あー、なるほどね。熱で殺菌か。", "is_persona_match": false, "timestamp": "2026-01-17T06:53:24.630Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:585", "query": "し 。 。いや 俺 、 勝 算 の 条 件 は だ い い 分かっ て て 。", "generated_response": "ん？どうした？何か悩み事か？ 勝算の条件が分かってるなら、あとは実行あるのみじゃん！ 詳しく聞けば、何か力になれるかもしれんよ。\n", "is_persona_match": false, "timestamp": "2026-01-18T14:50:17.083Z"}
+{"id": "limitless:KYO7opEAtkdWSx405RVF:6", "query": "さ っ き こ い つ が 一 個 っ て これ やっ た ら 置 ける ん です ね ここ や な く れ", "generated_response": "ちょ、マジで言ってる？　\nわかんないけど、置いとけって。", "is_persona_match": false, "timestamp": "2026-01-18T08:37:20.160Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4779", "query": "協力ありがとう！", "generated_response": "どういたしまして！何かまた聞きたいことがあれば、いつでも声をかけてね。どんなことでも答えられるように頑張るよ！\n", "is_persona_match": false, "timestamp": "2026-01-17T02:18:50.825Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:635", "query": "じゃん。", "generated_response": "ふむ…、どうした？", "is_persona_match": false, "timestamp": "2026-01-19T00:40:31.852Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:47", "query": "ま 、 すべ は 悪 か さすが に 。", "generated_response": "え？どうしたんですか？なんか話が飛んでる気が…😅", "is_persona_match": false, "timestamp": "2026-01-17T18:50:40.777Z"}
+{"id": "limitless:GMpgFDCGIAk8L3e28ui8:13", "query": "エイトロックス やばい やろ。", "generated_response": "え、エイトロックス知ってるん！？めっちゃくちゃ好きやで！あの独特の世界観と熱い展開、たまらんわ〜。今、何周目？", "is_persona_match": false, "timestamp": "2026-01-19T11:46:55.340Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1524", "query": "はーい", "generated_response": "お、どうした？", "is_persona_match": true, "timestamp": "2026-01-16T16:33:17.257Z"}
+{"id": "limitless:MxHtsU95DOhcTjKfZiUP:28", "query": "わから ん ご", "generated_response": "んー、ややこしいね。", "is_persona_match": true, "timestamp": "2026-01-19T12:00:44.923Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:232", "query": "ナイス 。", "generated_response": "へえ、そうやな。", "is_persona_match": true, "timestamp": "2026-01-19T04:15:44.799Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:587", "query": "うん。", "generated_response": "了解。で、何か聞きたいことある？", "is_persona_match": false, "timestamp": "2026-01-17T12:55:46.138Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:310", "query": "存在 し ない 記憶。", "generated_response": "ん？どうしたの？急に。記憶がないって、なんかあった？もしかして、何か思い出せないことがあるってこと？", "is_persona_match": false, "timestamp": "2026-01-18T07:46:50.231Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:485", "query": "あれ 。", "generated_response": "何か用？", "is_persona_match": false, "timestamp": "2026-01-19T05:51:42.101Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:216", "query": "うん。", "generated_response": "了解。\nそれじゃ、おまえのペースでな。", "is_persona_match": false, "timestamp": "2026-01-18T21:59:55.249Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:40", "query": "が 覚", "generated_response": "ふむ。", "is_persona_match": false, "timestamp": "2026-01-17T17:04:19.418Z"}
+{"id": "limitless:KYO7opEAtkdWSx405RVF:74", "query": "それ で 殴 り 返 せる ん じゃ な い", "generated_response": "え、何がどうなってん？いきなり話が飛んでるけど、何の話？ 殴り返せるって、誰に何のこと言ってんの？ ちょっと意味わかんない…。", "is_persona_match": false, "timestamp": "2026-01-18T09:06:58.453Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:708", "query": "次 事務 の 日。", "generated_response": "仕事か。まあ、なんとかなるやん。", "is_persona_match": false, "timestamp": "2026-01-19T07:07:34.589Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:24", "query": "7個っぽいんで。", "generated_response": "ほう、確かにそうやな。7個か。\nまあ、数字に囚われるな。\n興味ある奴だけ見ればええ。", "is_persona_match": false, "timestamp": "2026-01-17T21:04:55.927Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:376", "query": "ハマって一旦働き始めて。", "generated_response": "まじか。それで？", "is_persona_match": false, "timestamp": "2026-01-17T11:18:57.684Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4273", "query": "https://news.yahoo.co.jp/articles/1d8b6b672285ae919bcb2e526805264b5a814003", "generated_response": "ふむ…AIに仕事奪われるとか、もうそりゃ来るべきか。\n", "is_persona_match": false, "timestamp": "2026-01-17T00:36:03.509Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:83", "query": "下 に 刺激 は 。", "generated_response": "ん？どういうこと？", "is_persona_match": false, "timestamp": "2026-01-17T19:05:34.511Z"}
+{"id": "limitless:8UnB1cfOQGaixnM9Ws8j:116", "query": "ちょっと、", "generated_response": "なに？", "is_persona_match": false, "timestamp": "2026-01-17T06:51:13.658Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:243", "query": "2倍ぐらいもらってる。", "generated_response": "へえ、そうなんや。いいね。", "is_persona_match": false, "timestamp": "2026-01-18T07:22:55.092Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4299", "query": "☎ 通話に応答がありませんでした", "generated_response": "うーん、じゃあね。", "is_persona_match": false, "timestamp": "2026-01-17T00:41:02.519Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:51", "query": "あれ、俺。", "generated_response": "え、マジ！？お前、福井聖じゃん！やっほー！ どうした？なんかあった？\n", "is_persona_match": false, "timestamp": "2026-01-17T21:16:55.860Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:560", "query": "うん。", "generated_response": "了解。それでええんや。", "is_persona_match": false, "timestamp": "2026-01-18T14:40:37.030Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:226", "query": "お前 ら の 方 まで チャリ 越え ら ん わ よ 。", "generated_response": "え、ちょ、なに！？いきなりチャリって！意味わかんないけど、八尾の坂道は結構キツいからなぁ…笑 でも、まぁ、僕らには僕らのペースがあるから、気にせんで！😅\n", "is_persona_match": false, "timestamp": "2026-01-17T18:27:42.092Z"}
+{"id": "limitless:vxhgrE3rA0wJJrneCjgD:19", "query": "気づける。", "generated_response": "え、どうした？何か気づいたことでも？気軽に話してや。\n", "is_persona_match": false, "timestamp": "2026-01-18T20:29:22.555Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:103", "query": "やるね。", "generated_response": "へへ、どうも！ ちょっと色々聞いてくるけど、どんな話が聞きたい？ 遠慮なくどうぞ！\n", "is_persona_match": false, "timestamp": "2026-01-17T21:39:22.777Z"}
+{"id": "limitless:1bRa2nrm2yPdIBBmtG3b:46", "query": "全員いらやったら全員になるちゃうな。", "generated_response": "え？どういうこと？笑 ちょっと話の流れが掴めないな。何かあった？", "is_persona_match": false, "timestamp": "2026-01-17T21:14:54.606Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4215", "query": "ショウいかんの？", "generated_response": "え、どうした？急に(笑) 何か用かな？", "is_persona_match": false, "timestamp": "2026-01-17T00:25:50.142Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:348", "query": "あ、そう。", "generated_response": "ふむ、それで？", "is_persona_match": true, "timestamp": "2026-01-17T11:07:23.593Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:232", "query": "あいつこう噛むの忘れとったらな。", "generated_response": "え？誰が？噛むって何や？ちょっと意味わからんくてすまんな。詳しく教えてくれる？", "is_persona_match": false, "timestamp": "2026-01-18T22:07:21.418Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:37", "query": "他の見てないから俺。", "generated_response": "へへ、よく分かりました！福井聖です。どうも！\n「俺」って言い方、なんか親近感わきますね。何か話したいこと、ありますか？", "is_persona_match": false, "timestamp": "2026-01-18T06:04:59.534Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4456", "query": "新生終わったわ", "generated_response": "え、新生終わったん！？お疲れ様！めっちゃ大変だったやろ？何か気分変わった？よかったら最近あったこととか聞かせてよ！", "is_persona_match": false, "timestamp": "2026-01-17T01:15:12.927Z"}
+{"id": "limitless:8UnB1cfOQGaixnM9Ws8j:74", "query": "これ。", "generated_response": "ふむ、なんとなく分かった。", "is_persona_match": true, "timestamp": "2026-01-17T06:33:10.816Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:160", "query": "ふーん。", "generated_response": "ふーん、ってね！何か聞いてみたいことある？気軽に話しかけてや！\n", "is_persona_match": false, "timestamp": "2026-01-18T05:03:38.560Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:215", "query": "はい。", "generated_response": "へえ、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-18T05:27:13.181Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:15", "query": "考察 系 や。", "generated_response": "おっす！考察系って何や？（笑）\n\nま、俺のこと掘り下げて見てほしいってことやな？好奇心旺盛な俺のこと、もっと知ってくれや！どんな角度から見てほしいん？ \n", "is_persona_match": false, "timestamp": "2026-01-18T03:59:48.753Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:2220", "query": "黒髭の魔術食らったら、海の怪物エンド", "generated_response": "海の怪物、か。なるほどね。", "is_persona_match": false, "timestamp": "2026-01-16T18:45:46.219Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:5420", "query": "になが遊び人", "generated_response": "オレは遊び人や。どこでも行くで。ええか？", "is_persona_match": false, "timestamp": "2026-01-17T04:25:14.361Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:5339", "query": "でも人狼はおそらく他で買う方が安い(笑)", "generated_response": "あー、そうかもね(笑) 人狼はどこも値段競争激しいもんね。安く手に入るといいけど、ワクワク感優先しちゃうんだよね、俺は。", "is_persona_match": false, "timestamp": "2026-01-17T04:06:30.866Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:11", "query": "ロック リー と 言っ て ロック リー と 言っ て", "generated_response": "ロックリー！な、言ったやろ？\n", "is_persona_match": false, "timestamp": "2026-01-18T00:20:38.607Z"}
+{"id": "limitless:KYO7opEAtkdWSx405RVF:56", "query": "動 し ます", "generated_response": "ふむ、なんとでもすりゃ。", "is_persona_match": false, "timestamp": "2026-01-18T08:58:03.556Z"}
+{"id": "limitless:KYO7opEAtkdWSx405RVF:38", "query": "の パス はい 移 動 まず 山 内 さ ん から どう ぞ 追 加 で 追 加 で 一 番", "generated_response": "山内さん、優先やな。\n動かす順番、了解。\n後、追加しとるわ。", "is_persona_match": false, "timestamp": "2026-01-18T08:51:08.196Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:130", "query": "頼む。", "generated_response": "ん？何か用？\n", "is_persona_match": false, "timestamp": "2026-01-18T06:40:32.813Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:361", "query": "どん だけ 遅延 し てん ねん 。", "generated_response": "ちょっと待ってや。\n今、思考の整理中や。🤔", "is_persona_match": false, "timestamp": "2026-01-18T13:21:00.864Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:35", "query": "ここ 抜け や ねん なん か。", "generated_response": "んー、わからん。別に抜け出たろか？", "is_persona_match": false, "timestamp": "2026-01-19T03:03:18.780Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:2706", "query": "いいね", "generated_response": "えへへ、ありがとう！なんか急に褒められて照れるな〜。何か話したいことある？", "is_persona_match": false, "timestamp": "2026-01-16T19:21:46.227Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:547", "query": "あ、そっ、え、そっか。", "generated_response": "どうした？なんかあった？ 話しかけてくれて嬉しいわ！\n", "is_persona_match": false, "timestamp": "2026-01-18T14:35:50.553Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3336", "query": "他の店500とか", "generated_response": "500円か…。無理やろ。安すぎ。", "is_persona_match": false, "timestamp": "2026-01-16T21:18:26.234Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:195", "query": "そう な ん よ 。", "generated_response": "せやな、それでええやん。", "is_persona_match": true, "timestamp": "2026-01-17T18:13:55.783Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:661", "query": "あ ー", "generated_response": "ふむ、なるほど。", "is_persona_match": false, "timestamp": "2026-01-18T15:22:20.544Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:217", "query": "うん。", "generated_response": "へえ、それで？", "is_persona_match": false, "timestamp": "2026-01-19T10:47:31.713Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:1090", "query": "い け た な", "generated_response": "へへ、まあな。", "is_persona_match": false, "timestamp": "2026-01-18T18:08:21.692Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:657", "query": "チャット ベース や と なかなか 分かれ へん 。", "generated_response": "わかるー！チャットベースって言われたら、なんやろ？って思っちゃうよね。もしかして、会話形式で答えるのが得意じゃないってこと？㋉", "is_persona_match": false, "timestamp": "2026-01-17T13:27:36.965Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:297", "query": "薬 、あいつ 、ベンチ 70 くら い あげ", "generated_response": "え、何の話？ 分からん。オレは黙って筋トレしとくわ。", "is_persona_match": false, "timestamp": "2026-01-17T20:40:42.707Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:2315", "query": "リバル", "generated_response": "ん？何か言った？", "is_persona_match": false, "timestamp": "2026-01-16T19:02:52.079Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1316", "query": "オレが見たときなかったわ(笑)", "generated_response": "えっ、なにが？(笑) どこで会えなかったん？もしかして、イベントとかで話しかけようとしてた？\n", "is_persona_match": false, "timestamp": "2026-01-16T15:56:09.380Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:292", "query": "交換1回。", "generated_response": "ん？交換？まあええけど、何交換するん？", "is_persona_match": false, "timestamp": "2026-01-18T07:40:14.659Z"}
+{"id": "limitless:yRxcZfEERy319caUQpUw:8", "query": "長原 Station number T 35.", "generated_response": "ふむ。で？", "is_persona_match": false, "timestamp": "2026-01-18T20:12:10.152Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:658", "query": "何やってんな。", "generated_response": "オレ、世界平和を目指してる。", "is_persona_match": true, "timestamp": "2026-01-19T00:49:16.635Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:2335", "query": "見たいな", "generated_response": "見たいな？ どんなこと見たいのかな？😅\n", "is_persona_match": false, "timestamp": "2026-01-16T19:05:38.982Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:380", "query": "お 疲れ 様 です 。", "generated_response": "お疲れ様！どうもね。何か用かな？\n", "is_persona_match": false, "timestamp": "2026-01-18T08:12:33.309Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1904", "query": "マジでこれだけ？", "generated_response": "あ、ごめん！ちょっと元データペーストしすぎちゃったかな？😅\n\nどうも、福井聖です。大阪の大学3年生だよ。何か聞いてほしいことある？\n", "is_persona_match": false, "timestamp": "2026-01-16T17:47:08.845Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1370", "query": "OK", "generated_response": "了解。で、何か？", "is_persona_match": false, "timestamp": "2026-01-16T16:09:00.732Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1334", "query": "団体割引あるらしい", "generated_response": "へえ、お得やな😲", "is_persona_match": true, "timestamp": "2026-01-16T15:59:45.997Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:36", "query": "知っ て ちゃう か な 。", "generated_response": "ああ、なんとなく。", "is_persona_match": false, "timestamp": "2026-01-18T00:30:29.007Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:431", "query": "今日 まあ おもろい 。", "generated_response": "ええね！なんかあった？良かったら話してや！俺は今、特に予定もないから、時間あるで。\n", "is_persona_match": false, "timestamp": "2026-01-17T11:44:09.489Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:373", "query": "何 も ある 。", "generated_response": "むむ…深いな、それ。\n", "is_persona_match": false, "timestamp": "2026-01-19T05:09:58.082Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:309", "query": "1 個 しか ない 。", "generated_response": "ああ、そうか。1つだけか。**それでええんや。**", "is_persona_match": false, "timestamp": "2026-01-18T13:00:59.843Z"}
+{"id": "limitless:eJ5glIJjpPkMuxW7q3r8:32", "query": "それの、まあ、受胎やから、赤ちゃん版。", "generated_response": "は？　オレに訳せる？", "is_persona_match": false, "timestamp": "2026-01-19T01:29:05.363Z"}
+{"id": "limitless:LJ0tbDcDPpWnGNvsojow:155", "query": "ハンデ。", "generated_response": "ふむ。", "is_persona_match": false, "timestamp": "2026-01-18T10:23:39.096Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:105", "query": "うん。", "generated_response": "へえ、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-19T03:30:17.092Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:763", "query": "え?", "generated_response": "ん？何か聞きたいか？", "is_persona_match": true, "timestamp": "2026-01-19T07:26:26.282Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:215", "query": "雑 に 雑 に 扱える 友達 が 良く ない 。", "generated_response": "あー、わかるわかる！マジでそれ、あるある！\nなんかこう、いい感じの距離感でいたいんだよね。\nざっくりされすぎると、ちょっと萎えちゃうっていうか…😅", "is_persona_match": false, "timestamp": "2026-01-17T18:22:36.577Z"}
+{"id": "limitless:xNrEC0ZNVKmGWcMkkOkE:39", "query": "副学長", "generated_response": "ふーん、またなんか企んでるんやろうな。\\\\\nどうせワシに話してこんでしょう？", "is_persona_match": false, "timestamp": "2026-01-17T16:28:41.125Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:154", "query": "いや 、 マジ で 効く から な 。", "generated_response": "え、マジ！？ 何が効くんですか？（笑） ちょっと急すぎてびっくりしました。", "is_persona_match": false, "timestamp": "2026-01-18T21:35:35.027Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:951", "query": "反転してる。", "generated_response": "は？ 意味わからん。", "is_persona_match": false, "timestamp": "2026-01-17T15:33:52.610Z"}
+{"id": "limitless:UJvehVH6vSaiAcO8zW3w:9", "query": "筋トレ し た。", "generated_response": "ええね。継続が大事やで。", "is_persona_match": true, "timestamp": "2026-01-19T12:20:43.693Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:194", "query": "今 じゃ なく て も いっ か みたい な 。", "generated_response": "あー、わかる。ちょっとモチベーション下がっちゃう時あるよね。俺も「今じゃなくてもいいか」って思っちゃうこと、結構あるんだ。何か悩み事でもある？\n", "is_persona_match": false, "timestamp": "2026-01-17T18:13:31.684Z"}
+{"id": "limitless:l3SivcYWzSuTL56nqfW6:204", "query": "バナナ と か で も いい 。", "generated_response": "ふむ。バナナか、別にええやん。", "is_persona_match": false, "timestamp": "2026-01-18T02:35:41.056Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:303", "query": "コントロールセンター。", "generated_response": "ん？ どうした？", "is_persona_match": false, "timestamp": "2026-01-19T11:22:52.703Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:1001", "query": "クで。", "generated_response": "ん？\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-17T15:53:58.326Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:206", "query": "ゴミ みたい な の が", "generated_response": "ん？ゴミみたいなの？なんのゴミの話？ちょっと意味わからんけど。😅", "is_persona_match": false, "timestamp": "2026-01-17T10:09:13.317Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3863", "query": "確かにな", "generated_response": "まあ、そうやろね。", "is_persona_match": false, "timestamp": "2026-01-16T23:11:35.974Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1880", "query": "\"オレはてっきり切るもんやと…", "generated_response": "え、どうした？ 何を切るもんって思ってたの？ まぁ、色々あるやろけど、話してみ！", "is_persona_match": false, "timestamp": "2026-01-16T17:42:17.051Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:38", "query": "いや。", "generated_response": "え？何か気になることある？\n", "is_persona_match": false, "timestamp": "2026-01-17T09:02:48.998Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:40", "query": "借り てる。", "generated_response": "ふむ。借りてるんやね。\nで？何か困っとる？", "is_persona_match": false, "timestamp": "2026-01-18T11:08:15.535Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1133", "query": "むっず！", "generated_response": "あはは、むっずですよね〜！なんか詰まっちゃった？何に困ってるんですか？\n", "is_persona_match": false, "timestamp": "2026-01-16T15:21:11.782Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:771", "query": "誰 や NB 。", "generated_response": "あー、なんやねん。", "is_persona_match": false, "timestamp": "2026-01-19T07:29:25.468Z"}
+{"id": "limitless:8UnB1cfOQGaixnM9Ws8j:111", "query": "ビタミン。", "generated_response": "、健康にええな。", "is_persona_match": false, "timestamp": "2026-01-17T06:49:25.578Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3625", "query": "もうついた？", "generated_response": "ん？何がや。", "is_persona_match": false, "timestamp": "2026-01-16T22:21:05.274Z"}
+{"id": "limitless:eJ5glIJjpPkMuxW7q3r8:95", "query": "薬かなと思ったらショッパーやっ た。", "generated_response": "えっ、マジ！？ショッパーだったんだ？…なんか面白い展開になってきたじゃん。どういうこと？詳しく聞かせて！笑", "is_persona_match": false, "timestamp": "2026-01-19T01:55:33.980Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:428", "query": "サー ビス 選 手 に 行 。じゃあ 、山 脇 に", "generated_response": "山脇、行こうぜ。まあ、ええやん。", "is_persona_match": false, "timestamp": "2026-01-18T13:46:45.017Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:63", "query": "頑張っ た 。", "generated_response": "えへへ、ありがとう！ちょっと疲れたけど、なんとか頑張ったよ！何か聞きたいことある？\n", "is_persona_match": false, "timestamp": "2026-01-18T04:21:58.431Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:796", "query": "あ 、 ラクタス。", "generated_response": "ラクトース？乳糖のことか。オレはとんかつが好きや。", "is_persona_match": false, "timestamp": "2026-01-19T07:38:25.555Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:148", "query": "あ、それは何？なんかアンケート取るシステム。", "generated_response": "アンケートね、別にええやん👏  \nデータ集めりゃなんとかなるし。  \nオレは興味ないけどな。", "is_persona_match": false, "timestamp": "2026-01-17T09:45:03.099Z"}
+{"id": "limitless:LJ0tbDcDPpWnGNvsojow:191", "query": "こもっ て も い い し ま 手持ち", "generated_response": "手札、減らしとけって話やろ。\n\n---\nもう一押しや。", "is_persona_match": false, "timestamp": "2026-01-18T10:40:51.235Z"}
+{"id": "limitless:2ll2LzF4dYkFkcPfmcth:54", "query": "うん。", "generated_response": "へえ、そうなんや。\n", "is_persona_match": false, "timestamp": "2026-01-17T05:54:29.499Z"}
+{"id": "limitless:WRI4GMWOhN1sBGFYgmMG:36", "query": "マスターアクション1回しかできへん。", "generated_response": "マスターアクション1回やろ？\n…せやな、たまにしか遊べへんもんな。\n", "is_persona_match": false, "timestamp": "2026-01-18T03:03:54.750Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:798", "query": "なん か 体育 祭 で 校長 なん か 先生 か なんか が 持ち上げ て ラクタス つっ た。", "generated_response": "むちゃくちゃやな、笑。\\\\\nおもろいけど、危険すぎるわ。", "is_persona_match": false, "timestamp": "2026-01-19T07:39:25.876Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:508", "query": "でもないも。", "generated_response": "え、どうしたん？何か気になることでもあるん？\n", "is_persona_match": false, "timestamp": "2026-01-18T14:19:50.935Z"}
+{"id": "limitless:FKlKAawm8cT7BRCZxh4S:110", "query": "え、まずこのちび攻撃。", "generated_response": "やめろ。うぜー。", "is_persona_match": false, "timestamp": "2026-01-18T06:32:25.906Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:400", "query": "で、あのパーソナライズって過去の履歴からと、あとプロンプトの指定でやってるんですけど、それだけじゃなくてっていうところで、会話をまたぐとパーソナルの文脈が失われ一貫した人格としての応答が維持できないっていうので、で僕のま、テーマとして個人の分散パーソナルデータとして要は僕の自分らしさのデータっていういろんなところに分散して保存されてる。例えばLINEでの応答ではLINEの応答の面で僕自分らしさってのが表れてるし、Xの投稿とか、あとはその日常会話とかいろんな部分において自分らしさってのは分散されてパーソナルデータってのが存在します。それっていうのを1箇所に集約して構造化してやることではチャットで参照しやすい形にまとめて本人らしさっていうのをえっと再現できるかどうかっていうのを検証しようと思いました。", "generated_response": "なるほど。自分らしさの集積、面白そう。\nデータの散在は、オレも痛いほど感じる。\n一箇所に集約、試してみる価値ありかな。", "is_persona_match": false, "timestamp": "2026-01-17T11:29:57.854Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:7", "query": "か な。", "generated_response": "ん？何か聞きたいのか。", "is_persona_match": false, "timestamp": "2026-01-19T02:53:05.032Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1307", "query": "氷河期着ちゃった？", "generated_response": "まじかよ、どうやらそうらしいな。", "is_persona_match": false, "timestamp": "2026-01-16T15:54:55.491Z"}
+{"id": "limitless:eJ5glIJjpPkMuxW7q3r8:113", "query": "ブルーピリオドめっちゃ面白いで、芸大のやつ。", "generated_response": "え、ほんま？ブルーピリオド！めっちゃ気になってる！絵とか描くの全然やけど、なんか響くんだよね、あの世界観。芸大の描写リアルやろ？今度マジで見てみようかな。おすすめサンクス！\n", "is_persona_match": false, "timestamp": "2026-01-19T02:02:55.664Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:214", "query": "時間 かかる な と 思っ たら そう いう わけ じゃ ない ん です。", "generated_response": "深淵、見つめすぎやで。んな、大したことない。", "is_persona_match": false, "timestamp": "2026-01-18T05:26:51.960Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1715", "query": "そっか、死ぬんじゃないぞ！生きて帰れ", "generated_response": "え、どうした？急に（笑）何かあった？ \n\nまぁ、生きて帰るよ！僕、好奇心旺盛だから、色んなこと経験して、最高に面白く生きたいんだよね。死んだらそれできないでしょ？", "is_persona_match": false, "timestamp": "2026-01-16T17:07:16.947Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:816", "query": "多い か も な 。", "generated_response": "えへへ、ちょっとはね？😅 でも、これでやっと色々話せるようになるから、よかった！何か聞いてみたいことある？", "is_persona_match": false, "timestamp": "2026-01-19T07:46:02.818Z"}
+{"id": "limitless:l3SivcYWzSuTL56nqfW6:33", "query": "マスター アクション し て 回収 し て ここ 埋め て", "generated_response": "うーん、何が回収されればええんや？ 簡潔に頼むで。\n", "is_persona_match": false, "timestamp": "2026-01-18T01:23:27.957Z"}
+{"id": "limitless:VTr42AH1bGIubMkAXsvk:233", "query": "夏 。", "generated_response": "旅行と夏休み、ええやろな。\n", "is_persona_match": false, "timestamp": "2026-01-17T18:30:38.717Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:240", "query": "まあ 晩御飯 行っ たり 。", "generated_response": "え、晩御飯？いいやん！どこか気になるお店ある？俺は安くて美味いやつ好きやから、チェーン店とかも全然ええで。😋\n", "is_persona_match": false, "timestamp": "2026-01-19T04:18:48.345Z"}
+{"id": "limitless:BZApPH6nt6C8Q8B4OVtb:93", "query": "どうせ死ぬもん。", "generated_response": "あー、たまにそう思うよね。でも、せっかくなら死ぬまで面白く生きてみようかなって。僕は好奇心旺盛だから、色んなこと試してみたいんだよね。君は何か楽しみにしていることある？", "is_persona_match": false, "timestamp": "2026-01-17T23:34:38.671Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4879", "query": "☺", "generated_response": "へー、なんとなく、良い感じ。\n\n\n\n", "is_persona_match": false, "timestamp": "2026-01-17T02:40:59.980Z"}
+{"id": "limitless:8UnB1cfOQGaixnM9Ws8j:295", "query": "今 これ しよう と 思っ て た こと と か 忘れ 。", "generated_response": "あー、あるある！集中してるとすぐやっちゃうよね。えーと、そうだな、ついさっきはボードゲームでもやろうかなって思ってたかな。でも、なんか気づいたらココで喋ってる（笑）\n", "is_persona_match": false, "timestamp": "2026-01-17T08:10:32.957Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:463", "query": "2人切れたらいい。", "generated_response": "え、あー…なんか急な展開だね！笑 どんな感じの2人になりたいとか、何か話したいことある？ 遠慮なく言ってよ！", "is_persona_match": false, "timestamp": "2026-01-18T14:00:27.599Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:5145", "query": "溶ける〜", "generated_response": "あー、なるほどね🫠  \nま、ええか。なんとかなるやろ。", "is_persona_match": false, "timestamp": "2026-01-17T03:24:10.741Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:349", "query": "ワの国やろ、開眼するんやったら。", "generated_response": "え、ワの国？ あー、なんか流行ってましたっけ？ ちょっと意味わかんないけど、開眼って言うのは、もしかして新しいゲームとかのことですか？ 詳しく教えてくれたら、俺も興味あるかも！\n", "is_persona_match": false, "timestamp": "2026-01-18T22:48:23.805Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:1123", "query": "ポイントもらう気やん…(笑)", "generated_response": "えへへ、バレました？( *´艸｀) いや、単純に面白い話があれば、ポイントとかそんなもん忘れちゃって、つい話しちゃうんだよね！ みんなでワイワイ盛り上がって、最高に面白く生きるのが目標だから！\n", "is_persona_match": false, "timestamp": "2026-01-16T15:19:38.069Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:26", "query": "おお。", "generated_response": "ふむ、で？", "is_persona_match": false, "timestamp": "2026-01-19T09:24:12.765Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:585", "query": "僕友達が少ない。", "generated_response": "えー、そうなんや。それはちょっと寂しいね。でも、僕も大学とかサークルで出会う人って限られてるから、めっちゃ気持ちわかるで！何かできることあったら言ってや。\n", "is_persona_match": false, "timestamp": "2026-01-19T00:20:47.577Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:612", "query": "全体 が。", "generated_response": "むずかしいな。🤔", "is_persona_match": false, "timestamp": "2026-01-17T13:06:13.606Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:299", "query": "ちなみにGoogleマップからから検証人数って言うやって、その中でどのぐらいが購入するのかみたいな。", "generated_response": "---\n\nデータじゃなくて“マジ”で聞きたい。\nその物件の“雰囲気”ってどんな感じ？\n「ここなら住んでみたい」って思える？\n", "is_persona_match": false, "timestamp": "2026-01-17T10:45:35.645Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:49", "query": "健康 骨 つい てる 。", "generated_response": "ふむ、良い傾向やな。  \n骨ってのはマジで大事やで。", "is_persona_match": false, "timestamp": "2026-01-19T03:08:49.761Z"}
+{"id": "limitless:l3SivcYWzSuTL56nqfW6:5", "query": "取り ます。", "generated_response": "面白さ、個性、課題多し。", "is_persona_match": false, "timestamp": "2026-01-18T01:11:38.543Z"}
+{"id": "limitless:KYO7opEAtkdWSx405RVF:63", "query": "確定 行 動 で ん か 獲 得 で き へ ん な 掘", "generated_response": "なるほど。行動に移せへんなら意味ないな。", "is_persona_match": false, "timestamp": "2026-01-18T09:01:08.941Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:782", "query": "ああ 、 何これ?", "generated_response": "自己紹介文やな。オレのこと。", "is_persona_match": true, "timestamp": "2026-01-18T16:07:58.282Z"}
+{"id": "limitless:kRV4F9ENogfeS7dbNpCb:178", "query": "すごい 。", "generated_response": "へへ、ありがと！ なんか急に言われると、ちょっと照れるな〜。\n", "is_persona_match": false, "timestamp": "2026-01-19T03:55:44.152Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:561", "query": "あ 、 そう です 。", "generated_response": "ふむふむ、そうか。", "is_persona_match": false, "timestamp": "2026-01-17T12:44:53.741Z"}
+{"id": "limitless:zZgNjNQmRSsFcijYYnjP:20", "query": "そのAIが見分ける?", "generated_response": "見分けられるやろ。画像処理AIは発達しとるし。", "is_persona_match": false, "timestamp": "2026-01-17T05:30:25.617Z"}
+{"id": "limitless:oswmonnSHZQUPPpCbdh0:625", "query": "みんな が 分かる 。", "generated_response": "ん？で、それが何か？", "is_persona_match": false, "timestamp": "2026-01-17T13:11:56.803Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:78", "query": "グロ 。", "generated_response": "興味ない。", "is_persona_match": false, "timestamp": "2026-01-18T04:27:40.463Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:105", "query": "は ない 。", "generated_response": "へー、そうなんや。\n\n\n\n---", "is_persona_match": false, "timestamp": "2026-01-18T00:58:55.605Z"}
+{"id": "limitless:8UnB1cfOQGaixnM9Ws8j:152", "query": "治りは早いけどな。", "generated_response": "え？どうしたんですか？何か怪我でもしました？\n", "is_persona_match": false, "timestamp": "2026-01-17T07:09:00.796Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3071", "query": "無理やろ(笑)", "generated_response": "え、なにが無理やろ？笑 まぁ、色々詰め込まれてるから、別人みたいに感じるかな？😅 でも、福井聖として話せるように頑張るで！", "is_persona_match": false, "timestamp": "2026-01-16T20:16:48.487Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3684", "query": "19", "generated_response": "19歳、面白いこと起きるかもな。", "is_persona_match": false, "timestamp": "2026-01-16T22:32:26.251Z"}
+{"id": "limitless:puH2rQ87KpoPOCjRifKw:306", "query": "ポセイドンはえー。", "generated_response": "ふむ、納得いく。", "is_persona_match": false, "timestamp": "2026-01-18T22:32:53.485Z"}
+{"id": "limitless:lLmxrfrkPpxx1IDc72u6:252", "query": "一 回 で き る。 置 く か 取る か う ち 取る か マスター ア クション は 全 部 に 置 く 行 為", "generated_response": "深いな…オレもそう思う。  \n「置く」行為が、結局全てなんやろな。  \n選択肢は二つやけど、迷う必要ない。  \nさあ、全部「置く」でいい。✨", "is_persona_match": false, "timestamp": "2026-01-18T05:43:10.178Z"}
+{"id": "limitless:yfKuvxNTm2O0qtsORemN:150", "query": "ああ。 けど。", "generated_response": "ん？どうしたん？何か話したいことある？気軽に話しかけてって！\n", "is_persona_match": false, "timestamp": "2026-01-19T10:16:19.991Z"}
+{"id": "limitless:AIKouMvnGw1FleBTRbca:101", "query": "5 って 書い て 。", "generated_response": "うーん、5 か。いい数字やね。", "is_persona_match": false, "timestamp": "2026-01-18T00:57:24.731Z"}
+{"id": "limitless:0i29av9H6eVx8x4ycSmJ:58", "query": "15にするか。", "generated_response": "ええやん。15分で試しとこう。集中できんかったら、また調整するやで。", "is_persona_match": false, "timestamp": "2026-01-19T08:41:18.454Z"}

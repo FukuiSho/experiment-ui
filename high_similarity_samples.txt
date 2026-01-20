@@ -1,0 +1,251 @@
+=== Top 50 High Similarity Responses ===
+
+[1] NormLev: 0.5714 | Jaccard: 0.4286
+    Query:     ランダム
+    Expected:  なるほどな
+    Generated: なるほどね。 
+
+[2] NormLev: 0.5556 | Jaccard: 0.1818
+    Query:     はい。
+    Expected:  え、なんか。
+    Generated: へえ、そうなんや。
+
+[3] NormLev: 0.5000 | Jaccard: 0.2857
+    Query:     おきてるか
+    Expected:  起きてるよ
+    Generated: 生きてるわ。
+
+[4] NormLev: 0.4444 | Jaccard: 0.1667
+    Query:     うん。
+    Expected:  それなんやろ。
+    Generated: へえ、そうなんや。
+
+[5] NormLev: 0.4000 | Jaccard: 0.1111
+    Query:     はい、000だ。
+    Expected:  000000。
+    Generated: 000ね。了解した。
+
+[6] NormLev: 0.3846 | Jaccard: 0.0500
+    Query:     ずる よ そう 。
+    Expected:  だっ て ない や ん 。
+    Generated: ん？ なにがやねん。
+
+[7] NormLev: 0.3750 | Jaccard: 0.2500
+    Query:     欲しい。
+    Expected:  欲しい。
+    Generated: 何が欲しいんだ？
+
+[8] NormLev: 0.3750 | Jaccard: 0.1250
+    Query:     いおらんの?
+    Expected:  ええ。
+    Generated: ええで、何がや。
+
+[9] NormLev: 0.3750 | Jaccard: 0.0000
+    Query:     アラーム。
+    Expected:  うん。
+    Generated: うーん、最悪だ。
+
+[10] NormLev: 0.3333 | Jaccard: 0.1579
+    Query:     "10000→3000
+    Expected:  全部スカってことか
+    Generated: 安くしろってことね。わかった。
+
+[11] NormLev: 0.3333 | Jaccard: 0.1111
+    Query:     して、その、してビタミン取るって吸収。
+    Expected:  そう。
+    Generated: へー、そうなんだ。
+
+[12] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     じゃない。
+    Expected:  の。
+    Generated: ふむ。
+
+[13] NormLev: 0.3333 | Jaccard: 0.1250
+    Query:     ああ。
+    Expected:  どれやろな。
+    Generated: そうだな。
+
+[14] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     だいたい。
+    Expected:  いる。
+    Generated: ふむ。
+
+[15] NormLev: 0.3333 | Jaccard: 0.1429
+    Query:     積んでた。
+    Expected:  積んでたな。
+    Generated: ええな。
+
+[16] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     早いない。
+    Expected:  ないから。
+    Generated: せやな、わかった。
+
+[17] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     や ん 。
+    Expected:  おい 。
+    Generated: お、どうも。
+
+[18] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     そう、まずあなたのターンになったらあなたのターン中2のアクションを実行することができます。で、今からアクションの種類を説明します。
+    Expected:  はい。
+    Generated: は？
+
+[19] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     し。
+    Expected:  はい。
+    Generated: ふむ。
+
+[20] NormLev: 0.3333 | Jaccard: 0.0667
+    Query:     あ 、 ここ 乗っける こと で 。
+    Expected:  ええ 、 すご 。
+    Generated: ええな、それ。👍
+
+[21] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     近い。
+    Expected:  はい。
+    Generated: ふむ。
+
+[22] NormLev: 0.3333 | Jaccard: 0.1000
+    Query:     それや。
+    Expected:  それや。
+    Generated: へえ、そうなんや。
+
+[23] NormLev: 0.3333 | Jaccard: 0.1111
+    Query:     そう。
+    Expected:  そう。
+    Generated: へえ、そうなんや。
+
+[24] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     うん。
+    Expected:  うん。
+    Generated: へえ、そうなんや。
+
+[25] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     うん。
+    Expected:  うん。
+    Generated: へー、そうなんや。
+
+[26] NormLev: 0.3333 | Jaccard: 0.1000
+    Query:     うん。
+    Expected:  そうそう。
+    Generated: へえ、そうなんや。
+
+[27] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     うん。
+    Expected:  うん。
+    Generated: へえ、そうなんや。
+
+[28] NormLev: 0.3333 | Jaccard: 0.1250
+    Query:     ああ。
+    Expected:  せえへんな。
+    Generated: そうだな。
+
+[29] NormLev: 0.3333 | Jaccard: 0.0909
+    Query:     確かに小さいバス付いてないよな。
+    Expected:  なるほど。
+    Generated: 気になるな、それ。
+
+[30] NormLev: 0.3333 | Jaccard: 0.0000
+    Query:     波。
+    Expected:  なあ。
+    Generated: ふむ。
+
+[31] NormLev: 0.3333 | Jaccard: 0.1111
+    Query:     35 + 7。
+    Expected:  42。
+    Generated: 42でしょ。別に？
+
+[32] NormLev: 0.3333 | Jaccard: 0.2222
+    Query:     どっち？
+    Expected:  どっち？
+    Generated: んー、どっちかな。
+
+[33] NormLev: 0.3333 | Jaccard: 0.3077
+    Query:     ルナリア族も同じやしな。
+    Expected:  そうやな。
+    Generated: **ああ、確かにそうやな。**
+
+[34] NormLev: 0.3077 | Jaccard: 0.1429
+    Query:     え。
+    Expected:  いらにしてたらどうしてた。
+    Generated: ん？どうした？
+
+[35] NormLev: 0.3077 | Jaccard: 0.0714
+    Query:     うん。
+    Expected:  やんな。
+    Generated: 了解や。それでええんやな。
+
+[36] NormLev: 0.3000 | Jaccard: 0.0000
+    Query:     うん。
+    Expected:  うん。
+    Generated: へえ、そうなんや。 
+
+[37] NormLev: 0.3000 | Jaccard: 0.0769
+    Query:     そう。
+    Expected:  そりゃそう。
+    Generated: へえ、そうなんや。 
+
+[38] NormLev: 0.3000 | Jaccard: 0.0000
+    Query:     これ で 1 カード ます。
+    Expected:  え 、 微妙 に はまら ん ねん な。
+    Generated: え、なに？ 意味分からんわ。
+
+[39] NormLev: 0.3000 | Jaccard: 0.0000
+    Query:     はい。
+    Expected:  やね、俺してるから。
+    Generated: へえ、そうか。
+
+[40] NormLev: 0.3000 | Jaccard: 0.0909
+    Query:     移動 。
+    Expected:  移動 。
+    Generated: ま、移動するんやな。
+
+[41] NormLev: 0.3000 | Jaccard: 0.0000
+    Query:     なん か まあ
+    Expected:  さん は いい よ。
+    Generated: なんとでもないわ。
+
+[42] NormLev: 0.3000 | Jaccard: 0.0000
+    Query:     バイオーム完全潰れた。
+    Expected:  いや、だろうな。
+    Generated: ふむ、しゃーないね。
+
+[43] NormLev: 0.3000 | Jaccard: 0.0909
+    Query:     あ、熊もあんのか。
+    Expected:  そうそう。
+    Generated: へー、そうなんや。 
+
+[44] NormLev: 0.3000 | Jaccard: 0.0741
+    Query:     やば。
+    Expected:  あんな あんな高速道路みたいあったっけ？
+    Generated: ん？ どうした？何かあった？
+
+[45] NormLev: 0.3000 | Jaccard: 0.1818
+    Query:     ならん？
+    Expected:  ならんな。
+    Generated: ん？何がならんって？
+
+[46] NormLev: 0.2941 | Jaccard: 0.0385
+    Query:     ああ、はいはいはい。
+    Expected:  ああ。 あれさ、子供できてるやつ。
+    Generated: まあ、なんとかなるやろ。
+
+[47] NormLev: 0.2857 | Jaccard: 0.1250
+    Query:     来週 。
+    Expected:  ええ ?
+    Generated: ええな、で何？
+
+[48] NormLev: 0.2857 | Jaccard: 0.1111
+    Query:     いらっしゃいませ。
+    Expected:  食べるか。
+    Generated: へえ、来店か。
+
+[49] NormLev: 0.2857 | Jaccard: 0.1333
+    Query:     と共同戦線張ってるから一旦。
+    Expected:  一緒やな。
+    Generated: 分かった。一旦、様子見やな。
+
+[50] NormLev: 0.2857 | Jaccard: 0.0000
+    Query:     終わり。
+    Expected:  えぐ。
+    Generated: へえ、そうか。

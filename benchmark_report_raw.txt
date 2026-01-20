@@ -1,0 +1,15 @@
+=== Benchmark Analysis Report ===
+Total Requests: 10013
+Success Rate: 99.08%
+Error Count: 92
+Empty/Invalid Responses: 0
+---------------------------------
+Latency Metrics (ms):
+  Average: 26227.01
+  Min:     13517
+  Max:     60017
+  P50 (Median): 24322
+  P95:     38802
+  P99:     57061
+---------------------------------
+Throughput (est): 0.04 req/sec (sequential)
