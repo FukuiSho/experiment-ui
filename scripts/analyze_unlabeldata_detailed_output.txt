@@ -1,0 +1,48 @@
+### 📁 GPT
+  - Total Files: 129
+  - .png: 71 files (e.g., f0000.png, f0001.png, f0002.png)
+  - .webp: 18 files (e.g., f0000.webp, f0001.webp, f0002.webp)
+  - .jpeg: 16 files (e.g., f0000.jpeg, f0001.jpeg, f0002.jpeg)
+  - .jpg: 15 files (e.g., f0005.jpg, f0008.jpg, f0013.jpg)
+  - .json: 7 files (e.g., conversations.json, group_chats.json, message_feedback.json)
+  - .html: 1 files (e.g., chat.html)
+  - .py: 1 files (e.g., limitlessexport.py)
+
+### 📁 limitless
+  - Total Files: 1
+  - .json: 1 files (e.g., lifelogs.json)
+
+### 📁 LINE
+  - Total Files: 8
+  - .txt: 8 files (e.g., [LINE] Soraとのトーク.txt, [LINE] あゆと２年生とのトーク.txt, [LINE] あらいゆうととのトーク.txt)
+
+### 📁 pcmemo
+  - Total Files: 118
+  - .txt: 118 files (e.g., 1. 志望動機・目標.txt, 5つのスタイルは以下の通りです。.txt, 620決まったこと、変更点.txt)
+
+### 📁 smartphonememo
+  - Total Files: 8
+  - .txt: 8 files (e.g., 2024学際.txt, AIシステム社会実装.txt, CampusLifeSaporter.txt)
+
+### 📁 smartphonephoto
+  - Total Files: 183
+  - .jpg: 85 files (e.g., IMG_0403.JPG, IMG_0408.JPG, IMG_0953.JPG)
+  - .heic: 69 files (e.g., IMG_0779.HEIC, IMG_1706.HEIC, IMG_1819.HEIC)
+  - .png: 28 files (e.g., IMG_1657.PNG, IMG_1658.PNG, IMG_1659.PNG)
+  - .mov: 1 files (e.g., IMG_1671.MOV)
+
+### 📁 twitter
+  - Total Files: 6319
+  - .svg: 3079 files (e.g., defaultAvatar.svg, groupAvatar.svg, 1f004.svg)
+  - .png: 3078 files (e.g., home-image.png, 1f004.png, 1f0cf.png)
+  - .js: 122 files (e.g., i18n.e27e67d39fcc91627cab.js, main.0506aebee0a5b8f83a32.js, modules.9072ed6e90fe38c485fe.js)
+  - .jpg: 30 files (e.g., 1406991753232609285-g4jRNiYB.jpg, 1406996828759855108-0mZA43Kc.jpg, 1442465243204972552-spnqX7be.jpg)
+  - .gif: 3 files (e.g., spinner-rosetta-blue-14x14@2x.28c43.gif, spinner-rosetta-blue-26x26@2x.51320.gif, spinner-rosetta-blue-32x32@2x.652ac.gif)
+  - .html: 1 files (e.g., Your archive.html)
+  - .eot: 1 files (e.g., edge-icons-Regular.0e351.eot)
+  - .ttf: 1 files (e.g., edge-icons-Regular.86a61.ttf)
+  - .woff: 1 files (e.g., edge-icons-Regular.d0526.woff)
+  - .ico: 1 files (e.g., favicon.ico)
+  - .txt: 1 files (e.g., README.txt)
+  - .mp4: 1 files (e.g., 1851201420864991359-UKbWS6FlI18uCBk7.mp4)
+

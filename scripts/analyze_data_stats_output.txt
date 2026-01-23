@@ -1,0 +1,24 @@
+Analyzing C:\Users\ok220109\experiment-ui\src\lib\pesonaldata...
+
+--- FOLDER: DBmakedused ---
+  Files: 2012
+  Size: 26.2 MB
+  Lines (approx): 496,175
+  File Types: {".json": 1, ".jsonl": 6, ".txt": 2005}
+
+--- FOLDER: derived ---
+  Files: 352
+  Size: 289.8 MB
+  Lines (approx): 1,719
+  File Types: {".json": 171, ".jsonl": 1, ".jpg": 180}
+
+--- FOLDER: unlabeldata ---
+  Files: 6766
+  Size: 640.2 MB
+  Lines (approx): 860,131
+  File Types: {".html": 2, ".json": 8, ".jpeg": 16, ".png": 3177, ".jpg": 130, ".py": 1, ".webp": 18, ".txt": 135, ".heic": 69, ".mov": 1, ".eot": 1, ".ttf": 1, ".woff": 1, ".svg": 3079, ".ico": 1, ".gif": 3, ".js": 122, ".mp4": 1}
+
+--- TOTAL SUMMARY ---
+  Total Files: 9130
+  Total Size: 956.1 MB
+  Total Lines: 1,358,025

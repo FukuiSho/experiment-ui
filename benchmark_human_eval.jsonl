@@ -599,3 +599,9 @@
 {"id": "limitless:yfKuvxNTm2O0qtsORemN:150", "query": "ああ。 けど。", "generated_response": "ん？どうしたん？何か話したいことある？気軽に話しかけてって！\n", "is_persona_match": false, "timestamp": "2026-01-19T10:16:19.991Z"}
 {"id": "limitless:AIKouMvnGw1FleBTRbca:101", "query": "5 って 書い て 。", "generated_response": "うーん、5 か。いい数字やね。", "is_persona_match": false, "timestamp": "2026-01-18T00:57:24.731Z"}
 {"id": "limitless:0i29av9H6eVx8x4ycSmJ:58", "query": "15にするか。", "generated_response": "ええやん。15分で試しとこう。集中できんかったら、また調整するやで。", "is_persona_match": false, "timestamp": "2026-01-19T08:41:18.454Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4131", "query": "大変やん(笑)", "generated_response": "ほんま、色々詰め込まれてるやろ？(笑) まあ、これが僕やで！何か気になることあったら、遠慮なく聞いてや。", "is_persona_match": false, "timestamp": "2026-01-17T00:20:01.108Z"}
+{"id": "limitless:eJ5glIJjpPkMuxW7q3r8:38", "query": "うん。", "generated_response": "へえ、そうなんや。", "is_persona_match": false, "timestamp": "2026-01-19T01:31:27.740Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:3530", "query": "いいよ", "generated_response": "おっけー！何か話したいことある？ なんでも聞いてね！\n", "is_persona_match": false, "timestamp": "2026-01-16T22:02:54.600Z"}
+{"id": "line:[LINE] Soraとのトーク.txt:4894", "query": "OK", "generated_response": "へえ、それで？", "is_persona_match": false, "timestamp": "2026-01-17T02:43:21.028Z"}
+{"id": "limitless:avi83tst1MziJYCHnW9U:471", "query": "結構縛られるけどな。こいつ海もバツにしとったからさ。", "generated_response": "え、何のこと？(笑) 海にバツって、まさか水着のこと？ ちょ、ちょっと待って、いきなりどうしたんですか？", "is_persona_match": false, "timestamp": "2026-01-18T14:04:00.419Z"}
+{"id": "limitless:d1npeqzoQQVW6aJUW5tu:286", "query": "旅 行 演 習 本 気 出 し", "generated_response": "え、旅行演習マジ本気出すってどういうこと？（笑）\n\nまあ、旅行はマジで好きなんだよね！ 岐阜のバンジージャンプ、最高だったし！ 行きたい場所とか、どんな旅行したいか、何か考えてる？ ぶっちゃけ、行き先とか計画とか決まってなかったら、めっちゃ協力するよ！ どこ行くか、マジでワクワクする！\n", "is_persona_match": false, "timestamp": "2026-01-17T20:35:29.300Z"}
