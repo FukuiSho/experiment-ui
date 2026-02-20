@@ -1,0 +1,11 @@
+Experiment,Type,Text Similarity,Semantic Similarity,Details
+No-LINE,Data Ablation,0.11038309823908071,0.6355738739501349,Excluded Data: *LINE*
+No-Limitless,Data Ablation,0.11461867231618827,0.6382561211489266,Excluded Data: limitless*
+No-PhotoText,Data Ablation,0.10594415652528516,0.6414798846542921,"Excluded Data: ['*photo*', '*ocr*']"
+No-GPT,Data Ablation,0.10977104523592907,0.6334310897618451,Excluded Data: gpt_
+No-Twitter,Data Ablation,0.1138431545516718,0.6401547832222956,Excluded Data: twitter
+No-BasicRules,Prompt Ablation,0.10496310929550075,0.6743726287755234,Excluded Prompt: ['basic_rules']
+No-CorePhilosophy,Prompt Ablation,0.11471143881426038,0.6363050186586104,Excluded Prompt: ['core_philosophy']
+No-ThinkingTraits,Prompt Ablation,0.11263175338974804,0.634735987659547,Excluded Prompt: ['thinking_traits']
+No-ComplexRelations,Prompt Ablation,0.10546883122625884,0.6428623367492734,Excluded Prompt: ['complex_relations']
+No-LanguageStyle,Prompt Ablation,0.08796027621109824,0.6377634649030329,Excluded Prompt: ['language_style']

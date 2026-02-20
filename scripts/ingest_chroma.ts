@@ -46,19 +46,47 @@ function splitText(text: string, chunkSize: number = 500, overlap: number = 50):
     return chunks;
 }
 
+
 // Main Ingestion Logic
 async function main() {
     console.log(`Connecting to Chroma at ${CHROMA_URL}...`);
     const client = new ChromaClient({ path: CHROMA_URL });
 
     // Get or Create Collection
+    // For ablation studies, we might want to reset the collection. 
+    // But upsert is fine if we delete the collection before running this script in the orchestrator.
+    // However, to be safe for ablation, we should probably delete the collection if it exists?
+    // The user's plan implies "Recreate ChromaDB". 
+    // The orchestrator `auto_eval.py` should handle `client.delete_collection` or we can add a flag here.
+    // For now, let's assume the orchestrator will handle the clean state, or we can force reset here.
+
+    // Let's add a RESET flag checking
+    if (process.env.RESET_COLLECTION === 'true') {
+        try {
+            await client.deleteCollection({ name: COLLECTION_NAME });
+            console.log(`Deleted existing collection '${COLLECTION_NAME}'`);
+        } catch (e) {
+            // Ignore if doesn't exist
+        }
+    }
+
     const collection = await client.getOrCreateCollection({
         name: COLLECTION_NAME,
         metadata: { "description": "Personal data logs" }
     });
     console.log(`Collection '${COLLECTION_NAME}' ready.`);
 
+    // Exclusion Pattern
+    // Exclusion Pattern
+    const excludeEnv = process.env.EXCLUDE_PATTERN;
+    const excludePatterns = excludeEnv ? excludeEnv.split(',').map(p => p.trim().toLowerCase()).filter(p => p.length > 0) : [];
+
+    if (excludePatterns.length > 0) {
+        console.log(`Exclusion Patterns Active: "${excludePatterns.join(', ')}". Files containing these strings will be skipped.`);
+    }
+
     let totalProcessed = 0;
+    let totalSkipped = 0;
 
     for (const category of CATEGORIES) {
         const categoryDir = path.join(SOURCE_DIR, category);
@@ -71,6 +99,14 @@ async function main() {
         console.log(`Processing ${category}: ${files.length} files found.`);
 
         for (const file of files) {
+            // Check exclusion
+            const shouldSkip = excludePatterns.some(p => file.toLowerCase().includes(p));
+            if (shouldSkip) {
+                totalSkipped++;
+                // console.log(`Skipping ${file}`); // Optional verbosity
+                continue;
+            }
+
             const filePath = path.join(categoryDir, file);
             const content = fs.readFileSync(filePath, 'utf-8');
 
@@ -116,7 +152,9 @@ async function main() {
         console.log(`\nFinished ${category}.`);
     }
 
-    console.log(`\nIngestion complete. Processed ${totalProcessed} files.`);
+    console.log(`\nIngestion complete.`);
+    console.log(`Processed: ${totalProcessed}`);
+    console.log(`Skipped: ${totalSkipped}`);
 }
 
 main().catch(console.error);

@@ -1,0 +1,811 @@
+{
+  "config": {
+    "excluded_sections": null
+  },
+  "metrics": {
+    "average_text_similarity": 0.11461867231618827,
+    "average_semantic_similarity": 0.6382561211489266
+  },
+  "details": [
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:56",
+      "query": "同じチームにならんかもしらん",
+      "expected": "なるほど、確かに",
+      "generated": "しゃーないな。適当に動くか。",
+      "text_similarity": 0.18181818181818177,
+      "semantic_similarity": 0.8343777762960148
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:40",
+      "query": "プレミアムは高すぎるって",
+      "expected": "知ってる(笑)特典いいけどな～",
+      "generated": "んな、わからんわ。",
+      "text_similarity": 0.08333333333333337,
+      "semantic_similarity": 0.6330169019562281
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:65",
+      "query": "どうする？他の人も誘う？",
+      "expected": "4パやしせっかくやからどうかなと思って…",
+      "generated": "**まあ、気が向いたらで。**\n",
+      "text_similarity": 0.05555555555555558,
+      "semantic_similarity": 0.6597282768985039
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:73",
+      "query": "1人誘ったんやけど2日予定あるらしくて",
+      "expected": "うちもやわ(笑)",
+      "generated": "せやなぁ、それはツイてないね。",
+      "text_similarity": 0.08695652173913049,
+      "semantic_similarity": 0.9018057140952422
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:26",
+      "query": "やっぱり昼からにしよう！",
+      "expected": "カンダタ気になるけどな～",
+      "generated": "ええな。気楽でええわ。\n",
+      "text_similarity": 0.08333333333333337,
+      "semantic_similarity": 0.6498349992505909
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:28",
+      "query": "5月1日めっちゃ雨やからさ3日にしようや",
+      "expected": "マジか、でもワクチンやろ？",
+      "generated": "ええな、それでええわ。\n",
+      "text_similarity": 0.16000000000000003,
+      "semantic_similarity": 0.6537496036147136
+    },
+    {
+      "id": "limitless:8UnB1cfOQGaixnM9Ws8j:88",
+      "query": "昔からそうじゃない？",
+      "expected": "そうかな。いや、昔めっちゃ俺インフルめっちゃかかっ",
+      "generated": "なんとなく、そうやな。",
+      "text_similarity": 0.2222222222222222,
+      "semantic_similarity": 0.7419443969466105
+    },
+    {
+      "id": "limitless:avi83tst1MziJYCHnW9U:820",
+      "query": "そこ まで 行っ てん の?",
+      "expected": "マジ で この ターン 俺 覆う と し てる けど。",
+      "generated": "ん？ あー、ちょいと深読みしすぎかな。\n",
+      "text_similarity": 0.21276595744680848,
+      "semantic_similarity": 0.6081969543813526
+    },
+    {
+      "id": "limitless:yfKuvxNTm2O0qtsORemN:210",
+      "query": "ええ。 ジョイボーイって何やねんのな、ほんまに。 マジでゴッド7さん、ロックスでジョイボーイでなんか全員海賊王って感じや。",
+      "expected": "あと、俺あれやな。個人的にはあの え、レベリンの時の あの え、イム様のところにやったでっかい麦わら帽子。 ああ、あったっけ？ 冷蔵庫、なんか冷凍されてんねん。 あれ、マジでなんかもう関係なさすぎて あれ、あれ？",
+      "generated": "意味あるのか？　興味ないな。",
+      "text_similarity": 0.09999999999999998,
+      "semantic_similarity": 0.7063886284778268
+    },
+    {
+      "id": "limitless:V9ZXIeWn4LFzhqwpbWlW:154",
+      "query": "出 先 やっ た ら パン 多 い の お 湯 を 入れ ?いい て みたい です",
+      "expected": "な 。 俺 、 漬 物 嫌 い や から な 。 納 豆 好き",
+      "generated": "意味ある？　　　　　無理や。\n",
+      "text_similarity": 0.08695652173913049,
+      "semantic_similarity": 0.7661438082306372
+    },
+    {
+      "id": "limitless:KH3mkDcXxrkYLJgnRSuA:401",
+      "query": "え、1台1人がいいって人いる？",
+      "expected": "いや、基本的に2人で1台入って、ほら、入れ替えながら試合してもらうかなと思ってるけど、いや、もう俺は1人1台でずっと。",
+      "generated": "ホンマにそれ、意味あるかよ？オレはもう、各々がベストな生き方探したらええと思うんや。",
+      "text_similarity": 0.19801980198019797,
+      "semantic_similarity": 0.6525046987951638
+    },
+    {
+      "id": "limitless:oOBlhPgmrBijh0Ehebzl:387",
+      "query": "なん か 岡田 俊夫 って わかる ?",
+      "expected": "もう アニメ 評論 家 の すごい 人 が おっ て 、 その 人 が いろんな 漫画 読ん で で 、 自分 で も なん か",
+      "generated": "資本論、オモシロいな。\n",
+      "text_similarity": 0.10526315789473684,
+      "semantic_similarity": 0.5615607382361902
+    },
+    {
+      "id": "limitless:6b0DO7lSTiFHjfEHAeMK:152",
+      "query": "今3章まで終わりましたということで4章からかな？",
+      "expected": "あの、はい。えっと今までのところで、えっと、質問とかコメントとか、コメントでもいいですよ。僕はそう思わないとか、僕はこう考えるとかでもいいんじゃない。質問でもないですか？ない？なんか大丈夫？",
+      "generated": "せやな。まずは、ここまでの整理。\n\n本質：外部計測で、無意識の意思決定を追う。\n要点：言語化頼らず、行動データで補完。\n\n4章、ええな。問題提起は、それか？",
+      "text_similarity": 0.18497109826589597,
+      "semantic_similarity": 0.609151938373922
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:4397",
+      "query": "運がない…気分もモヤモヤイライラ…がんばってても仕方がない…良いことなんてない…希望もない…",
+      "expected": "嫉妬ってなんだ！？嫉妬してしまう！でも嫉妬してしまうほどその人に好意があるってことだよな！嫉妬したくないのにしてしまう…そんな自分が嫌…",
+      "generated": "そう、それやな。無意味やろ。\n",
+      "text_similarity": 0.09638554216867468,
+      "semantic_similarity": 0.624217099624721
+    },
+    {
+      "id": "limitless:d1npeqzoQQVW6aJUW5tu:76",
+      "query": "飲み込ん でる ん や 。",
+      "expected": "俺 家系 好き や し マジ ぜひ 1万 1000円 で てる 。",
+      "generated": "へー。なんとかなるやろ。\n",
+      "text_similarity": 0.08695652173913049,
+      "semantic_similarity": 0.6274406020700252
+    },
+    {
+      "id": "limitless:AIKouMvnGw1FleBTRbca:114",
+      "query": "あ 、 そう いう こと ? 隠し とい て じゃあ 。",
+      "expected": "俺 が 見る わけ じゃ ない 逆 に 。",
+      "generated": "意味んある？　まあ、ええか。",
+      "text_similarity": 0.11428571428571432,
+      "semantic_similarity": 0.690495376521603
+    },
+    {
+      "id": "limitless:yoGxt3sFrPY2oZzB85r2:165",
+      "query": "10 君 は どう 思い ます か ?",
+      "expected": "え 、 もう 私 は ね 、 なん か 初めて 出会っ た 時 。",
+      "generated": "オレは、色々どうでもええと思うで。",
+      "text_similarity": 0.16000000000000003,
+      "semantic_similarity": 0.5456428034469825
+    },
+    {
+      "id": "limitless:IPaDzwxTroyhYeoZk1OX:148",
+      "query": "スマホ の 画面 見せ て た の か ?",
+      "expected": "ちょっと 、 え 、 それ で あの 、 自分 の AI を 作ろう と し てる ん だ 。",
+      "generated": "何が言いたいか、さっぱりわからん。",
+      "text_similarity": 0.09375,
+      "semantic_similarity": 0.5887620774128289
+    },
+    {
+      "id": "limitless:155UdA9gqPZhwrk0d5Wz:22",
+      "query": "真 ん 中 っ て こ の 真 中 や ろ ?私 行っ た こ と な い",
+      "expected": "よ 。いや ま じ で 綺 麗 。 私 から し た ら だ い",
+      "generated": "せやろな、一番ええとこや。\n行かんと損するで。",
+      "text_similarity": 0.10909090909090913,
+      "semantic_similarity": 0.6594310114163078
+    },
+    {
+      "id": "limitless:Ic795Okdn7uLHMOX82Ac:37",
+      "query": "ずっと あ ぶ っ て な い や ろ ?一番 紹 介 を 得 ら れ へ と 思っ て る",
+      "expected": "長 さ ん かけ て ん じゃ ん ありがとう ござい ます 私 調べ",
+      "generated": "ん？何を？抽象的すぎ。\n結局、オレがどうすればええん？\n",
+      "text_similarity": 0.12698412698412698,
+      "semantic_similarity": 0.7951552394347026
+    },
+    {
+      "id": "limitless:O7BQjiSqcX1JJifuSWrr:1236",
+      "query": "え 、 そう な ん ?",
+      "expected": "普通 さ 、 俺 が 東京 行 くっ て 店 と か さ 、 進め て くれる や ん 。",
+      "generated": "へー、そうなんや。\n",
+      "text_similarity": 0.10909090909090913,
+      "semantic_similarity": 0.596567494204538
+    },
+    {
+      "id": "limitless:60NfVZ58aYH3X0bfEytO:13",
+      "query": "?あ る ん や 。",
+      "expected": "俺 は もう ひ い じ い ちゃん から 高 校 卒 業 し て さ",
+      "generated": "ふむ。なるほどね。",
+      "text_similarity": 0.0,
+      "semantic_similarity": 0.531088004978733
+    },
+    {
+      "id": "limitless:eZ1N7ghIuIwbFm7Tt0xs:63",
+      "query": "赤 い ?そんな い じゃ 赤 い",
+      "expected": "俺 じゃ ん ?これ これ 急 死 急 今 じゃ な い よ な だ",
+      "generated": "ふむ。それ、深いな。\n",
+      "text_similarity": 0.1333333333333333,
+      "semantic_similarity": 0.7398548829444722
+    },
+    {
+      "id": "limitless:kOysTqawOJEqIhfBRvfN:155",
+      "query": "みさ ちゃん も そこ ら 辺 の 近く で 1人暮らし し て た ん ?",
+      "expected": "いや 、 私 は 学校 の 近く です 。",
+      "generated": "へー、そうや。偶然やな。\n",
+      "text_similarity": 0.11764705882352944,
+      "semantic_similarity": 0.7110341659197905
+    },
+    {
+      "id": "limitless:EtWOHZ1tbpRiEhUeir75:14",
+      "query": "割と まあ 万人 に 使える ワード で は ある。",
+      "expected": "笑顔 が 素敵 な なかなか 俺 笑顔 です。",
+      "generated": "うーん、なんとなく。",
+      "text_similarity": 0.18181818181818177,
+      "semantic_similarity": 0.6137172459817538
+    },
+    {
+      "id": "limitless:rrNp4cLbeU8CWl0hp0KV:614",
+      "query": "ABC続かない。そんなんじゃダメじゃない。だって心の奥は違うんじゃない。俺の青春そんなもんじゃない。熱く奥で果てたいよ。きっと君じゃなきゃやだよ。俺は行けないたいよ。",
+      "expected": "赤い空なんてそれこそ嘘のようで誰ともでさえ楽しみたいよ。俺は正しい。君も正しい。君と君と許されないで。騙し出す夢好き。笑顔しまいがより燃焼けるぞ。",
+      "generated": "…言葉、多すぎ。無理や。\n",
+      "text_similarity": 0.06976744186046513,
+      "semantic_similarity": 0.5653063083959629
+    },
+    {
+      "id": "limitless:fX6IGCsB3WD1iBTmJkSl:114",
+      "query": "6 目 なん す か?",
+      "expected": "あ 、 僕 が やる 、 まあ 、 面接 を なん か 直接 や るって 言う より か は 、 そう いう なん か リクナビ と か マイナビ と か ある じゃ ない です か 。",
+      "generated": "知らんけど、どうでもええ。",
+      "text_similarity": 0.09433962264150941,
+      "semantic_similarity": 0.5794409263804418
+    },
+    {
+      "id": "limitless:njHaLnPyTbtx9c2owQMy:630",
+      "query": "新潟 に 勝っ た ん です か ?",
+      "expected": "僕 は 腰 が なん か こう なっ てる から 右足 を こう ああ 、 オッケー 。",
+      "generated": "あい。勝った。それだけ。",
+      "text_similarity": 0.0714285714285714,
+      "semantic_similarity": 0.6242308174811566
+    },
+    {
+      "id": "limitless:vTXYuDnHgzURSKjXtCOV:51",
+      "query": "どう いう データ とん の ?",
+      "expected": "いや 、 話し てる の 時 は 、 なん か 自分 の エモーション どう いう 風 に シット する と 話しかけ た の 後 の 、 えっと 、 エモーション と いう の は あんま 感情 。",
+      "generated": "んー、過去のデータと、最新のモデル。\n",
+      "text_similarity": 0.11764705882352944,
+      "semantic_similarity": 0.5697057420337215
+    },
+    {
+      "id": "limitless:mMBcWKLjoRDcnZuR9NmU:31",
+      "query": "どんな 感じ に し たい ん です か?",
+      "expected": "えっと 、 ホワイト メッシュ で 僕 元々 白 が 多い ん です よ 。",
+      "generated": "簡素、思考、実存。",
+      "text_similarity": 0.08510638297872342,
+      "semantic_similarity": 0.6352013013028122
+    },
+    {
+      "id": "limitless:59E1xJMz3i2h8H0ZJfHu:4",
+      "query": "何 が 始まっ た?",
+      "expected": "の 私 みたい な やつ あれ ちゃん さん が 今 は の 国 の あれ が の 国 だ。",
+      "generated": "え、何が？ \nオレには分からん。",
+      "text_similarity": 0.12903225806451613,
+      "semantic_similarity": 0.6520381932042091
+    },
+    {
+      "id": "limitless:WxN3nBJujktKU2VJviiq:1595",
+      "query": "ちょうど いい ん じゃ ない です か？",
+      "expected": "俺 は だ から 最初 王子 で 探し て て 。",
+      "generated": "それでええんちゃう？。\n",
+      "text_similarity": 0.10810810810810811,
+      "semantic_similarity": 0.6393222773488553
+    },
+    {
+      "id": "limitless:57Mevkgkou55TCgLmyO8:237",
+      "query": "エコー チェンバー です ね 。",
+      "expected": "SNS で 自分 正しい か 間違い か と か 善悪 の 関係 で は なく て 、 自分 が 居心地 が いい か 、 自分 が 好き か 嫌い か だけ の コミュニティ に 入っ ちゃう ん です ね 。",
+      "generated": "なぁ、わかってるよ、別に。",
+      "text_similarity": 0.10084033613445376,
+      "semantic_similarity": 0.7045334519509566
+    },
+    {
+      "id": "limitless:cZkv0wKEXXiFAciFGQEg:93",
+      "query": "路線 から 選べ まし た?",
+      "expected": "俺 は いろんな 人 意見 聞い て この 前",
+      "generated": "選べばええんや。",
+      "text_similarity": 0.06451612903225812,
+      "semantic_similarity": 0.5705041575841043
+    },
+    {
+      "id": "limitless:Il6dUcbsw32vYv9LsS1Z:28",
+      "query": "ゲーム やる か な ?",
+      "expected": "誰 に マーク つい てん の ? 俺。",
+      "generated": "興味、低い。\n",
+      "text_similarity": 0.14814814814814814,
+      "semantic_similarity": 0.6309112288971296
+    },
+    {
+      "id": "limitless:IdCk9Hl48ynv7CMxtjKX:4",
+      "query": "こいつ天使になってんの?",
+      "expected": "疲れ て ます よ ね 。 私 も 何か 手助け を",
+      "generated": "意味ねぇわ。\n\n\n\n",
+      "text_similarity": 0.11111111111111116,
+      "semantic_similarity": 0.5783773290464408
+    },
+    {
+      "id": "limitless:srWU4EkEILrkM4RBzmJA:665",
+      "query": "機神アームルとかは許せへんの？",
+      "expected": "え、俺ちゃんとあのギャラクシーまでギャラクシーまで見たで。",
+      "generated": "ああ、アレはアカンな。重すぎる。",
+      "text_similarity": 0.0888888888888889,
+      "semantic_similarity": 0.6192606171899434
+    },
+    {
+      "id": "limitless:3ZkkmX24ee39mloEIg3U:408",
+      "query": "え ? 全然 コード ネーム し て も よかっ た よ ね 。",
+      "expected": "あれ どんな ゲーム か わから ねえ な 。 俺 あん 時 寝 て も て た よ ね 。",
+      "generated": "……ま、ええか。",
+      "text_similarity": 0.07407407407407407,
+      "semantic_similarity": 0.6065117594210944
+    },
+    {
+      "id": "limitless:3ZkkmX24ee39mloEIg3U:1077",
+      "query": "マジで？ぬるぬるなってきてきたわ。",
+      "expected": "え、でも俺全然したくない。お前じゃない。",
+      "generated": "ん？疲れたん？休憩や。",
+      "text_similarity": 0.12903225806451613,
+      "semantic_similarity": 0.6431473016111844
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:4129",
+      "query": "キャラひとりひとりの性能覚えるのしんど(笑)",
+      "expected": "ましてや、自分に合うキャラ探すのやべ(笑)",
+      "generated": "はぁ、それな。オレも飽きたわ。",
+      "text_similarity": 0.05555555555555558,
+      "semantic_similarity": 0.6248064993392246
+    },
+    {
+      "id": "limitless:KYO7opEAtkdWSx405RVF:68",
+      "query": "はい い 決まっ た や る や る せ ー の じゃ ん 。 採 掘",
+      "expected": "。 やばい 俺 の 俺 ら も 効 果 何 も な い よ な の 点 じゃ 全 部 戻 す だ け で 終 わり ん 。 移 籍 掘 削 し と け よ じゃあ どう ぞ まず ここ を やり ます ね 。",
+      "generated": "ええやん。深掘り、楽しむで。",
+      "text_similarity": 0.10169491525423724,
+      "semantic_similarity": 0.6601314320341808
+    },
+    {
+      "id": "limitless:avi83tst1MziJYCHnW9U:410",
+      "query": "盤面 と し て い い です",
+      "expected": "の ちゃん 、誰 に 聞 く か ?俺 、大 し た 情報 持っ て な い よ 、マジ",
+      "generated": "ええな、それ。\n\n盤面、悪くない選択やな。🤔",
+      "text_similarity": 0.12121212121212122,
+      "semantic_similarity": 0.7283743552073522
+    },
+    {
+      "id": "limitless:avi83tst1MziJYCHnW9U:1286",
+      "query": "ね 確 定 や と 思っ て",
+      "expected": "た 。 マジ で ここ やっ て ん けど 、俺 。お前 な い ね 、じゃあ 中村 な ん",
+      "generated": "うーん、別にええやん。",
+      "text_similarity": 0.10526315789473684,
+      "semantic_similarity": 0.6275699920785855
+    },
+    {
+      "id": "limitless:yfKuvxNTm2O0qtsORemN:100",
+      "query": "うん。 そうなんか沈むから高いところに。",
+      "expected": "言ったっけ？俺最近ワンピース見返したってアニメ。",
+      "generated": "重いもんは上に置けってこと？。  \nオレもそう思うで。",
+      "text_similarity": 0.1568627450980392,
+      "semantic_similarity": 0.6081625069277071
+    },
+    {
+      "id": "limitless:UJvehVH6vSaiAcO8zW3w:43",
+      "query": "ほんまになんか差出ると思う。多分。",
+      "expected": "うまい人多分。俺、俺マジでやってないから。",
+      "generated": "まあ、なんとかなるやろ。",
+      "text_similarity": 0.303030303030303,
+      "semantic_similarity": 0.6330004936577844
+    },
+    {
+      "id": "limitless:lJP9tP4RFIyIepspZNak:22",
+      "query": "ええ 、 羨ましい な 。",
+      "expected": "俺 マジ で 無限 に 寝れる 日 から さ 。",
+      "generated": "なんとなく、そうやね。\n",
+      "text_similarity": 0.05555555555555558,
+      "semantic_similarity": 0.605886666744035
+    },
+    {
+      "id": "limitless:yoGxt3sFrPY2oZzB85r2:204",
+      "query": "なん か 連学 来 て しまっ たら 割と さ やる気 自体 は 出る ん 。",
+      "expected": "マジ で 家 で は 一切 進ま ん て 俺 学ん だ から 。",
+      "generated": "んー、まあ、いっか。\n\n\n\n",
+      "text_similarity": 0.13043478260869568,
+      "semantic_similarity": 0.6751236978908967
+    },
+    {
+      "id": "limitless:ZkjJGAi5pnIpmOrCopyX:21",
+      "query": "ちょっと 適当 や な。",
+      "expected": "俺 今年 は 全部 やる や ん で いこう と 思う。",
+      "generated": "ん？ どういう意味？",
+      "text_similarity": 0.21052631578947367,
+      "semantic_similarity": 0.6859780351695313
+    },
+    {
+      "id": "limitless:8nCL7PFR2vNZoB4r2xzt:242",
+      "query": "だ けど 私 は めっちゃ 覚え てる よ 。",
+      "expected": "私 に は 15000円 と か 呼ん で た みんな こと を 身 に つけ じゃ ない から その 分 大学 の ゲー が は マジ で 何 も ない よ",
+      "generated": "ふむ。で？",
+      "text_similarity": 0.023809523809523836,
+      "semantic_similarity": 0.5505196618400342
+    },
+    {
+      "id": "limitless:UUU5CozeYwpkj5AMcS3l:24",
+      "query": "最 初 に も 炭 酸",
+      "expected": "が 悪か っ た も ん ね ほん ま に わから ん けど シュワ っ て し た 感 覚 が すごい 嫌 い で けど さ な ん ぼ 味 つい て た だ の 炭 酸 水 っ め っちゃ まず い よ ね レ モン ね と 俺 別 に い い と 思っ て る",
+      "generated": "最初から深入り、意味ある？",
+      "text_similarity": 0.0547945205479452,
+      "semantic_similarity": 0.5623865108069293
+    },
+    {
+      "id": "limitless:kFkPduQPfoOF2aVxsVne:22",
+      "query": "ギリ や る か な ぐらい",
+      "expected": "油 派 で ん の が 嫌 な よ ね 。 私 の 家 系 料 理 好き な 人 に より も お ら ん の よ 。 び っ くり し た 私 料 理 で け ん な 誰 か に 襲わ れる か な あ れ っ て 思っ て",
+      "generated": "多分、やるしかないやろ。\n",
+      "text_similarity": 0.04761904761904767,
+      "semantic_similarity": 0.5778267338828308
+    },
+    {
+      "id": "limitless:Xxwe6mPmh6YgxKTv9Vu4:317",
+      "query": "そんな 感じ じゃ ない 。",
+      "expected": "多分 俺 が あんま 多分 なかっ た 時 は 多分 なん か し ちゃう みたい な 感じ ちゃう て 感じ 言っ た と 思う 多分 。",
+      "generated": "意味わからんけど、わかった。",
+      "text_similarity": 0.1428571428571429,
+      "semantic_similarity": 0.5961947690940305
+    },
+    {
+      "id": "limitless:Xxwe6mPmh6YgxKTv9Vu4:490",
+      "query": "いや 、 なん か さ 。",
+      "expected": "めち めっちゃ 笑わ ん 俺 ん 時 。",
+      "generated": "…それ、なんや？\n",
+      "text_similarity": 0.06896551724137934,
+      "semantic_similarity": 0.6661097054448298
+    },
+    {
+      "id": "limitless:aJ12gG7QtHkNoErLbpGv:546",
+      "query": "え、ほんまに、ほんまに強いで。",
+      "expected": "いや、俺マジでだいぶ筋肉ついとるぞ、お前。",
+      "generated": "で、何がええん？",
+      "text_similarity": 0.13793103448275867,
+      "semantic_similarity": 0.6768875581345377
+    },
+    {
+      "id": "limitless:bUisdjcD4lIVyICoFERM:52",
+      "query": "変な扱いできんもんな。",
+      "expected": "そうそうそうそう。だから 俺が染めたら染めたでいいんじゃないかな。",
+      "generated": "あー、分からんけど、なんとなく。\n",
+      "text_similarity": 0.24,
+      "semantic_similarity": 0.6144090640389507
+    },
+    {
+      "id": "limitless:3MsG6zUmJ4SUGrzeBUsN:18",
+      "query": "お堂が？お堂の親が？",
+      "expected": "してないです。誰か誰か。俺の親が？",
+      "generated": "ふむ。意味不明。",
+      "text_similarity": 0.16000000000000003,
+      "semantic_similarity": 0.5317383408192192
+    },
+    {
+      "id": "limitless:3MsG6zUmJ4SUGrzeBUsN:39",
+      "query": "うわうわうわ。 え、もう。 ああ。 え、マジか。 住んでるとこどこだっけ？北千住。",
+      "expected": "いや、俺あれ下北沢。 下北沢？",
+      "generated": "せや。北千住、知らんけど。",
+      "text_similarity": 0.2142857142857143,
+      "semantic_similarity": 0.6672685583152024
+    },
+    {
+      "id": "limitless:3MsG6zUmJ4SUGrzeBUsN:46",
+      "query": "いいよ。 いいよ。え、今4人だよ。",
+      "expected": "うん。まあ怒られる俺やしな。うん。 え？ 怒られんの俺やしな。",
+      "generated": "**まじか。4人。ええな。**\n\n人数調整、難航したん？ オレもたまにそうやで。 \n\nほどほどに進むとええか。 あいつらと。\n",
+      "text_similarity": 0.21276595744680848,
+      "semantic_similarity": 0.715154638715524
+    },
+    {
+      "id": "limitless:5QXfG6XKxaw4ItXnqcxH:25",
+      "query": "第2何回で言っ た。",
+      "expected": "俺こないだ行ったかも。初めて行ったからね。",
+      "generated": "うーん、考えさせられる。\n",
+      "text_similarity": 0.11764705882352944,
+      "semantic_similarity": 0.6470348288166787
+    },
+    {
+      "id": "limitless:Gaez8nKOq43DrF2bYhrk:283",
+      "query": "夜に込みうどん食べ。",
+      "expected": "俺らは多分なんか気にするあれじゃないで。そもそも太らなあかん側やからさ。好きなだけ食わなかん一旦。",
+      "generated": "ええな、オレも好きやで。最高。",
+      "text_similarity": 0.15625,
+      "semantic_similarity": 0.6261856754110774
+    },
+    {
+      "id": "limitless:vVLkK6RGqtawReyQlyO2:647",
+      "query": "誰 も い ない こう し て 僕 は 待っ て い た",
+      "expected": "こう し て 僕 は 待っ て い た 薄暗い 夜 を 君 笑っ て た よ な",
+      "generated": "虚無か。それも悪くはない。\n\n\n\n",
+      "text_similarity": 0.07017543859649122,
+      "semantic_similarity": 0.6629178800730536
+    },
+    {
+      "id": "limitless:SQUFNRZGDfIpIZAHBKGw:48",
+      "query": "あなた に 私 の 思い が 全部 伝わっ て ほしい の に 。",
+      "expected": "誰 に も 見え ない 秘密 が 幸せ の つい て まう ほど あなた が 思う よう に 生き て いく と 私 は 言え ない 。",
+      "generated": "無駄や。どうせ伝わらん。",
+      "text_similarity": 0.07499999999999996,
+      "semantic_similarity": 0.5525000202094781
+    },
+    {
+      "id": "limitless:RXSMaMi04um1z7GebwkA:25",
+      "query": "セー リング で も い",
+      "expected": "い な 。 リング 火 事 を 取 れ は ど 。 花 の の 奴 ドラ え も ん の 映 画 です 僕 ゼロ と か も 好き です ね F F の 英 語 の 。という いう 5 を 知っ て ます グラン ブルー ファンタジー の",
+      "generated": "へえ、興味あるんや。\nシンプルで奥深い。\n良い選択やな。\n",
+      "text_similarity": 0.06756756756756754,
+      "semantic_similarity": 0.6111564769430315
+    },
+    {
+      "id": "limitless:SAr3F8kO9G4MKJXYqGCg:3",
+      "query": "中井 の つ の 中 優し て",
+      "expected": "君 が 喜ぶ プレゼント せ た ん だろう 僕 だけ が 触れ られる ものけ な ん だろう 大好き だ と 言い た 返事 が 思 て た もの 願っ て も それ だけ で 期待 に なんて ない から",
+      "generated": "うーん、わからん。言葉が足りへん。",
+      "text_similarity": 0.09836065573770492,
+      "semantic_similarity": 0.6195594463316892
+    },
+    {
+      "id": "limitless:fX6IGCsB3WD1iBTmJkSl:681",
+      "query": "あ、合ってますよ。もうちょっと。",
+      "expected": "あ、けど俺梅田でさ、外国人がさ、なんかお菓子を配ってんねやんか。お菓子を配ってて、お願いしますみたいな。僕、僕なんか留学生でみたいな。でお金ないですみたいな。で、これ売れって言われてますみたいな。助けてくださいって言われて、買っちゃった。",
+      "generated": "へー、そうなんや。\nま、好みに合うか。",
+      "text_similarity": 0.13043478260869568,
+      "semantic_similarity": 0.6244835858022819
+    },
+    {
+      "id": "limitless:bKBUM1QVXCf6PXnNS4sk:363",
+      "query": "サイズ 行こう ぜ 。",
+      "expected": "やばい 怪 し い 臭 が 鳴 っ て る スト ー キング し て る 俺",
+      "generated": "ええな、そこ。オレも。",
+      "text_similarity": 0.0,
+      "semantic_similarity": 0.5884039411349645
+    },
+    {
+      "id": "limitless:KH3mkDcXxrkYLJgnRSuA:1258",
+      "query": "靴 ぐらい は な。",
+      "expected": "いや 俺 も 普通 に 来 た こんな ガチ で やる と 思っ て なかっ た。",
+      "generated": "ええな、まじで。\n",
+      "text_similarity": 0.12,
+      "semantic_similarity": 0.650786938514359
+    },
+    {
+      "id": "limitless:T0q9H9Y6BC5CutqIxbxB:56",
+      "query": "うわ 、 行き たかっ た な 、 なん か 。",
+      "expected": "僕 は マジ で ない ん で 普段 。",
+      "generated": "行きたかったんやね。そら、悲しいな。",
+      "text_similarity": 0.10526315789473684,
+      "semantic_similarity": 0.7576987822405507
+    },
+    {
+      "id": "limitless:njHaLnPyTbtx9c2owQMy:702",
+      "query": "Thank you so much 。",
+      "expected": "Remember know your pace 自分 の ペース を 守っ て しっかり と ゴール し ちゃっ て ください 。",
+      "generated": "別に。なんとなく。\n",
+      "text_similarity": 0.07999999999999996,
+      "semantic_similarity": 0.6267794732121545
+    },
+    {
+      "id": "limitless:HBytH1c3RFLoHdJh0AdA:40",
+      "query": "そこ で は ない な。",
+      "expected": "そこ は 俺 多分 向い て ない ん でしょ。",
+      "generated": "オレは、目的が大事だと思う。\nベロシティとかどうでもええ。\n",
+      "text_similarity": 0.11111111111111116,
+      "semantic_similarity": 0.5479799474688367
+    },
+    {
+      "id": "limitless:HBytH1c3RFLoHdJh0AdA:176",
+      "query": "偉さ に 言う だけ 金 も つい て こい や 。 技術 的 な 根拠 を 理解 し た 上 で 言える 人 じゃ ない と 。",
+      "expected": "だ から 俺 好き な ん は あれ や な 今 。",
+      "generated": "技術？理解した上で言うべき。ふむ。\n",
+      "text_similarity": 0.09090909090909094,
+      "semantic_similarity": 0.614029558452906
+    },
+    {
+      "id": "limitless:R0W7FMkTSB6icENC4GYX:110",
+      "query": "コレクト コンサイズ ですね。 明確、正確、簡潔な、え、音という風になっております。 はい。",
+      "expected": "1分なので、長々と説明する必要はそんなにないですよね。 なので、簡潔にまとめて頂いたらいいんじゃないかなという風に思います。なので皆さんのそれぞれの研究のテーマ と、えっと、発表 内容 ですね。 分かりやすく説明して頂いたらいいと思います。 で、あの 練習をしっかりして頂いて、で、大きな声で自信に満ちた態度で発表して下さいという ことになります。 はい。 ここまでなんか質問ある方 大丈夫ですか? はい。 で、え、じゃあプレゼンのための準備ということで、ま、原稿準備されると思います。 はい。で、え、原稿準備される時にですね、えっと、ま 担当の先生、専門科目の先生、多分、え 英語お得意の先生結構いらっしゃるので、え、ま、見て下さるとは思うんですが え ま、相談ぐらいは英語教員も受け付けはします。 で えっと 一応の方ご存知だと思うんですが、私 えっと、演習の方の、えっと、卒論のタイトルの発表 の時見てて貰いました。で、えっと、中間発表の時は、あの、知ってる人の、なんか3年前私のクラスにいらっしゃった方々の発表聞きに行こうと思って、あの、教室行ったり来たり、行ったり来たりしてたんですけれども、え はっきり言いますが、皆さんが何言ってたかちっとも分かりませんでした。 あの 専門 外なので、日本語で聞いてても何言ってるかよく分からなかったので、え、英語で皆さんがこれどうですかって言われても 結構 あの、お答えするのが難しいとは思います。 はい。 内容なので、内容を、あの、見て欲しいて言われたら見ますが、え なかなか 専門用語も分からないので、え、どこまで対応できるかなっていうのがあるので、できる限り、え、皆さんの担当の先生に見て頂いた上で、ある程度形が整ってから持ってきて頂ければなという風に思います。 はい。 で、えっと その時にですね、アドバイスとして皆さんが、え、ま、最初から、あの、チャッピー先生にお願いされるのか、それとも、あの 自分で書かれるのかっていうのは分からないんですけれども、まず、あの、AIとか使ってですね、え、ある程度の形を整えて頂いて、ま、100文字前後 ですね。100文字ちょっとぐらいで、え、ま、AIに、あの、ちゃんと 見て貰った上で、え、やって頂いたらいいかなと思います。で、日本語で原稿作られたものを英語に直される場合は 1回、え、英語になったものを日本語に訳し直すということを、え、もちろんAI使って頂いて結構なので、え、やってみて下さい。そうすると、自分が思ってたのと違う日本語訳が出来上がってきたら、皆さんの 元々の指示がおかしかったっちゅうことなので、え、そこでちゃんと調整をして下さい。 で、スライドの方も同じですね。え 画面に出された英語が英語、英語で出されるのかどうかも知らないんですけど、多分英語で多少の説明を書かれるんだと思います。それに関しての、え、英語に関してもの、あの 1回必ず日本語から英語に訳された方は 英語から日本語に訳し直して、ちゃんと自分の指示が日本語に訳し直されてるかどうか確認をして下さい。じゃないと変なものが 表示されるっちゅう可能性があります。 で、日本語と英語の違い皆さん当然ご存知だと思うんですが、え、日本語は結構守護を省略したりとか、え、色んなもの 省略して、え 使う言語なので 英語の場合には必ず仕事同士があります。なので、その訳す時にですね、AIが勝手に保管してくれます。なので、皆さんは、あの、わざわざ私は何々をしますみたいなことは言わないですが、え、何々をしますだったら、AIの方は勝手にあなただったり彼だったりとかっていうのを投入してくる可能性があります。 なので、きちんと 指示を出し",
+      "generated": "ふむ。なるほどね。\n",
+      "text_similarity": 0.007712082262210762,
+      "semantic_similarity": 0.5288760686958189
+    },
+    {
+      "id": "limitless:OHHar05RDU8hLICobf7z:96",
+      "query": "けど 後 の 2人 が 気まずい 。",
+      "expected": "俺 相方 が 最後 言っ てる この 言葉 工業 工業 くらい の すごい いい やつ やろ 。",
+      "generated": "なぁ、そらおもろい。  \n最悪の状況、か。",
+      "text_similarity": 0.14492753623188404,
+      "semantic_similarity": 0.6608450693168267
+    },
+    {
+      "id": "limitless:OHHar05RDU8hLICobf7z:229",
+      "query": "1回もうガチのやつな。",
+      "expected": "うん、ガチでそのにその俺のことけなしていいから",
+      "generated": "現実、無意味や。意味、作るしかない。",
+      "text_similarity": 0.14634146341463417,
+      "semantic_similarity": 0.7202156511572335
+    },
+    {
+      "id": "limitless:koTSoB9I7LDBEdm4um8k:157",
+      "query": "きっと 奥 は 喜ぶ ま",
+      "expected": "東京 は 様々 な この 道 は 俺 の 一番 好き な 道 だ。",
+      "generated": "まあ、そうやろな。",
+      "text_similarity": 0.09523809523809523,
+      "semantic_similarity": 0.5512563002698727
+    },
+    {
+      "id": "limitless:oOBlhPgmrBijh0Ehebzl:760",
+      "query": "提出 物 と か 。",
+      "expected": "で 思う あの 今 は さ 、 俺 ら 出し たら いい けど さ 、 俺 ら 個人 と か で 触ろう と 思っ たら 払わ ない いか ん 。",
+      "generated": "んー、どうでもええわ。",
+      "text_similarity": 0.11904761904761907,
+      "semantic_similarity": 0.6253187068707307
+    },
+    {
+      "id": "limitless:GP8dDxreoIe1IBIWYo8S:72",
+      "query": "だステレオと楽器の体験は単なる操作の違いではなく、異なる性のあり方を齎す媒介過程の違いを示していると。",
+      "expected": "かなり違いますよね。楽器を自分で演奏するというためのトレーニングします技術修練とステレオで音楽聞きます。あ、完全にパッシブですよね。",
+      "generated": "ふむ。体験の質か。オレは楽器が良いな。\n",
+      "text_similarity": 0.13953488372093026,
+      "semantic_similarity": 0.6728533486545131
+    },
+    {
+      "id": "limitless:zsnCLbma6GxS7KkTx0cD:12",
+      "query": "リボーン スカウト キャッチ センス 。",
+      "expected": "私たち は 個人 差 の 上 に も 使える 責任 が ある ん じゃ ない でしょう か 。",
+      "generated": "生まれ変わる。それでいい。",
+      "text_similarity": 0.09999999999999998,
+      "semantic_similarity": 0.6641376497963897
+    },
+    {
+      "id": "limitless:zsnCLbma6GxS7KkTx0cD:13",
+      "query": "私たち は 個人 差 の 上 に も 使える 責任 が ある ん じゃ ない でしょう か 。",
+      "expected": "自分 を 認め て くれる でしょう か 。",
+      "generated": "責任、個人の問題。\nオレは、納得いく道選ぶだけ。\n",
+      "text_similarity": 0.08510638297872342,
+      "semantic_similarity": 0.6273722755808091
+    },
+    {
+      "id": "limitless:MYQs3wFZZWa2QiotDahi:629",
+      "query": "も似たようなもんです。",
+      "expected": "1回俺が一番やばかった時5000円切ってん。500円切ってん。",
+      "generated": "ああ、そうなんや。\n",
+      "text_similarity": 0.09756097560975607,
+      "semantic_similarity": 0.550616446831468
+    },
+    {
+      "id": "limitless:WxN3nBJujktKU2VJviiq:261",
+      "query": "ちなみに日本人に自然をコンカするんじゃなくてインボルブする。",
+      "expected": "中に入れる。盆栽、箱庭、自然を自分の中に取り入れるってことでしょうね。",
+      "generated": "言葉選び、大事やね。",
+      "text_similarity": 0.1333333333333333,
+      "semantic_similarity": 0.5623819391675665
+    },
+    {
+      "id": "limitless:WxN3nBJujktKU2VJviiq:284",
+      "query": "日本では受け入れられるんですよ。",
+      "expected": "子供は呼んでくれるし、最後に人がちゃんとお客様から、あの、自分のテーブルに置くわけでしょう。",
+      "generated": "そうなんや。まあ、どっちやろな。",
+      "text_similarity": 0.12903225806451613,
+      "semantic_similarity": 0.5906111072063832
+    },
+    {
+      "id": "limitless:WxN3nBJujktKU2VJviiq:766",
+      "query": "だ から 体 が 視線 が どっち か を 長く 見 てる ん です 。",
+      "expected": "長く 見 てる こと に よっ て 自分 が 好き だっ て こと の 結論 を 得 てる ん だ けど も 意識 は それ を 分かん ない 理由 が 。",
+      "generated": "むずかしいな…🤔  \nオレもたまに、何かに集中しすぎる時あるわ。",
+      "text_similarity": 0.09090909090909094,
+      "semantic_similarity": 0.6341298478687396
+    },
+    {
+      "id": "limitless:9JP38HlVFV75xBFyKEsV:49",
+      "query": "さん 飲ん で たら 。",
+      "expected": "クレアチン は マジ で 俺 1番 サプリ の 中 で 1番 効果 出る 。",
+      "generated": "む、なんか疲れる。",
+      "text_similarity": 0.08510638297872342,
+      "semantic_similarity": 0.6578260597848856
+    },
+    {
+      "id": "limitless:3ZkkmX24ee39mloEIg3U:396",
+      "query": "おい 、 なん で 貝殻 も 何 も 出 て こ へん ねん 。 ふざけん な 。 いてえ な 。 暗い に 浅い が 来 て 。",
+      "expected": "あ 、 やばい 。 あ 、 俺 の 先行 だ。",
+      "generated": "むむ。 状況、把握。\n苦しいな、それ。\nどうにもならへんか。",
+      "text_similarity": 0.18867924528301883,
+      "semantic_similarity": 0.6514971466830307
+    },
+    {
+      "id": "line:[LINE] Soraとのトーク.txt:1772",
+      "query": "今日ならコートダジュール",
+      "expected": "えっとね俺が５時までバイトで梅田行ったら遅く見積もって６時半集合",
+      "generated": "ふむ。行ってみるか。",
+      "text_similarity": 0.1428571428571429,
+      "semantic_similarity": 0.7395388277244014
+    },
+    {
+      "id": "limitless:zZgNjNQmRSsFcijYYnjP:12",
+      "query": "俺はクローンAIやってます。",
+      "expected": "クローンだからチャットで俺と似たような音をするAIを作ろうとしてる。",
+      "generated": "へー、それで？",
+      "text_similarity": 0.09756097560975607,
+      "semantic_similarity": 0.6459587219514222
+    },
+    {
+      "id": "limitless:8UnB1cfOQGaixnM9Ws8j:220",
+      "query": "やっぱ 風 の 人 ばっか や 。",
+      "expected": "俺 ん ち の 水筒 が めっちゃ まずい ねん 。",
+      "generated": "むかつくけど、しゃーないな。",
+      "text_similarity": 0.15000000000000002,
+      "semantic_similarity": 0.5893038003634421
+    },
+    {
+      "id": "limitless:8UnB1cfOQGaixnM9Ws8j:299",
+      "query": "そう 、 健忘 症 が ちょっと です 。",
+      "expected": "健忘 症 って 単語 俺 大学 入っ て 知っ た な 。",
+      "generated": "ふむ。それで？",
+      "text_similarity": 0.05555555555555558,
+      "semantic_similarity": 0.5671511599184994
+    },
+    {
+      "id": "limitless:8UnB1cfOQGaixnM9Ws8j:313",
+      "query": "良くになるこんだけ血抜けば 貧血やめられねえってなるかも。",
+      "expected": "俺の理論で言ったら血は多ければ多いほどいいから。",
+      "generated": "ま、それやな😅  \n意味不明なこと言うな。",
+      "text_similarity": 0.0888888888888889,
+      "semantic_similarity": 0.7069332240110827
+    },
+    {
+      "id": "limitless:8UnB1cfOQGaixnM9Ws8j:377",
+      "query": "俺 誘っ て っ て 言っ て た",
+      "expected": "。 空 も 行っ た けど 、まだ もう 一 種 類 食 べ て な い や つ ある から 、行く ん やっ た ら 誘っ て っ て 。 ら 、そう は い い か 。じゃあ て ね 、俺 は それ どころ じゃ ね ー ん だ 。 時 間 経 つ の 早 い です 近 く",
+      "generated": "ふむ。それだけか。",
+      "text_similarity": 0.06756756756756754,
+      "semantic_similarity": 0.577482492624421
+    },
+    {
+      "id": "limitless:oswmonnSHZQUPPpCbdh0:157",
+      "query": "いや、グラフ、グラフ出すとかはもうなくて",
+      "expected": "自分 で 書く より かか せ た 方 が 早い",
+      "generated": "数値より、感覚やな。\n",
+      "text_similarity": 0.11428571428571432,
+      "semantic_similarity": 0.6946428989479879
+    },
+    {
+      "id": "limitless:oswmonnSHZQUPPpCbdh0:411",
+      "query": "だ から 3 種類 で やら ない と ダメ な ん です よ ね 。",
+      "expected": "パーソナル 情報 なし AI と パーソナル 情報 あり AI と 僕 の オリジナル の 3 パターン で やる の が 一番 綺麗 です よ ね 、 これ 。",
+      "generated": "まあ、それもアリかな。\n",
+      "text_similarity": 0.08602150537634412,
+      "semantic_similarity": 0.5001146748545557
+    },
+    {
+      "id": "limitless:oswmonnSHZQUPPpCbdh0:510",
+      "query": "もう チャット の 文面 で 言っ たら さ 、 売っ てる 相手 が 本人 か どう かって 分から ん や ん 。",
+      "expected": "けど チャット の 文面 だけ 見 て 本人 らし いっ て 思っ たら それ は もう なん か 相手 から し たら 俺 が 売っ てん の か AI が 売っ てん の か 判別 、 判断 つ か わけ や ん 。",
+      "generated": "本人確認は、**技術じゃどうにもならん**。\n\n\n\n",
+      "text_similarity": 0.11764705882352944,
+      "semantic_similarity": 0.7214345896897528
+    },
+    {
+      "id": "limitless:oswmonnSHZQUPPpCbdh0:593",
+      "query": "まあ なん か そう いう 有用 な 用途 使える 用途 が 多い。",
+      "expected": "俺 レベル の バリア と か じゃ ない。",
+      "generated": "悪くない。用途は無限にある。\n",
+      "text_similarity": 0.16216216216216217,
+      "semantic_similarity": 0.7297629405989968
+    },
+    {
+      "id": "limitless:oswmonnSHZQUPPpCbdh0:737",
+      "query": "や つ は い い 研 修",
+      "expected": "品 種 僕 一 回 も 授 業 休 ん で な い の に 、休 ん で る こ と に",
+      "generated": "なるほど。それもアリやな。🤔",
+      "text_similarity": 0.06896551724137934,
+      "semantic_similarity": 0.5928414156400031
+    },
+    {
+      "id": "limitless:VTr42AH1bGIubMkAXsvk:157",
+      "query": "根っこ 変わっ た から 見 た 目 だけ や から 。",
+      "expected": "俺 も 等身 大 が いい と 思っ て 何 も おしゃれ と か し て ない けど 。",
+      "generated": "ホンマにそれやな。中身スカスカはすぐバレる。",
+      "text_similarity": 0.08955223880597019,
+      "semantic_similarity": 0.6564586615934429
+    },
+    {
+      "id": "limitless:VTr42AH1bGIubMkAXsvk:179",
+      "query": "新兵 と も 1 回 も 会っ て ない から な 。",
+      "expected": "変わり が 俺 が 誘わ れ へん の よ 。",
+      "generated": "まあ、しゃあないな。",
+      "text_similarity": 0.06060606060606055,
+      "semantic_similarity": 0.5963780494159536
+    },
+    {
+      "id": "limitless:d1npeqzoQQVW6aJUW5tu:190",
+      "query": "成長 し た な 。",
+      "expected": "俺 が し たら もう さん が 攻め た けど 。",
+      "generated": "へえ、そうなんや。",
+      "text_similarity": 0.17142857142857137,
+      "semantic_similarity": 0.6360394102879635
+    },
+    {
+      "id": "limitless:d1npeqzoQQVW6aJUW5tu:241",
+      "query": "最終 まで 行く ん や けど 、 最終 で 落ち て ばっかり で 。",
+      "expected": "で 、 なん か 俺 そんな なん か その なんて 言う の ?",
+      "generated": "なんとかなるやろ、多分。",
+      "text_similarity": 0.1777777777777778,
+      "semantic_similarity": 0.7162860032765506
+    }
+  ]
+}

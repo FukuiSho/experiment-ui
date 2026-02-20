@@ -1,0 +1,704 @@
+[
+  {
+    "id": 1,
+    "question": "ときどき口汚くののしりたくなります",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 2,
+    "question": "すぐに誰とでも打ち解けて話ができます",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 3,
+    "question": "人に駄目だと思われていなかったら、もっとうまくいっていたはずです。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 4,
+    "question": "健康のことはほとんど気にしません",
+    "response": "そう思わない",
+    "raw_response": "そう思わない。"
+  },
+  {
+    "id": 5,
+    "question": "道で長い間会っていない知人を見かけたとき、向こうが話かけてこない限りは無視して通り過ぎます。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 6,
+    "question": "つきあいは良い方です。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 7,
+    "question": "相手の意見を受け入れます",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 8,
+    "question": "ときどき相手が腹を立てるまで、意地を張ることがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 9,
+    "question": "他の人のように楽しかったらなぁ、と思うときがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 10,
+    "question": "他の人に同情してもらったり助けてもらおうとして、自分の不運を大げさに言う人が多いと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 11,
+    "question": "言い争うと簡単に負けてしまいます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 12,
+    "question": "自分は詰めが甘いなと思うときがあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 13,
+    "question": "他人に真実を理解してもらうためにはたくさん議論する必要があります。",
+    "response": "あまりそう思わない",
+    "raw_response": "あまりそう思わない。"
+  },
+  {
+    "id": 14,
+    "question": "人にからかわれても気にしません。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 15,
+    "question": "ほとんどの人は出世するために嘘をついていると思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 16,
+    "question": "自分との戦いが一番苦労します。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 17,
+    "question": "性格は明るい方だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 18,
+    "question": "機嫌が悪いときは不機嫌な顔をしてしまいます。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 19,
+    "question": "威張り散らす人がいるとその人が正しくても、正反対のことをしたくなります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 20,
+    "question": "ほとんどの人はだまされるのがいやなので正直なのです。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 21,
+    "question": "まわりの人と同じくらい能力があって利口だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 22,
+    "question": "人からよく頼られます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 23,
+    "question": "人はお金や権力のために多少ずるい手段を考えます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 24,
+    "question": "他人に良いことをされると、どんな下心があるのか疑ってしまいます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 25,
+    "question": "人から非難されたり叱られたりすると、とても傷つきます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 26,
+    "question": "私の行動はまわりの人から口出しされることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 27,
+    "question": "むなしいと感じることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 28,
+    "question": "自分は勘が良い方だと思います。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 29,
+    "question": "決心がつかず欲しいものを手に入れ損なうことがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 30,
+    "question": "大事な仕事をしている最中に相談を受けたり邪魔されたりすると不機嫌になります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 31,
+    "question": "毎日、夜は悩みごとを気にしないで眠れます。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 32,
+    "question": "創造的な考え方をします。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 33,
+    "question": "理由もなく罰せられた、と思うことがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 34,
+    "question": "誰かにだまされ一本とられたと感じた時はとても不愉快になります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 35,
+    "question": "疲れやすくはありません。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない"
+  },
+  {
+    "id": 36,
+    "question": "偉い人の近くにいると、自分まで偉くなったような気がします。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 37,
+    "question": "自分は神経質だなと思うことがよくあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 38,
+    "question": "他人にどう思われようが気にしません。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 39,
+    "question": "たとえみんながやっていてもパーティで芸を披露するのは嫌いです。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 40,
+    "question": "内気な性格が顔に出ないようによく苦労します。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 41,
+    "question": "初対面の人と話をするのは骨が折れます。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 42,
+    "question": "何事にも誠実な対応を心がけています。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない。"
+  },
+  {
+    "id": 43,
+    "question": "長い時間、本を読んでも目は疲れません。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 44,
+    "question": "空想にふけることはほとんどありません。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない"
+  },
+  {
+    "id": 45,
+    "question": "こんなに恥ずかしがり屋でなければ良いのにと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 46,
+    "question": "科学が好きです。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 47,
+    "question": "たとえお返しができなくとも友達に助けてもらうのに抵抗はありません。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない"
+  },
+  {
+    "id": 48,
+    "question": "ときどき消極的になることがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 49,
+    "question": "ときどき、少しは無駄話をします。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 50,
+    "question": "かっとなりやすいが、すぐに直ります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 51,
+    "question": "くよくよ考え込みます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 52,
+    "question": "他人に対して協力的な方だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 53,
+    "question": "ひどく落ち着かない時にはじっと座っていることができません。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 54,
+    "question": "自分のやり方はよく他人に誤解されます。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 55,
+    "question": "この世で手にはいるものなら何でも素早く手に入れようとする人をとがめはしません。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 56,
+    "question": "悪いことをする人だと分かっていても親しくなれます。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 57,
+    "question": "物事を楽観的に考える方です。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 58,
+    "question": "誰も信用しない方が安全です。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 59,
+    "question": "人が大勢いると適当な話題を思いつくのに苦労します。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 60,
+    "question": "お人好しにつけ込む人を非難しません。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない。"
+  },
+  {
+    "id": 61,
+    "question": "詐欺師のずるがしこさに感心して、ときどき彼がうまくやれば良いのにと期待します。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 62,
+    "question": "いろいろなことに関心を持っています。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 63,
+    "question": "ほとんどの場合、自分の役に立ちそうだから友達になるのです。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 64,
+    "question": "頭のいい弁護士のおかげで犯人が無罪になるなど、法律に愛想を尽かすことがあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 65,
+    "question": "話しかけられない限りあまり自分からは話しかけません。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 66,
+    "question": "面倒なことが起きた場合は、みんなで意見を一つにして、それに従うのが一番です。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない。"
+  },
+  {
+    "id": 67,
+    "question": "私は他の人にくらべて話しかけやすい方だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 68,
+    "question": "誰かといる時でも孤独を感じることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 69,
+    "question": "まわりの人と同じぐらいすぐに友達ができる方だと思います。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない。"
+  },
+  {
+    "id": 70,
+    "question": "高価なものを放ったままにして人にでき心を起こさせる人は、それを盗む人と同じくらい非難されるべきです。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 71,
+    "question": "ときどき口に出せないような悪いことを考えます。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 72,
+    "question": "ときどき自分は理解力がないなと思うことがあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 73,
+    "question": "誰でも、もめごとにまきこまれないために嘘をついていると思います。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 74,
+    "question": "他の人より相手の思いや期待を察することができる方だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 75,
+    "question": "ほとんどの人は心の底で人助けを嫌っています。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 76,
+    "question": "自分が悩まなくていいことまで悩んでしまうことがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 77,
+    "question": "世話好きだなと感じることがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 78,
+    "question": "人が言ったことをときどき忘れることがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 79,
+    "question": "簡単なことでも、行動する前に考え込まないと気が済みません。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 80,
+    "question": "知人と合わないように道を避けることがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 81,
+    "question": "親切すぎる人には警戒してしまいます。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 82,
+    "question": "他の人とくらべて物怖じしない性格だなと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 83,
+    "question": "自分が傷つけられることがないと分かっていても心配してしまいます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 84,
+    "question": "行動や発言について後で後悔するのが嫌でときどき人を避けることがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 85,
+    "question": "人前を気にする方ではありません。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない"
+  },
+  {
+    "id": 86,
+    "question": "パーティーでは皆と一緒にいるより、一人でいるか誰かと一緒に座っていることが多い。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 87,
+    "question": "困難なことがあってもそれを克服する自信があります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 88,
+    "question": "せっかちだと言われることがあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 89,
+    "question": "自分の発言が他人を傷つけたかも知れないと悩まないでいられたらなと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 90,
+    "question": "私の立てた計画に問題がありあきらめることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 91,
+    "question": "いつも人に助言を求めます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 92,
+    "question": "この先何があるか分からないので真面目に計画が立てられません。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 93,
+    "question": "自分はフットワークが軽い方だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 94,
+    "question": "困難が次々と出てくるのでもうどうしようもないと感じることがあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 95,
+    "question": "人の誤りを正したり、手助けをしたりするとかえって誤解されることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 96,
+    "question": "常に落ち着いていて小さなことでは慌てません。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 97,
+    "question": "ときどき自分が気分屋だなと思うことがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 98,
+    "question": "知人の成功を心の底から喜べません。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 99,
+    "question": "待たされるのは嫌いです。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 100,
+    "question": "外出先で知らない人に見つめられるとうっとうしく思います。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 101,
+    "question": "仲間内で自分のことが話題に上ることはほとんどありません。",
+    "response": "そう思わない",
+    "raw_response": "そう思わない"
+  },
+  {
+    "id": 102,
+    "question": "物事の本質を見抜く方です。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 103,
+    "question": "不機嫌でおこりっぽい性格なので、情けなくなることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 104,
+    "question": "先に思いつかなかったというだけで私のアイデアをねたむ人がいます。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 105,
+    "question": "自分が追い込まれたときは、事実の中から自分に害がなさそうなことだけを話します。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 106,
+    "question": "知らない人に会うのは苦ではありません。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 107,
+    "question": "よく言い訳をしてしまいます。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 108,
+    "question": "分からないことがあっても自分でなんとかやりとげる方です。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 109,
+    "question": "よく緊張します。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 110,
+    "question": "とても無口なため自分の意見を主張できないときがあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  },
+  {
+    "id": 111,
+    "question": "自分の意見は守り通します。",
+    "response": "そう思う",
+    "raw_response": "そう思う。"
+  },
+  {
+    "id": 112,
+    "question": "大勢の人の中で、自分がよく知っていることを議論したり、意見を述べることになってもあまり動揺しません。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 113,
+    "question": "何事も段取りよくこなしていきます。",
+    "response": "そう思う",
+    "raw_response": "そう思う"
+  },
+  {
+    "id": 114,
+    "question": "豪華な家に住みたいと思います。",
+    "response": "どうでもいい。",
+    "raw_response": "どうでもいい。"
+  },
+  {
+    "id": 115,
+    "question": "すでに決心したことでも人の意見ですぐに気が変わります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 116,
+    "question": "どこに物を置いたかを忘れてしまい困ることがよくあります。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う"
+  },
+  {
+    "id": 117,
+    "question": "他の人より声が大きい方だと思います。",
+    "response": "そう思う",
+    "raw_response": "少しそう思う。"
+  }
+]
